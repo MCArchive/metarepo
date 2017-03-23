@@ -254,7 +254,7 @@
         },
         {
             "name": "pr4d-server",
-            "mcvsn": ["1.2.5"],
+            "mcvsn": ["1.1.0"],
             "files": [
                 {
                     "filename": "RedPowerCore-Server-2.0pr4d.zip",
