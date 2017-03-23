@@ -182,6 +182,144 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "pr4d",
+            "mcvsn": ["1.1.0"],
+            "files": [
+                {
+                    "filename": "RedPowerCore-2.0pr4d.zip",
+                    "archived": "4ca33c822324f3f918a4508553027f25947247a2a4a23a857891322fb1bc1c64/RedPowerCore-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "4ca33c822324f3f918a4508553027f25947247a2a4a23a857891322fb1bc1c64" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHv" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerLogic-2.0pr4d.zip",
+                    "archived": "45aa68e9ba42842ee85428e31fa185cb346a3fde20d9ff98a707e9c9411162f2/RedPowerLogic-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "45aa68e9ba42842ee85428e31fa185cb346a3fde20d9ff98a707e9c9411162f2" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHz" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerWiring-2.0pr4d.zip",
+                    "archived": "05ba128e53d7a74666ff285c2d6dbc52384396b526406c0d0d2c88f27a66bd49/RedPowerWiring-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "05ba128e53d7a74666ff285c2d6dbc52384396b526406c0d0d2c88f27a66bd49" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojI6" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerLighting-2.0pr4d.zip",
+                    "archived": "abf3343d5aac3e28c0c3bc8443bea9a73a2cfc34f3bb15bb78a409a73b2ffacf/RedPowerLighting-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "abf3343d5aac3e28c0c3bc8443bea9a73a2cfc34f3bb15bb78a409a73b2ffacf" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHx" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerWorld-2.0pr4d.zip",
+                    "archived": "73a81bceeb2133beeb783dbcef987d246e7599972bdf5169066c94c50a032f25/RedPowerWorld-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "73a81bceeb2133beeb783dbcef987d246e7599972bdf5169066c94c50a032f25" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojIE" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerMachine-2.0pr4d.zip",
+                    "archived": "4f5290552d277583612953163d7a1221041ad24804fab62515108aaf64c6bb5d/RedPowerMachine-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "4f5290552d277583612953163d7a1221041ad24804fab62515108aaf64c6bb5d" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojI1" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerArray-2.0pr4d.zip",
+                    "archived": "ec545e90c55c74badf684998b1f42833928029033b88969c7fb4caf963c03d94/RedPowerArray-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "ec545e90c55c74badf684998b1f42833928029033b88969c7fb4caf963c03d94" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHt" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "pr4d-server",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "RedPowerCore-Server-2.0pr4d.zip",
+                    "archived": "e0a03f1c5ef6752188a54444ab1f7e34b704250592eaf1ab0ab8d9bf7911a53b/RedPowerCore-Server-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "e0a03f1c5ef6752188a54444ab1f7e34b704250592eaf1ab0ab8d9bf7911a53b" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHv" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerLogic-Server-2.0pr4d.zip",
+                    "archived": "651608545b5ee8f8934a67df90f92406247af696cf090d1b360b4552cfc98aae/RedPowerLogic-Server-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "651608545b5ee8f8934a67df90f92406247af696cf090d1b360b4552cfc98aae" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHz" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerWiring-Server-2.0pr4d.zip",
+                    "archived": "7be30800b074138b548eac70c49dc94ddba93b17d3e2a32d61396031d0dcb842/RedPowerWiring-Server-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "7be30800b074138b548eac70c49dc94ddba93b17d3e2a32d61396031d0dcb842" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojI6" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerLighting-Server-2.0pr4d.zip",
+                    "archived": "f3aaa5b2329bde2eb1753387b650328aae306092556c90a0c16e126a9198f68a/RedPowerLighting-Server-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "f3aaa5b2329bde2eb1753387b650328aae306092556c90a0c16e126a9198f68a" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHx" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerWorld-Server-2.0pr4d.zip",
+                    "archived": "df580b716a2c816c8ff3b6a31988ef9d7895904fc9c3e5550a57e538ee65515d/RedPowerWorld-Server-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "df580b716a2c816c8ff3b6a31988ef9d7895904fc9c3e5550a57e538ee65515d" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojIE" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerMachine-Server-2.0pr4d.zip",
+                    "archived": "fbfaafb831d67f3e535095370b6f3d07b4912e6d931bbebdd0114c1188bafad8/RedPowerMachine-Server-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "fbfaafb831d67f3e535095370b6f3d07b4912e6d931bbebdd0114c1188bafad8" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojI1" }
+                    ]
+                },
+                {
+                    "filename": "RedPowerArray-Server-2.0pr4d.zip",
+                    "archived": "5f023172512fd30f6b3c1a335acb640ff813187efa3782bfe1f7f3b07d643bd1/RedPowerArray-Server-2.0pr4d.zip",
+                    "hash": { "type": "sha256", "digest": "5f023172512fd30f6b3c1a335acb640ff813187efa3782bfe1f7f3b07d643bd1" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.eloraam.com/download-redpower/" },
+                        { "type": "original", "url": "http://adf.ly/4ojHt" }
+                    ]
+                }
+            ]
         }
     ]
 }
