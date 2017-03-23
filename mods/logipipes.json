@@ -6,79 +6,101 @@
     "versions": [
         {
             "name": "0.8.3.123",
-            "archived": "a1de6a4349fcc2131360072a40c246fd5a2797ec23ec5db5122bec894e13c780/logisticspipes-0.8.3.123.jar",
-            "filename": "logisticspipes-0.8.3.123.jar",
             "mcvsn": ["1.7.10"],
-            "hash": { "type": "sha256", "digest": "a1de6a4349fcc2131360072a40c246fd5a2797ec23ec5db5122bec894e13c780" },
-            "urls": [
-                { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes1.7/123/" },
-                { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes1.7/123/artifact/build/libs/logisticspipes-0.8.3.123.jar" }
+            "files": [
+                {
+                    "filename": "logisticspipes-0.8.3.123.jar",
+                    "archived": "a1de6a4349fcc2131360072a40c246fd5a2797ec23ec5db5122bec894e13c780/logisticspipes-0.8.3.123.jar",
+                    "hash": { "type": "sha256", "digest": "a1de6a4349fcc2131360072a40c246fd5a2797ec23ec5db5122bec894e13c780" },
+                    "urls": [
+                        { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes1.7/123/" },
+                        { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes1.7/123/artifact/build/libs/logisticspipes-0.8.3.123.jar" }
+                    ]
+                }
             ]
         },
         {
             "name": "0.7.4.dev.294",
-            "archived": "0aaed0768b9574ca76a0b349e1f209318032c5ae37fce02c2cc4862832c9b70e/LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar",
-            "filename": "LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar",
             "mcvsn": ["1.6.4"],
-            "hash": { "type": "sha256", "digest": "0aaed0768b9574ca76a0b349e1f209318032c5ae37fce02c2cc4862832c9b70e" },
-            "urls": [
-                { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes-Dev/294/" },
-                { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes-Dev/294/artifact/build/dist/LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar" }
+            "files": [
+                {
+                    "filename": "LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar",
+                    "archived": "0aaed0768b9574ca76a0b349e1f209318032c5ae37fce02c2cc4862832c9b70e/LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar",
+                    "hash": { "type": "sha256", "digest": "0aaed0768b9574ca76a0b349e1f209318032c5ae37fce02c2cc4862832c9b70e" },
+                    "urls": [
+                        { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes-Dev/294/" },
+                        { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipes-Dev/294/artifact/build/dist/LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar" }
+                    ]
+                }
             ]
         },
         {
             "name": "0.7.3.7",
-            "archived": "dd1d405c54a1340656e4299b3cff5b3cffe7b24ac38d3ca1671d9d6595b365ed/LogisticsPipes-MC1.5.2-0.7.3.7.jar",
-            "filename": "LogisticsPipes-MC1.5.2-0.7.3.7.jar",
             "mcvsn": ["1.5.2"],
-            "hash": { "type": "sha256", "digest": "dd1d405c54a1340656e4299b3cff5b3cffe7b24ac38d3ca1671d9d6595b365ed" },
-            "urls": [
-                { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.5.2/7/" },
-                { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.5.2/7/artifact/build/dist/LogisticsPipes-MC1.5.2-0.7.3.7.jar" }
+            "files": [
+                {
+                    "filename": "LogisticsPipes-MC1.5.2-0.7.3.7.jar",
+                    "archived": "dd1d405c54a1340656e4299b3cff5b3cffe7b24ac38d3ca1671d9d6595b365ed/LogisticsPipes-MC1.5.2-0.7.3.7.jar",
+                    "hash": { "type": "sha256", "digest": "dd1d405c54a1340656e4299b3cff5b3cffe7b24ac38d3ca1671d9d6595b365ed" },
+                    "urls": [
+                        { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.5.2/7/" },
+                        { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.5.2/7/artifact/build/dist/LogisticsPipes-MC1.5.2-0.7.3.7.jar" }
+                    ]
+                }
             ]
         },
         {
             "name": "0.7.0.98",
-            "archived": "40e2e7ab5551a22966cadeb6b0134176d8620724899cf0217860c2cf6a803542/LogisticsPipes-MC1.4.7-0.7.0.98.jar",
-            "filename": "LogisticsPipes-MC1.4.7-0.7.0.98.jar",
             "mcvsn": ["1.4.7"],
-            "hash": { "type": "sha256", "digest": "40e2e7ab5551a22966cadeb6b0134176d8620724899cf0217860c2cf6a803542" },
-            "urls": [
-                { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.4.7/98/" },
-                { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.4.7/98/artifact/build/dist/LogisticsPipes-MC1.4.7-0.7.0.98.jar" }
+            "files": [
+                {
+                    "filename": "LogisticsPipes-MC1.4.7-0.7.0.98.jar",
+                    "archived": "40e2e7ab5551a22966cadeb6b0134176d8620724899cf0217860c2cf6a803542/LogisticsPipes-MC1.4.7-0.7.0.98.jar",
+                    "hash": { "type": "sha256", "digest": "40e2e7ab5551a22966cadeb6b0134176d8620724899cf0217860c2cf6a803542" },
+                    "urls": [
+                        { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.4.7/98/" },
+                        { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.4.7/98/artifact/build/dist/LogisticsPipes-MC1.4.7-0.7.0.98.jar" }
+                    ]
+                }
             ]
         },
         {
             "name": "0.5.1.pre12",
-            "archived": "00788488f657088039ef42935583421258b7767f8acfe64d38fafc435904b7fc/LogisticsPipes-0.5.1.pre12.jar",
-            "filename": "LogisticsPipes-0.5.1.pre12.jar",
             "mcvsn": ["1.3.2"],
-            "hash": { "type": "sha256", "digest": "00788488f657088039ef42935583421258b7767f8acfe64d38fafc435904b7fc" },
-            "urls": [
-                { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.3.2/34/" },
-                { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.3.2/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-0.5.1.pre12.jar" }
+            "files": [
+                {
+                    "filename": "LogisticsPipes-0.5.1.pre12.jar",
+                    "archived": "00788488f657088039ef42935583421258b7767f8acfe64d38fafc435904b7fc/LogisticsPipes-0.5.1.pre12.jar",
+                    "hash": { "type": "sha256", "digest": "00788488f657088039ef42935583421258b7767f8acfe64d38fafc435904b7fc" },
+                    "urls": [
+                        { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.3.2/34/" },
+                        { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.3.2/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-0.5.1.pre12.jar" }
+                    ]
+                }
             ]
         },
         {
             "name": "0.5.0.101-client",
-            "archived": "a39889221eb3f3648c69774809bad61051f98ddc84746f9cc256a77df7d35bda/LogisticsPipes-client-0.5.0.101.jar",
-            "filename": "LogisticsPipes-client-0.5.0.101.jar",
             "mcvsn": ["1.2.5"],
-            "hash": { "type": "sha256", "digest": "a39889221eb3f3648c69774809bad61051f98ddc84746f9cc256a77df7d35bda" },
-            "urls": [
-                { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/101/" },
-                { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-client-0.5.0.101.jar" }
-            ]
-        },
-        {
-            "name": "0.5.0.101-server",
-            "archived": "3146f6a9d7e285f7fd597e1adbe4f3dc2c699765d3e20cf4ef5c3aca521794b8/LogisticsPipes-server-0.5.0.101.jar",
-            "filename": "LogisticsPipes-server-0.5.0.101.jar",
-            "mcvsn": ["1.2.5"],
-            "hash": { "type": "sha256", "digest": "3146f6a9d7e285f7fd597e1adbe4f3dc2c699765d3e20cf4ef5c3aca521794b8" },
-            "urls": [
-                { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/101/" },
-                { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-server-0.5.0.101.jar" }
+            "files": [
+                {
+                    "filename": "LogisticsPipes-client-0.5.0.101.jar",
+                    "archived": "a39889221eb3f3648c69774809bad61051f98ddc84746f9cc256a77df7d35bda/LogisticsPipes-client-0.5.0.101.jar",
+                    "hash": { "type": "sha256", "digest": "a39889221eb3f3648c69774809bad61051f98ddc84746f9cc256a77df7d35bda" },
+                    "urls": [
+                        { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/101/" },
+                        { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-client-0.5.0.101.jar" }
+                    ]
+                },
+                {
+                    "filename": "LogisticsPipes-server-0.5.0.101.jar",
+                    "archived": "3146f6a9d7e285f7fd597e1adbe4f3dc2c699765d3e20cf4ef5c3aca521794b8/LogisticsPipes-server-0.5.0.101.jar",
+                    "hash": { "type": "sha256", "digest": "3146f6a9d7e285f7fd597e1adbe4f3dc2c699765d3e20cf4ef5c3aca521794b8" },
+                    "urls": [
+                        { "type": "page", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/101/" },
+                        { "type": "original", "url": "https://ci.rs485.network/view/Logistics%20Pipes%20Archive/job/LogisticsPipesMC1.2.5/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-server-0.5.0.101.jar" }
+                    ]
+                }
             ]
         }
     ]
