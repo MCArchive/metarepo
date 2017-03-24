@@ -1,0 +1,430 @@
+{
+    "format": 1,
+    "name": "Buildcraft",
+    "authors": ["SpaceToad"],
+    "versions": [
+        {
+            "name": "7.2.8",
+            "mcvsn": ["1.8.9"],
+            "files": [
+                {
+                    "filename": "buildcraft-7.2.8.jar",
+                    "archived": "846a3e4d6efbd5ed93a83dfdb9c07474e68975a44232b30f5cee8200ad357e6c/buildcraft-7.2.8.jar",
+                    "hash": { "type": "sha256", "digest": "846a3e4d6efbd5ed93a83dfdb9c07474e68975a44232b30f5cee8200ad357e6c" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/7.2.8/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/7.2.8/buildcraft-7.2.8.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "7.1.20",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-7.1.20.jar",
+                    "archived": "9e027854024f5f11373a32ef554c87de51480335b8d2208b0c37c995f26290ec/buildcraft-7.1.20.jar",
+                    "hash": { "type": "sha256", "digest": "9e027854024f5f11373a32ef554c87de51480335b8d2208b0c37c995f26290ec" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/7.1.20/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/7.1.20/buildcraft-7.1.20.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "7.0.26",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-7.0.26.jar",
+                    "archived": "b77dd9d16fe2b30c706def0db5e68270c659d15f581ee9de5a44024c45233188/buildcraft-7.0.26.jar",
+                    "hash": { "type": "sha256", "digest": "b77dd9d16fe2b30c706def0db5e68270c659d15f581ee9de5a44024c45233188" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/7.0.26/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/7.0.26/buildcraft-7.0.26.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "6.4.18",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-6.4.18.jar",
+                    "archived": "0eb590515b3ad1dbe41ea7d952d224f7ac65debb448921c5376ce78af4b34d70/buildcraft-6.4.18.jar",
+                    "hash": { "type": "sha256", "digest": "0eb590515b3ad1dbe41ea7d952d224f7ac65debb448921c5376ce78af4b34d70" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.4.18/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.4.18/buildcraft-6.4.18.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "6.3.7",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-6.3.7.jar",
+                    "archived": "1e38c41431394777b1dcad4e75b0b6ca753afc3a44817ea36c6108ade1a6d8ae/buildcraft-6.3.7.jar",
+                    "hash": { "type": "sha256", "digest": "1e38c41431394777b1dcad4e75b0b6ca753afc3a44817ea36c6108ade1a6d8ae" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.3.7/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.3.7/buildcraft-6.3.7.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "6.2.6",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-6.2.6.jar",
+                    "archived": "45c0eb9498010035754d5dd79e5f8f460b3eafa85ef51ab2285f01e208677ad7/buildcraft-6.2.6.jar",
+                    "hash": { "type": "sha256", "digest": "45c0eb9498010035754d5dd79e5f8f460b3eafa85ef51ab2285f01e208677ad7" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.2.6/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.2.6/buildcraft-6.2.6.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "6.1.8",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-6.1.8.jar",
+                    "archived": "c032aa8e0df3a4e8e4fd035a02df3963366b59510db62a4490e6b9915e779d6e/buildcraft-6.1.8.jar",
+                    "hash": { "type": "sha256", "digest": "c032aa8e0df3a4e8e4fd035a02df3963366b59510db62a4490e6b9915e779d6e" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.1.8/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.1.8/buildcraft-6.1.8.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "6.0.18",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-6.0.18.jar",
+                    "archived": "510e5f0fdd4840fdddb9dfd8b526847631e0afef3e7b3fd0ed1961f235c7aafa/buildcraft-6.0.18.jar",
+                    "hash": { "type": "sha256", "digest": "510e5f0fdd4840fdddb9dfd8b526847631e0afef3e7b3fd0ed1961f235c7aafa" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.0.18/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/6.0.18/buildcraft-6.0.18.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "5.0.7",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "buildcraft-5.0.7.jar",
+                    "archived": "9ba4a0bf2cb9f0833aee9acd69f2926808b1613c1312b1e7863bcd794c82f65c/buildcraft-5.0.7.jar",
+                    "hash": { "type": "sha256", "digest": "9ba4a0bf2cb9f0833aee9acd69f2926808b1613c1312b1e7863bcd794c82f65c" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/5.0.7/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/5.0.7/buildcraft-5.0.7.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "4.2.2",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "buildcraft-A-1.6.4-4.2.2.jar",
+                    "archived": "f38995580db06b60b2bd9770ad92805bf5a0a48a8b1bf92a79cbb70a3b2f1005/buildcraft-A-1.6.4-4.2.2.jar",
+                    "hash": { "type": "sha256", "digest": "f38995580db06b60b2bd9770ad92805bf5a0a48a8b1bf92a79cbb70a3b2f1005" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/4.2.2/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/4.2.2/buildcraft-A-1.6.4-4.2.2.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "4.1.2",
+            "mcvsn": ["1.6.2"],
+            "files": [
+                {
+                    "filename": "buildcraft-A-1.6.2-4.1.2.jar",
+                    "archived": "55f5237eab549a5edab45301e4be19588c81764f7463f7b221907e60d1593297/buildcraft-A-1.6.2-4.1.2.jar",
+                    "hash": { "type": "sha256", "digest": "55f5237eab549a5edab45301e4be19588c81764f7463f7b221907e60d1593297" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/4.1.2/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/4.1.2/buildcraft-A-1.6.2-4.1.2.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "4.0.2",
+            "mcvsn": ["1.6.2"],
+            "files": [
+                {
+                    "filename": "buildcraft-A-4.0.2.jar",
+                    "archived": "03557d8dd89743a0a1acd1721e6caa8f4d60aed956376d013cdd6175dd96441f/buildcraft-A-4.0.2.jar",
+                    "hash": { "type": "sha256", "digest": "03557d8dd89743a0a1acd1721e6caa8f4d60aed956376d013cdd6175dd96441f" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/4.0.2/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/4.0.2/buildcraft-A-4.0.2.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "3.4.4",
+            "mcvsn": ["1.4.7"],
+            "files": [
+                {
+                    "filename": "buildcraft-A-1.4.7-3.4.4.jar",
+                    "archived": "ad4760ed509e1a164e75366f01a1840d062f3720e1fa9fbe38941f457934bb82/buildcraft-A-1.4.7-3.4.4.jar",
+                    "hash": { "type": "sha256", "digest": "ad4760ed509e1a164e75366f01a1840d062f3720e1fa9fbe38941f457934bb82" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.4.4/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.4.4/buildcraft-A-1.4.7-3.4.4.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "3.2.2",
+            "mcvsn": ["1.4.5"],
+            "files": [
+                {
+                    "filename": "buildcraft-A-3.2.2.jar",
+                    "archived": "1f1f1e3b813a86852bde097ebfda38d847451a655ed8959db946e7e4d9dfc8bd/buildcraft-A-3.2.2.jar",
+                    "hash": { "type": "sha256", "digest": "1f1f1e3b813a86852bde097ebfda38d847451a655ed8959db946e7e4d9dfc8bd" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.2.2/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.2.2/buildcraft-A-3.2.2.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "3.1.5",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "buildcraft-client-A-core-3.1.5.zip",
+                    "archived": "37baebd2a66fa06c387401dc2582975ddc9bce02d1a6688d21988e346f164e9c/buildcraft-client-A-core-3.1.5.zip",
+                    "hash": { "type": "sha256", "digest": "37baebd2a66fa06c387401dc2582975ddc9bce02d1a6688d21988e346f164e9c" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/buildcraft-client-A-core-3.1.5.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-builders-3.1.5.zip",
+                    "archived": "8bdc1bd2798ef1ead0570f19a61b1db3c776644ffeb2978da28941d976c0a085/buildcraft-client-B-builders-3.1.5.zip",
+                    "hash": { "type": "sha256", "digest": "8bdc1bd2798ef1ead0570f19a61b1db3c776644ffeb2978da28941d976c0a085" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/buildcraft-client-B-builders-3.1.5.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-energy-3.1.5.zip",
+                    "archived": "6589a6a06296ee27438b89bc13d888f7954b93d72d20e10a4084647973474e5b/buildcraft-client-B-energy-3.1.5.zip",
+                    "hash": { "type": "sha256", "digest": "6589a6a06296ee27438b89bc13d888f7954b93d72d20e10a4084647973474e5b" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/buildcraft-client-B-energy-3.1.5.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-factory-3.1.5.zip",
+                    "archived": "d0d6d13c971b326e1a77d55feb85a2bf47899b94a0a6fc81e4ab8c0d6ac8bd17/buildcraft-client-B-factory-3.1.5.zip",
+                    "hash": { "type": "sha256", "digest": "d0d6d13c971b326e1a77d55feb85a2bf47899b94a0a6fc81e4ab8c0d6ac8bd17" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/buildcraft-client-B-factory-3.1.5.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-transport-3.1.5.zip",
+                    "archived": "215e5db27347227055e30545925c359026c3a75646d322994ebbe12e05bfba50/buildcraft-client-B-transport-3.1.5.zip",
+                    "hash": { "type": "sha256", "digest": "215e5db27347227055e30545925c359026c3a75646d322994ebbe12e05bfba50" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/buildcraft-client-B-transport-3.1.5.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-C-silicon-3.1.5.zip",
+                    "archived": "edb6c28956cff3880812d6aea0b00aa0077c043b3cba500de810f2048d975975/buildcraft-client-C-silicon-3.1.5.zip",
+                    "hash": { "type": "sha256", "digest": "edb6c28956cff3880812d6aea0b00aa0077c043b3cba500de810f2048d975975" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.1.5/buildcraft-client-C-silicon-3.1.5.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "3.0.4",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "buildcraft-client-A-core-3.0.4.zip",
+                    "archived": "1a2a061499e1e327fb6d72d0f6f8802536b44142393832041f5e99873a3a1f7a/buildcraft-client-A-core-3.0.4.zip",
+                    "hash": { "type": "sha256", "digest": "1a2a061499e1e327fb6d72d0f6f8802536b44142393832041f5e99873a3a1f7a" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/buildcraft-client-A-core-3.0.4.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-builders-3.0.4.zip",
+                    "archived": "7dd745210f33413a09162f13a3666a5ee1d66c2987a751d51a622bfad93d50c5/buildcraft-client-B-builders-3.0.4.zip",
+                    "hash": { "type": "sha256", "digest": "7dd745210f33413a09162f13a3666a5ee1d66c2987a751d51a622bfad93d50c5" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/buildcraft-client-B-builders-3.0.4.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-energy-3.0.4.zip",
+                    "archived": "3232cde8e50881caef3b032d9f235f1f8674e273a6b680ab2bfa73b095df0b0b/buildcraft-client-B-energy-3.0.4.zip",
+                    "hash": { "type": "sha256", "digest": "3232cde8e50881caef3b032d9f235f1f8674e273a6b680ab2bfa73b095df0b0b" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/buildcraft-client-B-energy-3.0.4.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-factory-3.0.4.zip",
+                    "archived": "719ed36b66306825bd61abdd4c4f69d570407ac027a17f8133eb6f53828af141/buildcraft-client-B-factory-3.0.4.zip",
+                    "hash": { "type": "sha256", "digest": "719ed36b66306825bd61abdd4c4f69d570407ac027a17f8133eb6f53828af141" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/buildcraft-client-B-factory-3.0.4.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-transport-3.0.4.zip",
+                    "archived": "1b702bdff8b7fd5be89ce20b2e808a0a2413ad2b3f677c225e28bf0147029c8c/buildcraft-client-B-transport-3.0.4.zip",
+                    "hash": { "type": "sha256", "digest": "1b702bdff8b7fd5be89ce20b2e808a0a2413ad2b3f677c225e28bf0147029c8c" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/3.0.4/buildcraft-client-B-transport-3.0.4.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2.2.14",
+            "mcvsn": ["unknown"],
+            "files": [
+                {
+                    "filename": "buildcraft-client-A-core-2.2.14.zip",
+                    "archived": "6485943acfd42eaa0968912424ccd35c7da57823d9c61a7ba10027980f037ea8/buildcraft-client-A-core-2.2.14.zip",
+                    "hash": { "type": "sha256", "digest": "6485943acfd42eaa0968912424ccd35c7da57823d9c61a7ba10027980f037ea8" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/buildcraft-client-A-core-2.2.14.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-builders-2.2.14.zip",
+                    "archived": "11570f4c6a316d0a6ea8bf2c18ae69ca64d4cb383fe22933b60d1302c752886c/buildcraft-client-B-builders-2.2.14.zip",
+                    "hash": { "type": "sha256", "digest": "11570f4c6a316d0a6ea8bf2c18ae69ca64d4cb383fe22933b60d1302c752886c" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/buildcraft-client-B-builders-2.2.14.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-energy-2.2.14.zip",
+                    "archived": "412f36ec44f66fddaeecc78f8b342d209a8f5723b3da84e3a6d833f2b4fb1a98/buildcraft-client-B-energy-2.2.14.zip",
+                    "hash": { "type": "sha256", "digest": "412f36ec44f66fddaeecc78f8b342d209a8f5723b3da84e3a6d833f2b4fb1a98" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/buildcraft-client-B-energy-2.2.14.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-factory-2.2.14.zip",
+                    "archived": "ba54e5b865b94484d901c952b65f549cd27ea17a03a4b2895bb6706132c40324/buildcraft-client-B-factory-2.2.14.zip",
+                    "hash": { "type": "sha256", "digest": "ba54e5b865b94484d901c952b65f549cd27ea17a03a4b2895bb6706132c40324" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/buildcraft-client-B-factory-2.2.14.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-transport-2.2.14.zip",
+                    "archived": "a49ba6e230821061d2e8721a4932e4c29a099a52e6a61f7c05d0d4e7d1a69c18/buildcraft-client-B-transport-2.2.14.zip",
+                    "hash": { "type": "sha256", "digest": "a49ba6e230821061d2e8721a4932e4c29a099a52e6a61f7c05d0d4e7d1a69c18" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.2.14/buildcraft-client-B-transport-2.2.14.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2.1.1",
+            "mcvsn": ["unknown"],
+            "files": [
+                {
+                    "filename": "buildcraft-client-A-core-2.1.1.zip",
+                    "archived": "ffb1caa708ae1ced9eb944c4b899d45e31d1047605886594b5c8b91c9a772a00/buildcraft-client-A-core-2.1.1.zip",
+                    "hash": { "type": "sha256", "digest": "ffb1caa708ae1ced9eb944c4b899d45e31d1047605886594b5c8b91c9a772a00" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-client-A-core-2.1.1.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-builders-2.1.1.zip",
+                    "archived": "8414cc61c1db6cb1c439b0e5a1fef4c07a1de93f012f7b09e370ce7fc993e268/buildcraft-client-B-builders-2.1.1.zip",
+                    "hash": { "type": "sha256", "digest": "8414cc61c1db6cb1c439b0e5a1fef4c07a1de93f012f7b09e370ce7fc993e268" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-client-B-builders-2.1.1.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-energy-2.1.1.zip",
+                    "archived": "d3a60c351ba999960264988d6830568a20327723e6abd92e5b4783dbfafd2851/buildcraft-client-B-energy-2.1.1.zip",
+                    "hash": { "type": "sha256", "digest": "d3a60c351ba999960264988d6830568a20327723e6abd92e5b4783dbfafd2851" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-client-B-energy-2.1.1.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-factory-2.1.1.zip",
+                    "archived": "4fee9290f59ad7a5060276f7d2a0c3d81e453698a4bff6f41cfda81937981199/buildcraft-client-B-factory-2.1.1.zip",
+                    "hash": { "type": "sha256", "digest": "4fee9290f59ad7a5060276f7d2a0c3d81e453698a4bff6f41cfda81937981199" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-client-B-factory-2.1.1.zip" }
+                    ]
+                },
+                {
+                    "filename": "buildcraft-client-B-transport-2.1.1.zip",
+                    "archived": "95021eef6874cbf3762a46ecaa967f3b009a4663ec2530a6fcdcea5c704ff7f8/buildcraft-client-B-transport-2.1.1.zip",
+                    "hash": { "type": "sha256", "digest": "95021eef6874cbf3762a46ecaa967f3b009a4663ec2530a6fcdcea5c704ff7f8" },
+                    "urls": [
+                        { "type": "page", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/" },
+                        { "type": "original", "url": "https://www.mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-client-B-transport-2.1.1.zip" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
