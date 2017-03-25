@@ -1,0 +1,200 @@
+{
+    "format": 1,
+    "name": "IndustrialCraft 2",
+    "authors": ["IC2 Dev Team"],
+    "versions": [
+        {
+            "name": "2.6.142-ex110",
+            "mcvsn": ["1.10"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2-2.6.142-ex110.jar",
+                    "archived": "e18093d825749bdca5b8fa1a2a3342fc73347a614d92a7ce0c3b921f7eb70126/industrialcraft-2-2.6.142-ex110.jar",
+                    "hash": { "type": "sha256", "digest": "e18093d825749bdca5b8fa1a2a3342fc73347a614d92a7ce0c3b921f7eb70126" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.10" },
+                        { "type": "original", "url": "http://jenkins.ic2.player.to/job/IC2_110/lastSuccessfulBuild/artifact/build/libs/industrialcraft-2-2.6.182-ex110.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2.5.63-ex19",
+            "mcvsn": ["1.9.4"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2-2.5.63-ex19.jar",
+                    "archived": "10d740360cd91c5b575f15b0242eaac8830b8871087d709b7769f5dee4775436/industrialcraft-2-2.5.63-ex19.jar",
+                    "hash": { "type": "sha256", "digest": "10d740360cd91c5b575f15b0242eaac8830b8871087d709b7769f5dee4775436" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.9.4" },
+                        { "type": "original", "url": "http://jenkins.ic2.player.to/job/IC2_19/lastSuccessfulBuild/artifact/build/libs/industrialcraft-2-2.5.63-ex19.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2.3.263-ex18",
+            "mcvsn": ["1.8.9"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2-2.3.263-ex18.jar",
+                    "archived": "47b7ba099dd696555233445d945038535eaa7640318909e52e6d1147d0f994b9/industrialcraft-2-2.3.263-ex18.jar",
+                    "hash": { "type": "sha256", "digest": "47b7ba099dd696555233445d945038535eaa7640318909e52e6d1147d0f994b9" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.8.9" },
+                        { "type": "original", "url": "http://jenkins.ic2.player.to/job/IC2_18/lastSuccessfulBuild/artifact/build/libs/industrialcraft-2-2.3.263-ex18.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2.2.827",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2-2.2.827-experimental.jar",
+                    "archived": "2c7a4d5ea98f286c84b591c0f4efad564b1dd74a7779d043475794884a3d1ca8/industrialcraft-2-2.2.827-experimental.jar",
+                    "hash": { "type": "sha256", "digest": "2c7a4d5ea98f286c84b591c0f4efad564b1dd74a7779d043475794884a3d1ca8" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.7.10" },
+                        { "type": "original", "url": "http://jenkins.ic2.player.to/job/IC2_experimental/lastSuccessfulBuild/artifact/build/libs/industrialcraft-2-2.2.827-experimental.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2.0.397",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2_2.0.397-experimental.jar",
+                    "archived": "2fb73831900540187af5f63e0da23d2c099ea0491db1a165733207049578bfe0/industrialcraft-2_2.0.397-experimental.jar",
+                    "hash": { "type": "sha256", "digest": "2fb73831900540187af5f63e0da23d2c099ea0491db1a165733207049578bfe0" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.6.4" },
+                        { "type": "original", "url": "http://jenkins.ic2.player.to/job/IC2_experimental/397/artifact/packages/industrialcraft-2_2.0.397-experimental.jar" }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "name": "1.117.385",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2_1.117.385-lf.jar",
+                    "archived": "b67c59b020d33c689a60f962ff173fa0db3e28f99d5ef31452f88bc33a18eb2a/industrialcraft-2_1.117.385-lf.jar",
+                    "hash": { "type": "sha256", "digest": "b67c59b020d33c689a60f962ff173fa0db3e28f99d5ef31452f88bc33a18eb2a" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.5.2" },
+                        { "type": "original", "url": "http://jenkins.ic2.player.to/job/IC2_lf/385/artifact/packages/industrialcraft-2_1.117.385-lf.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.115.231",
+            "mcvsn": ["1.4.7"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2_1.115.231-lf.jar",
+                    "archived": "db0dacaf4b7d4a98c62c8b60cfa6bad0af6ff28fa7572f8533fae28eb9fee513/industrialcraft-2_1.115.231-lf.jar",
+                    "hash": { "type": "sha256", "digest": "db0dacaf4b7d4a98c62c8b60cfa6bad0af6ff28fa7572f8533fae28eb9fee513" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.4.7" },
+                        { "type": "original", "url": "http://jenkins.ic2.player.to/job/IC2_lf/231/artifact/packages/industrialcraft-2_1.115.231-lf.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.106",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2_1.106.jar",
+                    "archived": "c591fb44984051936083c66f3be07061ac3a6c0af70951e683264026750f54cf/industrialcraft-2_1.106.jar",
+                    "hash": { "type": "sha256", "digest": "c591fb44984051936083c66f3be07061ac3a6c0af70951e683264026750f54cf" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.3.2" },
+                        { "type": "original", "url": "http://wiki.industrial-craft.net/Downloadfiles/IndustrialCraft%C2%B2/industrialcraft-2_1.106.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.103",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2-client_1.103.jar",
+                    "archived": "d993095b177b5fea54613cdd085d39536841efc67991d5f93706749cc7a30e67/industrialcraft-2-client_1.103.jar",
+                    "hash": { "type": "sha256", "digest": "d993095b177b5fea54613cdd085d39536841efc67991d5f93706749cc7a30e67" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.2.5" },
+                        { "type": "original", "url": "http://wiki.industrial-craft.net/Downloadfiles/IndustrialCraft%C2%B2/industrialcraft-2-client_1.103.jar" }
+                    ]
+                },
+                {
+                    "filename": "industrialcraft-2-server_1.103.jar",
+                    "archived": "578a3e8c7d780f46716c88665585a89f15aa736c52267dce22653291ab9d7cad/industrialcraft-2-server_1.103.jar",
+                    "hash": { "type": "sha256", "digest": "578a3e8c7d780f46716c88665585a89f15aa736c52267dce22653291ab9d7cad" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.2.5" },
+                        { "type": "original", "url": "http://wiki.industrial-craft.net/Downloadfiles/IndustrialCraft%C2%B2/industrialcraft-2-server_1.103.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.71",
+            "mcvsn": ["1.1.0"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2-client_1.71.jar",
+                    "archived": "fb14b2b4bb09216d9ef08960322eb9412237adb5a7647b09f5151a7601044e23/industrialcraft-2-client_1.71.jar",
+                    "hash": { "type": "sha256", "digest": "fb14b2b4bb09216d9ef08960322eb9412237adb5a7647b09f5151a7601044e23" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.1.0" },
+                        { "type": "original", "url": "http://wiki.industrial-craft.net/Downloadfiles/IndustrialCraft%C2%B2/industrialcraft-2-client_1.71.jar" }
+                    ]
+                },
+                {
+                    "filename": "industrialcraft-2-server_1.71.jar",
+                    "archived": "a8acdb0c227cf6d7fb6cf29e6cf0018cbea1efb2851801383116dabb0fcea300/industrialcraft-2-server_1.71.jar",
+                    "hash": { "type": "sha256", "digest": "a8acdb0c227cf6d7fb6cf29e6cf0018cbea1efb2851801383116dabb0fcea300" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.1.0" },
+                        { "type": "original", "url": "http://wiki.industrial-craft.net/Downloadfiles/IndustrialCraft%C2%B2/industrialcraft-2-server_1.71.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.43",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "industrialcraft-2-client_1.43.jar",
+                    "archived": "d0afc5835fd41aaa4a5a466deb90799b9e2976ce3061cceefa005ad638b797b3/industrialcraft-2-client_1.43.jar",
+                    "hash": { "type": "sha256", "digest": "d0afc5835fd41aaa4a5a466deb90799b9e2976ce3061cceefa005ad638b797b3" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.0.0" },
+                        { "type": "original", "url": "http://wiki.industrial-craft.net/Downloadfiles/IndustrialCraft%C2%B2/industrialcraft-2-client_1.43.jar" }
+                    ]
+                },
+                {
+                    "filename": "industrialcraft-2-server_1.43.jar",
+                    "archived": "346000c74109da2feaf85fca3d96efe4fc0dc82ec45f6ef000c09ea471b51e8d/industrialcraft-2-server_1.43.jar",
+                    "hash": { "type": "sha256", "digest": "346000c74109da2feaf85fca3d96efe4fc0dc82ec45f6ef000c09ea471b51e8d" },
+                    "urls": [
+                        { "type": "page", "url": "http://wiki.industrial-craft.net/?title=Download#Download_IC.C2.B2_for_Minecraft.C2.A01.0.0" },
+                        { "type": "original", "url": "http://wiki.industrial-craft.net/Downloadfiles/IndustrialCraft%C2%B2/industrialcraft-2-server_1.43.jar" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
