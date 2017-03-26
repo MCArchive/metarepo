@@ -1,0 +1,44 @@
+{
+    "format": 1,
+    "name": "Equivalent Exchange",
+    "authors": ["x3n0ph0b3"],
+    "desc": "The original Equivalent Exchange. Files were taken from the Technic pack.",
+    "versions": [
+        {
+            "name": "6.22",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "ee-v6.22.zip",
+                    "archived": "8dea804508b91c02d4f511b716f2d9021dd6c312b911eb8ad5b5926460ccaac9/ee-v6.22.zip",
+                    "hash": { "type": "sha256", "digest": "8dea804508b91c02d4f511b716f2d9021dd6c312b911eb8ad5b5926460ccaac9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "6.18",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "ee-v6.18.zip",
+                    "archived": "81bb54afb21091742287e441c2cc1ab134281e49277e8e9e352352369a05e719/ee-v6.18.zip",
+                    "hash": { "type": "sha256", "digest": "81bb54afb21091742287e441c2cc1ab134281e49277e8e9e352352369a05e719" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "5.7.3",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "ee-v5.7.3.zip",
+                    "archived": "f3a7b469e5d7cb0b8482005b011d5daec31a5c7c16eae261ab990ff056b7d6e6/ee-v5.7.3.zip",
+                    "hash": { "type": "sha256", "digest": "f3a7b469e5d7cb0b8482005b011d5daec31a5c7c16eae261ab990ff056b7d6e6" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
