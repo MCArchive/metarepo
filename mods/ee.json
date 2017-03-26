@@ -65,6 +65,19 @@
                     "urls": []
                 }
             ]
+        },
+        {
+            "name": "1.15",
+            "mcvsn": ["b1.6.6"],
+            "desc": "Requires ModLoader. AudioMod required for sounds.",
+            "files": [
+                {
+                    "filename": "ee-v1.15.zip",
+                    "archived": "e58565b1e0fba6b40147e64716aaf3917ce14aaa71dd9c63d2e97719da1d881e/ee-v1.15.zip",
+                    "hash": { "type": "sha256", "digest": "e58565b1e0fba6b40147e64716aaf3917ce14aaa71dd9c63d2e97719da1d881e" },
+                    "urls": []
+                }
+            ]
         }
     ]
 }
