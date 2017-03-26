@@ -39,6 +39,32 @@
                     "urls": []
                 }
             ]
+        },
+        {
+            "name": "3.53",
+            "mcvsn": ["b1.7.3"],
+            "desc": "Requires ModLoader and ItemSpriteAPI. AudioMod required for sounds.",
+            "files": [
+                {
+                    "filename": "ee-v3.53.zip",
+                    "archived": "894a8407b80e90772e46199f75ba05f0eda095ead4bb7173e4c4d4f0d57a8e0e/ee-v3.53.zip",
+                    "hash": { "type": "sha256", "digest": "894a8407b80e90772e46199f75ba05f0eda095ead4bb7173e4c4d4f0d57a8e0e" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.08b",
+            "mcvsn": ["b1.7.3"],
+            "desc": "Requires ModLoader. AudioMod required for sounds.",
+            "files": [
+                {
+                    "filename": "ee-v2.08b.zip",
+                    "archived": "fdb6a12235f6cbdf2f1a2f8e5b30ea4f9f1acde7367beec07857506cb7d0ccd5/ee-v2.08b.zip",
+                    "hash": { "type": "sha256", "digest": "fdb6a12235f6cbdf2f1a2f8e5b30ea4f9f1acde7367beec07857506cb7d0ccd5" },
+                    "urls": []
+                }
+            ]
         }
     ]
 }
