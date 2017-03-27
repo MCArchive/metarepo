@@ -9,6 +9,7 @@
             "files": [
                 {
                     "filename": "IndustrialCraft_v8.55_02.zip",
+                    "archived": "aa77e2f6a535e9446c2b003d9631df26e93a7cb10b1e2d81b55608e2d4311b4a/IndustrialCraft_v8.55_02.zip",
                     "hash": { "type": "sha256", "digest": "aa77e2f6a535e9446c2b003d9631df26e93a7cb10b1e2d81b55608e2d4311b4a" },
                     "urls": [
                         { "type": "page", "url": "http://wiki.industrial-craft.net/index.php?title=Download#Download_IC_for_Minecraft_Beta_1.7.3" },
@@ -23,6 +24,7 @@
             "files": [
                 {
                     "filename": "IndustrialCraft_v7.20.zip",
+                    "archived": "b4a85c5767f5727617cb9f985803bad19263b6e0984cace78f836f8535f583dc/IndustrialCraft_v7.20.zip",
                     "hash": { "type": "sha256", "digest": "b4a85c5767f5727617cb9f985803bad19263b6e0984cace78f836f8535f583dc" },
                     "urls": [
                         { "type": "page", "url": "http://wiki.industrial-craft.net/index.php?title=Download#Download_IC_for_Minecraft_Beta_1.6.6" },
@@ -37,6 +39,7 @@
             "files": [
                 {
                     "filename": "IndustrialCraft_v7.04.zip",
+                    "archived": "3f3d8c148ef91336adaaa6efefe366bf88bab90791af2ca9f2544030d173977d/IndustrialCraft_v7.04.zip",
                     "hash": { "type": "sha256", "digest": "3f3d8c148ef91336adaaa6efefe366bf88bab90791af2ca9f2544030d173977d" },
                     "urls": [
                         { "type": "page", "url": "http://wiki.industrial-craft.net/index.php?title=Download#Download_IC_for_Minecraft_Beta_1.5_01" },
@@ -47,10 +50,12 @@
         },
         {
             "name": "6.37",
+            "desc": "Multiplayer compatible",
             "mcvsn": ["b1.4_01"],
             "files": [
                 {
                     "filename": "IndustrialCraft_v6.37.zip",
+                    "archived": "2ddc47ec29dca2f9fe6e220b8e37bd92518ac0f7b7a1639683b482206b920776/IndustrialCraft_v6.37.zip",
                     "hash": { "type": "sha256", "digest": "2ddc47ec29dca2f9fe6e220b8e37bd92518ac0f7b7a1639683b482206b920776" },
                     "urls": [
                         { "type": "page", "url": "http://wiki.industrial-craft.net/index.php?title=Download#Download_IC_for_Minecraft_Beta_1.4_01_.28Multiplayer_compatible.29" },
@@ -61,10 +66,12 @@
         },
         {
             "name": "5.43",
+            "desc": "Singleplayer only",
             "mcvsn": ["b1.4_01"],
             "files": [
                 {
                     "filename": "IndustrialCraft_v5.43.zip",
+                    "archived": "b638415dc78da4cea0a8b7aaffdadab46805fea3803be927afd74efa6b926126/IndustrialCraft_v5.43.zip",
                     "hash": { "type": "sha256", "digest": "b638415dc78da4cea0a8b7aaffdadab46805fea3803be927afd74efa6b926126" },
                     "urls": [
                         { "type": "page", "url": "http://wiki.industrial-craft.net/index.php?title=Download#Download_IC_for_Minecraft_Beta_1.4_01_.28Singleplayer_only.29" },
@@ -79,6 +86,7 @@
             "files": [
                 {
                     "filename": "IndustrialCraft_v5.12.zip",
+                    "archived": "bf674acdfa290ac74b0666d9a1df4f8b59232f5ec75c7f4d441d4d8a373ae656/IndustrialCraft_v5.12.zip",
                     "hash": { "type": "sha256", "digest": "bf674acdfa290ac74b0666d9a1df4f8b59232f5ec75c7f4d441d4d8a373ae656" },
                     "urls": [
                         { "type": "page", "url": "http://wiki.industrial-craft.net/index.php?title=Download#Download_IC_for_Minecraft_Beta_1.4" },
@@ -93,6 +101,7 @@
             "files": [
                 {
                     "filename": "IndustrialCraft_v4.73.zip",
+                    "archived": "154cb7b272f68668d2497109cc15da9f6e5a914cac81d6175daea6ba452de6a4/IndustrialCraft_v4.73.zip",
                     "hash": { "type": "sha256", "digest": "154cb7b272f68668d2497109cc15da9f6e5a914cac81d6175daea6ba452de6a4" },
                     "urls": [
                         { "type": "page", "url": "http://wiki.industrial-craft.net/index.php?title=Download#Download_IC_for_Minecraft_Beta_1.3_01" },
@@ -100,6 +109,6 @@
                     ]
                 }
             ]
-        },
+        }
     ]
 }
