@@ -9,6 +9,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.2.4.zip",
+                    "archived": "0f9bb79149f95061bee539a3120d820043e84ed8747e9ca98756fc34e40b7d7d/ModLoader 1.2.4.zip",
                     "hash": { "type": "sha256", "digest": "0f9bb79149f95061bee539a3120d820043e84ed8747e9ca98756fc34e40b7d7d" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -23,6 +24,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.2.3.zip",
+                    "archived": "3d3fbbd5cefe409c9c7328a57c4cd854e72d7a6dce6e829e2120c0ad5e1a5f63/ModLoader 1.2.3.zip",
                     "hash": { "type": "sha256", "digest": "3d3fbbd5cefe409c9c7328a57c4cd854e72d7a6dce6e829e2120c0ad5e1a5f63" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -37,6 +39,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.1.zip",
+                    "archived": "b56d925adc210773e4b2390f8189e16456910da4bcd4276b492bb382ea04f079/ModLoader 1.1.zip",
                     "hash": { "type": "sha256", "digest": "b56d925adc210773e4b2390f8189e16456910da4bcd4276b492bb382ea04f079" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -51,6 +54,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.0.0.zip",
+                    "archived": "0abd012bcfd536522d50ac642080d6164cd6cdc22629386a0e8e1fafa2e7cd99/ModLoader 1.0.0.zip",
                     "hash": { "type": "sha256", "digest": "0abd012bcfd536522d50ac642080d6164cd6cdc22629386a0e8e1fafa2e7cd99" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -65,6 +69,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.7.3.zip",
+                    "archived": "78bc1107a2ae78334d1086c7f372601c141b53345f23ce73931ef318df5cf83e/ModLoader B1.7.3.zip",
                     "hash": { "type": "sha256", "digest": "78bc1107a2ae78334d1086c7f372601c141b53345f23ce73931ef318df5cf83e" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -79,6 +84,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.6.6.zip",
+                    "archived": "15262e652abcf8b925909e867821575cf25a17bc8217dbc281a20ce166a3f6b9/ModLoader B1.6.6.zip",
                     "hash": { "type": "sha256", "digest": "15262e652abcf8b925909e867821575cf25a17bc8217dbc281a20ce166a3f6b9" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -93,6 +99,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.6.5.zip",
+                    "archived": "4d4ff139fca19feef2714a1cd00bd3a9d8007a1d9b76caf46259ae4310262417/ModLoader B1.6.5.zip",
                     "hash": { "type": "sha256", "digest": "4d4ff139fca19feef2714a1cd00bd3a9d8007a1d9b76caf46259ae4310262417" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -107,6 +114,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.6.4.zip",
+                    "archived": "fffb3f021b3bc5a0017e24d98786df63434f36f8a009553a2e410666156207e6/ModLoader B1.6.4.zip",
                     "hash": { "type": "sha256", "digest": "fffb3f021b3bc5a0017e24d98786df63434f36f8a009553a2e410666156207e6" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -121,6 +129,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.5_01v4.zip",
+                    "archived": "c20df06b803903de5f7768107c27c80bbdbeb896003a93391432cf29bb7110cd/ModLoader B1.5_01v4.zip",
                     "hash": { "type": "sha256", "digest": "c20df06b803903de5f7768107c27c80bbdbeb896003a93391432cf29bb7110cd" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -135,6 +144,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.4_01.zip",
+                    "archived": "a1fdf3b4698bfe1d29c8b9ec9f40905d9b436f19d9d630b4ace6b133cbf3560f/ModLoader B1.4_01.zip",
                     "hash": { "type": "sha256", "digest": "a1fdf3b4698bfe1d29c8b9ec9f40905d9b436f19d9d630b4ace6b133cbf3560f" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -149,6 +159,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.4v2.zip",
+                    "archived": "d0c691d6cd99b98fb179e9affe090bc7957949bd0fe4027a7bb38e175652b676/ModLoader B1.4v2.zip",
                     "hash": { "type": "sha256", "digest": "d0c691d6cd99b98fb179e9affe090bc7957949bd0fe4027a7bb38e175652b676" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -163,6 +174,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.3_01v5.zip",
+                    "archived": "b628f9fa608888f4d3c47c360a9c40c5b7a32eba52e9679f717f613548edc2c0/ModLoader B1.3_01v5.zip",
                     "hash": { "type": "sha256", "digest": "b628f9fa608888f4d3c47c360a9c40c5b7a32eba52e9679f717f613548edc2c0" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -177,6 +189,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.3.zip",
+                    "archived": "96d9360b4aa70a531ca25fbf8ccc4bf4eb05d3b1087a17adaf6dd6881bd17ff8/ModLoader B1.3.zip",
                     "hash": { "type": "sha256", "digest": "96d9360b4aa70a531ca25fbf8ccc4bf4eb05d3b1087a17adaf6dd6881bd17ff8" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -191,6 +204,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.2_02v4.zip",
+                    "archived": "c5b3a4d72da03fcee9f8359c4c37f79f8a574d8b5987a849c35cbd4f79c9a87b/ModLoader B1.2_02v4.zip",
                     "hash": { "type": "sha256", "digest": "c5b3a4d72da03fcee9f8359c4c37f79f8a574d8b5987a849c35cbd4f79c9a87b" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -205,6 +219,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.2_01.rar",
+                    "archived": "143c92cf3774d4ab488785ecc50dbeb59948b58dfd7da348383e1e48f7b73270/ModLoader B1.2_01.rar",
                     "hash": { "type": "sha256", "digest": "143c92cf3774d4ab488785ecc50dbeb59948b58dfd7da348383e1e48f7b73270" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -219,6 +234,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.2.rar",
+                    "archived": "e7b9668b92a1dacff255ad1d8147e9c480ceb6c6e656cce65827afe94bf952be/ModLoader B1.2.rar",
                     "hash": { "type": "sha256", "digest": "e7b9668b92a1dacff255ad1d8147e9c480ceb6c6e656cce65827afe94bf952be" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -233,6 +249,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.1_02v2.rar",
+                    "archived": "5ed56f5e3ea796a4f23e7c2185f5417150710257b4f089510defa6b81109ec47/ModLoader B1.1_02v2.rar",
                     "hash": { "type": "sha256", "digest": "5ed56f5e3ea796a4f23e7c2185f5417150710257b4f089510defa6b81109ec47" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -247,6 +264,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.0_01.rar",
+                    "archived": "afb4e56640145d60ccf20a1d8492d6d4a995126db3c845dae20a1aabecb54cf1/ModLoader B1.0_01.rar",
                     "hash": { "type": "sha256", "digest": "afb4e56640145d60ccf20a1d8492d6d4a995126db3c845dae20a1aabecb54cf1" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -261,6 +279,7 @@
             "files": [
                 {
                     "filename": "ModLoader A1.2.6v2.rar",
+                    "archived": "788b0f19fa38b62e3c6afdb55aefdc0976e5993f90e30389af542040310cd546/ModLoader A1.2.6v2.rar",
                     "hash": { "type": "sha256", "digest": "788b0f19fa38b62e3c6afdb55aefdc0976e5993f90e30389af542040310cd546" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -275,6 +294,7 @@
             "files": [
                 {
                     "filename": "ModLoader A1.2.5.rar",
+                    "archived": "9167d88033a20f89fd8d9dbf56902122dc95e091d33365e84c23f286192ae8aa/ModLoader A1.2.5.rar",
                     "hash": { "type": "sha256", "digest": "9167d88033a20f89fd8d9dbf56902122dc95e091d33365e84c23f286192ae8aa" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
@@ -289,6 +309,7 @@
             "files": [
                 {
                     "filename": "ModLoader A1.2.4_01.rar",
+                    "archived": "400ef249e04915b71df2630f1bacc38c9701b1d205055075c46f95b518ae786b/ModLoader A1.2.4_01.rar",
                     "hash": { "type": "sha256", "digest": "400ef249e04915b71df2630f1bacc38c9701b1d205055075c46f95b518ae786b" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
