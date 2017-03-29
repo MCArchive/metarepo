@@ -485,6 +485,50 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "a1.2.3_04",
+            "mcvsn": ["a1.2.3_04"],
+            "files": [
+                {
+                    "filename": "ModLoader A1.2.3_04.zip",
+                    "hash": { "type": "sha256", "digest": "5c44c13470829c304a84823af4547362065f5252c070510eea2e5f4580ac09b2" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.2",
+            "mcvsn": ["a1.2.2"],
+            "files": [
+                {
+                    "filename": "ModLoader A1.2.2.rar",
+                    "hash": { "type": "sha256", "digest": "3907e96b5d1a66e872d6eb20045cfd2794c20b03cd9b6e6c418776867124b13b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.1_01",
+            "mcvsn": ["a1.2.1_01"],
+            "files": [
+                {
+                    "filename": "ModLoader A1.2.1_01.rar",
+                    "hash": { "type": "sha256", "digest": "b06c0cb8f3524ed3ecaecc97a450df6697af10c7a51b5b5f2b6b59860752b537" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.0_02",
+            "mcvsn": ["a1.2.0_02"],
+            "files": [
+                {
+                    "filename": "ModLoader A1.2.0_02.rar",
+                    "hash": { "type": "sha256", "digest": "f3fc94a79a2a431889f4679237e93eb90da2c0082ede0acf4e80791da46c2e07" },
+                    "urls": []
+                }
+            ]
         }
     ]
 }
