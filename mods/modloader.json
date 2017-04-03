@@ -9,6 +9,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.6.2.zip",
+                    "ipfs": "QmRyGnM3XdvQ6CKt6A7da3MweYQjhMVcdp9tcJvDdb5Rgi",
                     "archived": "0b14f5e261c9862989aa74313b59188cce10bea6724bae31130ce1e8e6a1c060/ModLoader 1.6.2.zip",
                     "hash": { "type": "sha256", "digest": "0b14f5e261c9862989aa74313b59188cce10bea6724bae31130ce1e8e6a1c060" },
                     "urls": []
@@ -21,6 +22,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.6.1.zip",
+                    "ipfs": "QmSj9qqfYqbs4Qe684XvgmWXUZgF4oekDHXj3u423szVT9",
                     "archived": "95fc5afdd9cc14d85cb41225fb689d7994f5994287ed9595e192026c06e7b536/ModLoader 1.6.1.zip",
                     "hash": { "type": "sha256", "digest": "95fc5afdd9cc14d85cb41225fb689d7994f5994287ed9595e192026c06e7b536" },
                     "urls": []
@@ -33,6 +35,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.5.2.zip",
+                    "ipfs": "QmbEL8pbovv83S9pS9r2ydbVL3wmqhsCiHNA3JshkeKKQr",
                     "archived": "0c355696c2f3ba405bb1f0f845dc51a6613c121eac25a6c7bc9d8046f2c941df/ModLoader 1.5.2.zip",
                     "hash": { "type": "sha256", "digest": "0c355696c2f3ba405bb1f0f845dc51a6613c121eac25a6c7bc9d8046f2c941df" },
                     "urls": []
@@ -45,6 +48,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.5.1.zip",
+                    "ipfs": "QmYahvL2YHz2wfiJdVHAGRML2R3t36KPm4xESwduhmmsmB",
                     "archived": "af7d7bca70b8bc08c75e96ec90a25432682dfc825aa4fe35485dcb390b1f7014/ModLoader 1.5.1.zip",
                     "hash": { "type": "sha256", "digest": "af7d7bca70b8bc08c75e96ec90a25432682dfc825aa4fe35485dcb390b1f7014" },
                     "urls": []
@@ -57,6 +61,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.5.zip",
+                    "ipfs": "QmYyoNa8cW3xEC9SrM2poDn1eK6xeUqtKrufaUg1Gz2Gwa",
                     "archived": "597d4d437a250986da84a9c7aee3ea653739608caf1d4a208f2006d8cbdfbc3d/ModLoader 1.5.zip",
                     "hash": { "type": "sha256", "digest": "597d4d437a250986da84a9c7aee3ea653739608caf1d4a208f2006d8cbdfbc3d" },
                     "urls": []
@@ -69,6 +74,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.4.7.zip",
+                    "ipfs": "QmSp2JJVKeqLseyevNU322rtNttnENeDNLfkUX3SgnfoWy",
                     "archived": "685ead73c19531cf24062c7536737663421ed4170cfa582baddbbf6cba1544d2/ModLoader 1.4.7.zip",
                     "hash": { "type": "sha256", "digest": "685ead73c19531cf24062c7536737663421ed4170cfa582baddbbf6cba1544d2" },
                     "urls": []
@@ -81,6 +87,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.4.6.zip",
+                    "ipfs": "QmQfGLRRV4m92p8HjVnem2nddCjzrKi6cwWto8CmrgEkAV",
                     "archived": "f69b1f99b76c23cc1e076197375996e3b79feb369952ac692630f7b063709d5f/ModLoader 1.4.6.zip",
                     "hash": { "type": "sha256", "digest": "f69b1f99b76c23cc1e076197375996e3b79feb369952ac692630f7b063709d5f" },
                     "urls": []
@@ -93,6 +100,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.4.5.zip",
+                    "ipfs": "Qmf5yYSKcj14efxKznSFxxKaBEdncw1fmEG4DfpeXJcNKP",
                     "archived": "885b62bde6231b04d0189a06b082edfa48ea1474f22a5502ab40288563036b42/ModLoader 1.4.5.zip",
                     "hash": { "type": "sha256", "digest": "885b62bde6231b04d0189a06b082edfa48ea1474f22a5502ab40288563036b42" },
                     "urls": []
@@ -105,6 +113,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.4.4.zip",
+                    "ipfs": "Qmdm5BtWk8LsVFnkC3wN5GCpZtfhfRAqbL9VeetBvEyAb1",
                     "archived": "7d39b6d5e41bcd77edabd0aca3b43a10861a65ee9c2f9b358cedf8382d69c14e/ModLoader 1.4.4.zip",
                     "hash": { "type": "sha256", "digest": "7d39b6d5e41bcd77edabd0aca3b43a10861a65ee9c2f9b358cedf8382d69c14e" },
                     "urls": []
@@ -117,6 +126,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.4.2.zip",
+                    "ipfs": "Qmf23cwMooxskfxs96rBqBa55EySgN1S4WwSSpaqs2yczT",
                     "archived": "861324b55c40e4af622e2a987c3c20ed4eb869ea89a004c93222058e394baec4/ModLoader 1.4.2.zip",
                     "hash": { "type": "sha256", "digest": "861324b55c40e4af622e2a987c3c20ed4eb869ea89a004c93222058e394baec4" },
                     "urls": []
@@ -129,6 +139,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.3.2.zip",
+                    "ipfs": "QmUecG9CM6nYifxziMHG78RL2JAWkdoxyBoaRuK96mUcpK",
                     "archived": "01a28a0a3d05634ce8745d34738b0617ddb285ad1584fb668874892c61e489eb/ModLoader 1.3.2.zip",
                     "hash": { "type": "sha256", "digest": "01a28a0a3d05634ce8745d34738b0617ddb285ad1584fb668874892c61e489eb" },
                     "urls": []
@@ -141,6 +152,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.3.1.zip",
+                    "ipfs": "QmS68M9AZ3gbfWAGB5fLszvw8Yy3PY3MS2gaju8SV1quR5",
                     "archived": "511881d7432cf740b753180a645ca6abb7cd63d09813e0089485c125d52c09a0/ModLoader 1.3.1.zip",
                     "hash": { "type": "sha256", "digest": "511881d7432cf740b753180a645ca6abb7cd63d09813e0089485c125d52c09a0" },
                     "urls": []
@@ -153,6 +165,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.2.5.zip",
+                    "ipfs": "QmUyRQhqe2xTHBc1k4biDt7DVtgBwBKHq6qwptq8ZiGaym",
                     "archived": "219370a86a15bfef8ff91f51fdd151e99391b771759183b19f72197452a28b79/ModLoader 1.2.5.zip",
                     "hash": { "type": "sha256", "digest": "219370a86a15bfef8ff91f51fdd151e99391b771759183b19f72197452a28b79" },
                     "urls": []
@@ -165,6 +178,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.2.4.zip",
+                    "ipfs": "QmXLP5QGQoJ26eifxXosWTy4YsbbHgiAoWN54qxcaVEvhK",
                     "archived": "0f9bb79149f95061bee539a3120d820043e84ed8747e9ca98756fc34e40b7d7d/ModLoader 1.2.4.zip",
                     "hash": { "type": "sha256", "digest": "0f9bb79149f95061bee539a3120d820043e84ed8747e9ca98756fc34e40b7d7d" },
                     "urls": [
@@ -180,6 +194,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.2.3.zip",
+                    "ipfs": "QmbhaKjgzysz4eWNHCxaYcL5Hx9VL3yP7Ng7oQu3WDc5BV",
                     "archived": "3d3fbbd5cefe409c9c7328a57c4cd854e72d7a6dce6e829e2120c0ad5e1a5f63/ModLoader 1.2.3.zip",
                     "hash": { "type": "sha256", "digest": "3d3fbbd5cefe409c9c7328a57c4cd854e72d7a6dce6e829e2120c0ad5e1a5f63" },
                     "urls": [
@@ -195,6 +210,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.1.zip",
+                    "ipfs": "QmSJfwGVfKZJSga3iTjkQqckgfRqHmKYjbaDxRUBMcHsbr",
                     "archived": "b56d925adc210773e4b2390f8189e16456910da4bcd4276b492bb382ea04f079/ModLoader 1.1.zip",
                     "hash": { "type": "sha256", "digest": "b56d925adc210773e4b2390f8189e16456910da4bcd4276b492bb382ea04f079" },
                     "urls": [
@@ -210,6 +226,7 @@
             "files": [
                 {
                     "filename": "ModLoader 1.0.0.zip",
+                    "ipfs": "QmQJiA5UCVERGbURcUFbDBc9c8LyF8aiREsqLiWWAUstgq",
                     "archived": "0abd012bcfd536522d50ac642080d6164cd6cdc22629386a0e8e1fafa2e7cd99/ModLoader 1.0.0.zip",
                     "hash": { "type": "sha256", "digest": "0abd012bcfd536522d50ac642080d6164cd6cdc22629386a0e8e1fafa2e7cd99" },
                     "urls": [
@@ -225,6 +242,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.8.1.zip",
+                    "ipfs": "QmdZjqFMi7twLzoNBXWDwvV49JPuzHR3GSaDrKfv5siuoj",
                     "archived": "4135de0b0fddf6f9b39761a5261b82dae278b311237ec1cd936911b0b133919e/ModLoader B1.8.1.zip",
                     "hash": { "type": "sha256", "digest": "4135de0b0fddf6f9b39761a5261b82dae278b311237ec1cd936911b0b133919e" },
                     "urls": []
@@ -237,6 +255,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.7.3.zip",
+                    "ipfs": "QmSUUaNu8FceVZeAFzTEtAKiUE63vcwKdQ46a1rZFFANw9",
                     "archived": "78bc1107a2ae78334d1086c7f372601c141b53345f23ce73931ef318df5cf83e/ModLoader B1.7.3.zip",
                     "hash": { "type": "sha256", "digest": "78bc1107a2ae78334d1086c7f372601c141b53345f23ce73931ef318df5cf83e" },
                     "urls": [
@@ -252,6 +271,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.6.6.zip",
+                    "ipfs": "Qme3edsL5icwKchkN2d8DUgJHmZNA9Qe1g4NoWPoaqYaSP",
                     "archived": "15262e652abcf8b925909e867821575cf25a17bc8217dbc281a20ce166a3f6b9/ModLoader B1.6.6.zip",
                     "hash": { "type": "sha256", "digest": "15262e652abcf8b925909e867821575cf25a17bc8217dbc281a20ce166a3f6b9" },
                     "urls": [
@@ -267,6 +287,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.6.5.zip",
+                    "ipfs": "QmesAqKT9j1ieFKLgdKe7bx2mHgrJqQ5gBKGAcrGdZcEnV",
                     "archived": "4d4ff139fca19feef2714a1cd00bd3a9d8007a1d9b76caf46259ae4310262417/ModLoader B1.6.5.zip",
                     "hash": { "type": "sha256", "digest": "4d4ff139fca19feef2714a1cd00bd3a9d8007a1d9b76caf46259ae4310262417" },
                     "urls": [
@@ -282,6 +303,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.6.4.zip",
+                    "ipfs": "QmbJDTEAVcMmEidSwPxYGoZHsDAm4wFpsUAEBgpDdexUpK",
                     "archived": "fffb3f021b3bc5a0017e24d98786df63434f36f8a009553a2e410666156207e6/ModLoader B1.6.4.zip",
                     "hash": { "type": "sha256", "digest": "fffb3f021b3bc5a0017e24d98786df63434f36f8a009553a2e410666156207e6" },
                     "urls": [
@@ -297,6 +319,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.5_01v4.zip",
+                    "ipfs": "QmVR4L7drzjq9TRpUKVbYtxGtbxmnpTzrFMf4eP4QNK2dT",
                     "archived": "c20df06b803903de5f7768107c27c80bbdbeb896003a93391432cf29bb7110cd/ModLoader B1.5_01v4.zip",
                     "hash": { "type": "sha256", "digest": "c20df06b803903de5f7768107c27c80bbdbeb896003a93391432cf29bb7110cd" },
                     "urls": [
@@ -312,6 +335,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.4_01.zip",
+                    "ipfs": "QmZf2VdX9rGVVD9KjNPsD1SBFcSoJQQqoqz7DAEwiCrNJh",
                     "archived": "a1fdf3b4698bfe1d29c8b9ec9f40905d9b436f19d9d630b4ace6b133cbf3560f/ModLoader B1.4_01.zip",
                     "hash": { "type": "sha256", "digest": "a1fdf3b4698bfe1d29c8b9ec9f40905d9b436f19d9d630b4ace6b133cbf3560f" },
                     "urls": [
@@ -327,6 +351,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.4v2.zip",
+                    "ipfs": "QmTN12Z4rat6EZGBp3Kim8uzuAcN3Q5Ey6FH1Ve8G82V1W",
                     "archived": "d0c691d6cd99b98fb179e9affe090bc7957949bd0fe4027a7bb38e175652b676/ModLoader B1.4v2.zip",
                     "hash": { "type": "sha256", "digest": "d0c691d6cd99b98fb179e9affe090bc7957949bd0fe4027a7bb38e175652b676" },
                     "urls": [
@@ -342,6 +367,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.3_01v5.zip",
+                    "ipfs": "QmNvzZCBP28qaeXzVQnCbzjbGPpDNAGM6W1wduht5XHhKF",
                     "archived": "b628f9fa608888f4d3c47c360a9c40c5b7a32eba52e9679f717f613548edc2c0/ModLoader B1.3_01v5.zip",
                     "hash": { "type": "sha256", "digest": "b628f9fa608888f4d3c47c360a9c40c5b7a32eba52e9679f717f613548edc2c0" },
                     "urls": [
@@ -357,6 +383,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.3.zip",
+                    "ipfs": "QmVkKp1rerZq5Jw56yvxRYvdXxGjHKi1kcbLUXHqu6qheH",
                     "archived": "96d9360b4aa70a531ca25fbf8ccc4bf4eb05d3b1087a17adaf6dd6881bd17ff8/ModLoader B1.3.zip",
                     "hash": { "type": "sha256", "digest": "96d9360b4aa70a531ca25fbf8ccc4bf4eb05d3b1087a17adaf6dd6881bd17ff8" },
                     "urls": [
@@ -372,6 +399,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.2_02v4.zip",
+                    "ipfs": "QmbySBWMF5tjWik5McDEeqEMojmKfqjid23cvqKa7rShc1",
                     "archived": "c5b3a4d72da03fcee9f8359c4c37f79f8a574d8b5987a849c35cbd4f79c9a87b/ModLoader B1.2_02v4.zip",
                     "hash": { "type": "sha256", "digest": "c5b3a4d72da03fcee9f8359c4c37f79f8a574d8b5987a849c35cbd4f79c9a87b" },
                     "urls": [
@@ -387,6 +415,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.2_01.rar",
+                    "ipfs": "QmQxh7MngHTHFxhwg3CwaPETn16TnzYpmnDiRc3cqA9v6S",
                     "archived": "143c92cf3774d4ab488785ecc50dbeb59948b58dfd7da348383e1e48f7b73270/ModLoader B1.2_01.rar",
                     "hash": { "type": "sha256", "digest": "143c92cf3774d4ab488785ecc50dbeb59948b58dfd7da348383e1e48f7b73270" },
                     "urls": [
@@ -402,6 +431,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.2.rar",
+                    "ipfs": "QmPNAZBjD1yyvVat6acKyZfWsKMruaZBhDPivoFcjAdJPL",
                     "archived": "e7b9668b92a1dacff255ad1d8147e9c480ceb6c6e656cce65827afe94bf952be/ModLoader B1.2.rar",
                     "hash": { "type": "sha256", "digest": "e7b9668b92a1dacff255ad1d8147e9c480ceb6c6e656cce65827afe94bf952be" },
                     "urls": [
@@ -417,6 +447,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.1_02v2.rar",
+                    "ipfs": "QmXRS7h4Da8JGH7JLRFZyaYaaptjVasdwHc3Fud5QTq2kP",
                     "archived": "5ed56f5e3ea796a4f23e7c2185f5417150710257b4f089510defa6b81109ec47/ModLoader B1.1_02v2.rar",
                     "hash": { "type": "sha256", "digest": "5ed56f5e3ea796a4f23e7c2185f5417150710257b4f089510defa6b81109ec47" },
                     "urls": [
@@ -432,6 +463,7 @@
             "files": [
                 {
                     "filename": "ModLoader B1.0_01.rar",
+                    "ipfs": "QmZybwJdMyix8crxudz4DnVosQ9rGX6vw87gWzoAi3wPxg",
                     "archived": "afb4e56640145d60ccf20a1d8492d6d4a995126db3c845dae20a1aabecb54cf1/ModLoader B1.0_01.rar",
                     "hash": { "type": "sha256", "digest": "afb4e56640145d60ccf20a1d8492d6d4a995126db3c845dae20a1aabecb54cf1" },
                     "urls": [
@@ -447,6 +479,7 @@
             "files": [
                 {
                     "filename": "ModLoader A1.2.6v2.rar",
+                    "ipfs": "QmXmJxbNMda97sHR2BHwMYPDWm79UsZFbTcLpcVVoKJAWr",
                     "archived": "788b0f19fa38b62e3c6afdb55aefdc0976e5993f90e30389af542040310cd546/ModLoader A1.2.6v2.rar",
                     "hash": { "type": "sha256", "digest": "788b0f19fa38b62e3c6afdb55aefdc0976e5993f90e30389af542040310cd546" },
                     "urls": [
@@ -462,6 +495,7 @@
             "files": [
                 {
                     "filename": "ModLoader A1.2.5.rar",
+                    "ipfs": "QmYbScjCKQGx7Yrwdy146dGj9PE6nwwNLPgUoKPFXFJa5i",
                     "archived": "9167d88033a20f89fd8d9dbf56902122dc95e091d33365e84c23f286192ae8aa/ModLoader A1.2.5.rar",
                     "hash": { "type": "sha256", "digest": "9167d88033a20f89fd8d9dbf56902122dc95e091d33365e84c23f286192ae8aa" },
                     "urls": [
@@ -477,6 +511,7 @@
             "files": [
                 {
                     "filename": "ModLoader A1.2.4_01.rar",
+                    "ipfs": "QmRQ7QHNwTMqij5dDLvMVewGMNNhM73c2EqULjuCTUGCAe",
                     "archived": "400ef249e04915b71df2630f1bacc38c9701b1d205055075c46f95b518ae786b/ModLoader A1.2.4_01.rar",
                     "hash": { "type": "sha256", "digest": "400ef249e04915b71df2630f1bacc38c9701b1d205055075c46f95b518ae786b" },
                     "urls": [

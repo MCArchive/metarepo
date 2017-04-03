@@ -9,12 +9,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.7.jar",
+                    "ipfs": "QmSH1aavV1QqxK5YzgzZp4amRRQYGuWC1WTBvMYYD9HHMc",
                     "archived": "29e39dac91c7753bfc67a49741a96b827f2e38edbcf84de49195c57630c70695/EE2ClientV1.4.6.7.jar",
                     "hash": { "type": "sha256", "digest": "29e39dac91c7753bfc67a49741a96b827f2e38edbcf84de49195c57630c70695" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.7.jar",
+                    "ipfs": "QmVyMkAUioDkPBEwNhVvbKQqF8kNf3wbfNAbuKYKiST2FT",
                     "archived": "e0826c53ff07951dc5bd77961a328812e7da475edc270fd1782bf48ff165c1f9/EE2ServerV1.4.6.7.jar",
                     "hash": { "type": "sha256", "digest": "e0826c53ff07951dc5bd77961a328812e7da475edc270fd1782bf48ff165c1f9" },
                     "urls": []
@@ -27,12 +29,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.6.jar",
+                    "ipfs": "QmYpZWa5327Mf9ycUmPbyG5Qi67F8ZXKh345bLQ4YwGx8S",
                     "archived": "4aaeb21bf55c74b205b656b5a3efd92aa9b7a6a2c96e4dc8a9f4f0666fcee3a1/EE2ClientV1.4.6.6.jar",
                     "hash": { "type": "sha256", "digest": "4aaeb21bf55c74b205b656b5a3efd92aa9b7a6a2c96e4dc8a9f4f0666fcee3a1" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.6.jar",
+                    "ipfs": "QmT4g26bjp7ovaSyCHAvVNmpPUJfdBuN6u2ndwUxz9NHNa",
                     "archived": "6628d13376609c2330bfc9d99411e453df073fc2fbbd1f736c07fc0b39a089a8/EE2ServerV1.4.6.6.jar",
                     "hash": { "type": "sha256", "digest": "6628d13376609c2330bfc9d99411e453df073fc2fbbd1f736c07fc0b39a089a8" },
                     "urls": []
@@ -45,12 +49,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.5.jar",
+                    "ipfs": "QmYopZmLjhy8eK9MWoL3PHb5r6asQ6Jceh68nCAKXfxB6g",
                     "archived": "0fbd1de0a62fc8ab3ca7c80802b9184cbb548fba77dd2d4920244d2c1ccd31d3/EE2ClientV1.4.6.5.jar",
                     "hash": { "type": "sha256", "digest": "0fbd1de0a62fc8ab3ca7c80802b9184cbb548fba77dd2d4920244d2c1ccd31d3" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.5.jar",
+                    "ipfs": "Qmdb7MykNGjbgAERaUsD8myxH5NXXKRDFWddsuNXVFFucL",
                     "archived": "ca0659e98b88d8a19a79c14e0bfd8a218594e1586a33111888f6cb90d2702b63/EE2ServerV1.4.6.5.jar",
                     "hash": { "type": "sha256", "digest": "ca0659e98b88d8a19a79c14e0bfd8a218594e1586a33111888f6cb90d2702b63" },
                     "urls": []
@@ -63,12 +69,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.4.jar",
+                    "ipfs": "QmQdyaGoHgJjL62UvTGJbaHmGxFASdL111TXrkXrTBhFTN",
                     "archived": "e05b888f947bdf14ad52b7be129c54ec02a667679d33f6dd9ec3fe4304b4ca64/EE2ClientV1.4.6.4.jar",
                     "hash": { "type": "sha256", "digest": "e05b888f947bdf14ad52b7be129c54ec02a667679d33f6dd9ec3fe4304b4ca64" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.4.jar",
+                    "ipfs": "QmbbRxwezoNHHX2bUguh7Dhro4M4HA5taYqmEphqsbfu7C",
                     "archived": "e342b3cb06379249aaf7d6c4f2396fead297c2e34bfb7f6f7200ea1e93507ccd/EE2ServerV1.4.6.4.jar",
                     "hash": { "type": "sha256", "digest": "e342b3cb06379249aaf7d6c4f2396fead297c2e34bfb7f6f7200ea1e93507ccd" },
                     "urls": []
@@ -81,12 +89,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.3.jar",
+                    "ipfs": "Qman3dvMAhBkFhXzJ5mXxmh1vXfL4wXjM9YFdcLqsce8j9",
                     "archived": "7ef121834a52c365e335f2e0a47df471519d8044f78d10f80c6567ac2bc16e2c/EE2ClientV1.4.6.3.jar",
                     "hash": { "type": "sha256", "digest": "7ef121834a52c365e335f2e0a47df471519d8044f78d10f80c6567ac2bc16e2c" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.3.jar",
+                    "ipfs": "QmTbj8dNKSFiF3VhD3sDn1AgjLNezmJsgH6eAoGPhuw9L4",
                     "archived": "0d78ee0ddd8271acffe24f5570f7602a45c10ccfc56dcb658fac4be39192b611/EE2ServerV1.4.6.3.jar",
                     "hash": { "type": "sha256", "digest": "0d78ee0ddd8271acffe24f5570f7602a45c10ccfc56dcb658fac4be39192b611" },
                     "urls": []
@@ -99,12 +109,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.2.jar",
+                    "ipfs": "QmWvMJBJSPtnUiSAMarfwie4w79Gu8xrxqemM2ZWM1GZEu",
                     "archived": "91c1abb110d330b074f356f55c3b441fdcff0bac07c83c2a54d911a69901f647/EE2ClientV1.4.6.2.jar",
                     "hash": { "type": "sha256", "digest": "91c1abb110d330b074f356f55c3b441fdcff0bac07c83c2a54d911a69901f647" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.2.jar",
+                    "ipfs": "QmdE1yFh2qun2k3SjeTCHFXHyqadLnrLRB3JDXUfRRVdkG",
                     "archived": "fd2c75a29a4627381fe2231d9c22d4ebda6bb64370dfb114e0def92c5e7556bd/EE2ServerV1.4.6.2.jar",
                     "hash": { "type": "sha256", "digest": "fd2c75a29a4627381fe2231d9c22d4ebda6bb64370dfb114e0def92c5e7556bd" },
                     "urls": []
@@ -117,12 +129,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.1.jar",
+                    "ipfs": "QmcEbu7cyLjjtM5kv7XRMUdA88gTDgwJboRVLVPc8DCq43",
                     "archived": "49804f7438b527c45d5a3858a91867a226e1bebe37d501180f088483faecee17/EE2ClientV1.4.6.1.jar",
                     "hash": { "type": "sha256", "digest": "49804f7438b527c45d5a3858a91867a226e1bebe37d501180f088483faecee17" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.1.jar",
+                    "ipfs": "QmSWGPS9AoUoT1XBttdMTWEEFGz723egf6e5TNwxGtWVAw",
                     "archived": "964c54c80eb42c90c4976f12ec62ec8116f3b6ca575d075b422ef41924a650d0/EE2ServerV1.4.6.1.jar",
                     "hash": { "type": "sha256", "digest": "964c54c80eb42c90c4976f12ec62ec8116f3b6ca575d075b422ef41924a650d0" },
                     "urls": []
@@ -135,12 +149,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.6.0.jar",
+                    "ipfs": "QmbwaeLV7zofQ1ZWPkYACGw1aYHqrQRGzAA6Eqd3qoZmmn",
                     "archived": "52a2aac31a1a4f22fb1f3d206faeb4a161184d754039e62880c4c0e9b2b586a4/EE2ClientV1.4.6.0.jar",
                     "hash": { "type": "sha256", "digest": "52a2aac31a1a4f22fb1f3d206faeb4a161184d754039e62880c4c0e9b2b586a4" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.6.0.jar",
+                    "ipfs": "QmSHBekDdic3nbB1gp2qxT2cR4NEnvahw7oMGZ5RaMkKmS",
                     "archived": "3063844f65df04e64daabeee83c652262137e4c49317f7e331e5b728861b0731/EE2ServerV1.4.6.0.jar",
                     "hash": { "type": "sha256", "digest": "3063844f65df04e64daabeee83c652262137e4c49317f7e331e5b728861b0731" },
                     "urls": []
@@ -153,12 +169,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.5.1.jar",
+                    "ipfs": "QmTVxxqNr4vDKXCYeg2pshHM2hxgVyBRzHoAKgXjTSzVcg",
                     "archived": "a0a079fb601d3bac3cf77d45171b4d81b58724642613ff503fecec5b3bd60cbf/EE2ClientV1.4.5.1.jar",
                     "hash": { "type": "sha256", "digest": "a0a079fb601d3bac3cf77d45171b4d81b58724642613ff503fecec5b3bd60cbf" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.5.1.jar",
+                    "ipfs": "QmeYisrJakzdWgwuq6PaEh34EYZsinhhU9dboyG4btsQWx",
                     "archived": "e0d8e6c974c5fe3844d1f9e40828de63d76f4ccfffc8a9d3ae7111253179f057/EE2ServerV1.4.5.1.jar",
                     "hash": { "type": "sha256", "digest": "e0d8e6c974c5fe3844d1f9e40828de63d76f4ccfffc8a9d3ae7111253179f057" },
                     "urls": []
@@ -171,12 +189,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.5.0.jar",
+                    "ipfs": "QmWDBuA7TitcUHQiw9poZTALBsEKNUv1rwfZRguvY6hTPB",
                     "archived": "ff369228e7f36450fbdf2bcca57b42b12c062ec24d0e5a4a5b4e0fde5673e490/EE2ClientV1.4.5.0.jar",
                     "hash": { "type": "sha256", "digest": "ff369228e7f36450fbdf2bcca57b42b12c062ec24d0e5a4a5b4e0fde5673e490" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.5.0.jar",
+                    "ipfs": "QmUwy194iGTtA6TFu3rz4YcxsurUdK5dG2BUsRToRtmk7E",
                     "archived": "5678fcfa7ee7f789fdee79e640d3d9404cb3ea0985655f8fb19872fa0eb91c6c/EE2ServerV1.4.5.0.jar",
                     "hash": { "type": "sha256", "digest": "5678fcfa7ee7f789fdee79e640d3d9404cb3ea0985655f8fb19872fa0eb91c6c" },
                     "urls": []
@@ -189,6 +209,7 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.4.1.zip",
+                    "ipfs": "Qmd4rwtyKu5GjpxoHpx7LabTwvbeNXFECJ1ADUbEC247uB",
                     "archived": "134a0c9898ef9798286be3db6b84274539383172154ce8711c44b43bb543b9d8/EE2ClientV1.4.4.1.zip",
                     "hash": { "type": "sha256", "digest": "134a0c9898ef9798286be3db6b84274539383172154ce8711c44b43bb543b9d8" },
                     "urls": []
@@ -201,6 +222,7 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.4.0.zip",
+                    "ipfs": "QmdeyaXycchAV56k7PtHKGLDhPDHxHC5tQiHsCPAVsBjNA",
                     "archived": "56e6bb95e99948148e9660842264f79fa525dd4b8c34f14e13fdfae0ad99b37b/EE2ClientV1.4.4.0.zip",
                     "hash": { "type": "sha256", "digest": "56e6bb95e99948148e9660842264f79fa525dd4b8c34f14e13fdfae0ad99b37b" },
                     "urls": []
@@ -213,12 +235,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.2.0.zip",
+                    "ipfs": "QmRbcEHxF9ESjKjD4YTyHscDVJ35KeWfbWX6BpR6YeK9dH",
                     "archived": "aacd82a0a211679e8516c6ad351efc67137c5159d4e762e7c915416e66214995/EE2ClientV1.4.2.0.zip",
                     "hash": { "type": "sha256", "digest": "aacd82a0a211679e8516c6ad351efc67137c5159d4e762e7c915416e66214995" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.2.0.zip",
+                    "ipfs": "QmUfgf4ZdbWXy1jhPhgadNH9299mFY95XGkJnqoNhoacNU",
                     "archived": "ae8358d1319c5477cdec1ead90ac423ca3394be45cf8ee559947f41daf429548/EE2ServerV1.4.2.0.zip",
                     "hash": { "type": "sha256", "digest": "ae8358d1319c5477cdec1ead90ac423ca3394be45cf8ee559947f41daf429548" },
                     "urls": []
@@ -231,12 +255,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.1.5.zip",
+                    "ipfs": "QmWEEnNuUJsrxGft6jFz3W2opgxRQ5TBKnm2tpeesbUEvb",
                     "archived": "cd73bf924a74b118b12cfd0947b600c5cca9496d240efdb34ef3f0df8e220a73/EE2ClientV1.4.1.5.zip",
                     "hash": { "type": "sha256", "digest": "cd73bf924a74b118b12cfd0947b600c5cca9496d240efdb34ef3f0df8e220a73" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.1.5.zip",
+                    "ipfs": "QmUSAZAhE8sogAUr7jN8G4chQn3B3vq19KkokkVoER1MqG",
                     "archived": "59e6481eeb6f6f60458a643600e1a0a3656e959c88e1065760dc0027698af2bd/EE2ServerV1.4.1.5.zip",
                     "hash": { "type": "sha256", "digest": "59e6481eeb6f6f60458a643600e1a0a3656e959c88e1065760dc0027698af2bd" },
                     "urls": []
@@ -249,12 +275,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.1.3.zip",
+                    "ipfs": "QmaW9futnE2Eei9bHRJ96TpbcojExka1WZbMKPysFW4yAq",
                     "archived": "2dd65d27e52df345d448b1b41b6f2848843f7bbeeeaa9ea67e3b62365ee7e33a/EE2ClientV1.4.1.3.zip",
                     "hash": { "type": "sha256", "digest": "2dd65d27e52df345d448b1b41b6f2848843f7bbeeeaa9ea67e3b62365ee7e33a" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.1.3.zip",
+                    "ipfs": "QmVfYmKijp2LugPCMxY7km54M5ZoXEqARCNYFrs81YAo2h",
                     "archived": "0a6bf29baa93dc2039dfa9f0f34c3954e44493f62d50ba29240b9b2bad0bccbe/EE2ServerV1.4.1.3.zip",
                     "hash": { "type": "sha256", "digest": "0a6bf29baa93dc2039dfa9f0f34c3954e44493f62d50ba29240b9b2bad0bccbe" },
                     "urls": []
@@ -267,12 +295,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.1.2.zip",
+                    "ipfs": "Qmd2BhkCXinYr8XAwRe4eWXZPetpTfECnmJd2431fhGRka",
                     "archived": "01178c47f471d8eae15598c415622ac4755d3e47d980f75ed6b821368f6a4ce7/EE2ClientV1.4.1.2.zip",
                     "hash": { "type": "sha256", "digest": "01178c47f471d8eae15598c415622ac4755d3e47d980f75ed6b821368f6a4ce7" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.1.2.zip",
+                    "ipfs": "QmYj7tHojT5LgnJmMVUjjRqGNxabzidr2grPQQHPcNeu7y",
                     "archived": "1098b0d3f1cd801230c708eed4940e5c22c2349ab38d32d3f47d68d451f22f1f/EE2ServerV1.4.1.2.zip",
                     "hash": { "type": "sha256", "digest": "1098b0d3f1cd801230c708eed4940e5c22c2349ab38d32d3f47d68d451f22f1f" },
                     "urls": []
@@ -285,12 +315,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.1.1.zip",
+                    "ipfs": "QmTsZTEEU9vo9eBYx4GTuk6Vaexr4n9db4EymuX2s8YJf2",
                     "archived": "8484d29103cab71a30bf6e11daa056f6506e57213e2853a150e27aa37db15370/EE2ClientV1.4.1.1.zip",
                     "hash": { "type": "sha256", "digest": "8484d29103cab71a30bf6e11daa056f6506e57213e2853a150e27aa37db15370" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.1.1.zip",
+                    "ipfs": "QmTeYfFxMrncD7y5uSLSHp1JJhJ9XM2YoxBMJr3EtW9vKU",
                     "archived": "3e615ed77329d278265f0f25d8927f1d4ae74ba0ee9985d41eecc1d9992f2f05/EE2ServerV1.4.1.1.zip",
                     "hash": { "type": "sha256", "digest": "3e615ed77329d278265f0f25d8927f1d4ae74ba0ee9985d41eecc1d9992f2f05" },
                     "urls": []
@@ -303,12 +335,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.1.0.zip",
+                    "ipfs": "QmQdjfr4DkhAoErTqMw8g3Lg8SvYnv1djuZ1KXgHCYfhQx",
                     "archived": "b2a434e2d239e98a653ecac7e4b92c02761fe90601d7068e1446b214d4beb9a8/EE2ClientV1.4.1.0.zip",
                     "hash": { "type": "sha256", "digest": "b2a434e2d239e98a653ecac7e4b92c02761fe90601d7068e1446b214d4beb9a8" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.1.0.zip",
+                    "ipfs": "QmXrj4ckabqENtfAHw8PmbfKDcwZhDJ1q7kBM41dSQ8or4",
                     "archived": "f52d2416a72737444bfc2de0d9ab00f9d9e41eaecfaa57b19ce9222a34cc973e/EE2ServerV1.4.1.0.zip",
                     "hash": { "type": "sha256", "digest": "f52d2416a72737444bfc2de0d9ab00f9d9e41eaecfaa57b19ce9222a34cc973e" },
                     "urls": []
@@ -321,12 +355,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.0.4.zip",
+                    "ipfs": "QmSLQBtUpcZKM8LdUgBw6C7A8og56CpSi6dhtZZkxSVVMC",
                     "archived": "3abb1ef5137fe0b49a0adacfb90554542d5973f4dd5ee7a37d5b15d5bae6fce1/EE2ClientV1.4.0.4.zip",
                     "hash": { "type": "sha256", "digest": "3abb1ef5137fe0b49a0adacfb90554542d5973f4dd5ee7a37d5b15d5bae6fce1" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.0.4.zip",
+                    "ipfs": "QmU9QGfejwBdtSBMvpe1E6dsc37CpcCtdUwrD6UoFGvqSV",
                     "archived": "ff99a4fcdf7cdf1447dbc1f584c252304b2aed083097c9316f32f9dd0c78465f/EE2ServerV1.4.0.4.zip",
                     "hash": { "type": "sha256", "digest": "ff99a4fcdf7cdf1447dbc1f584c252304b2aed083097c9316f32f9dd0c78465f" },
                     "urls": []
@@ -339,12 +375,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.4.0.3.zip",
+                    "ipfs": "QmXBYfRfaWzcQokTJMomnei3LwScVhTyfuREEAGQ8Kjf74",
                     "archived": "dfd58653236f82b5afa6ed3351bce4fd47f46e2a485e58d0da61f5a76e7ed3bf/EE2ClientV1.4.0.3.zip",
                     "hash": { "type": "sha256", "digest": "dfd58653236f82b5afa6ed3351bce4fd47f46e2a485e58d0da61f5a76e7ed3bf" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.4.0.3.zip",
+                    "ipfs": "QmWsiJunxUo26PHf2hVPDax6JYiecujswgptvePi9eqZNJ",
                     "archived": "0e9cb356e08fa1cea353e655f47d8f1a4bf10ee177481ae07c04e1629218a136/EE2ServerV1.4.0.3.zip",
                     "hash": { "type": "sha256", "digest": "0e9cb356e08fa1cea353e655f47d8f1a4bf10ee177481ae07c04e1629218a136" },
                     "urls": []
@@ -357,12 +395,14 @@
             "files": [
                 {
                     "filename": "EE2ClientV1.39.zip",
+                    "ipfs": "QmNe41Y69zPA9CxUgz9EaKm1cbj3vgMkhmQfU91kB42vxK",
                     "archived": "43e834575818cda0e4865dc247d90f6fff6260ade91d21c5ebb68b340cd26ab7/EE2ClientV1.39.zip",
                     "hash": { "type": "sha256", "digest": "43e834575818cda0e4865dc247d90f6fff6260ade91d21c5ebb68b340cd26ab7" },
                     "urls": []
                 },
                 {
                     "filename": "EE2ServerV1.39.zip",
+                    "ipfs": "QmX48vg1NruSKzre5RgmZZPwUoJ1aVAMM9LT5HozrmSmnb",
                     "archived": "86d053b577d6c036f321637a2aa1c8d8b5a58924de7f3c7b8f8325ca18cc9f5f/EE2ServerV1.39.zip",
                     "hash": { "type": "sha256", "digest": "86d053b577d6c036f321637a2aa1c8d8b5a58924de7f3c7b8f8325ca18cc9f5f" },
                     "urls": []

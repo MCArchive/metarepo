@@ -9,6 +9,7 @@
             "files": [
                 {
                     "filename": "buildcraft-7.2.8.jar",
+                    "ipfs": "QmeaBXUaXEqqyvBRt3emNuFZmLPbeYoiCw2KZUJakaQnsd",
                     "archived": "846a3e4d6efbd5ed93a83dfdb9c07474e68975a44232b30f5cee8200ad357e6c/buildcraft-7.2.8.jar",
                     "hash": { "type": "sha256", "digest": "846a3e4d6efbd5ed93a83dfdb9c07474e68975a44232b30f5cee8200ad357e6c" },
                     "urls": [
@@ -24,6 +25,7 @@
             "files": [
                 {
                     "filename": "buildcraft-7.1.20.jar",
+                    "ipfs": "QmNz2qUTQTGNuWH5NhbYkbZ8cDCzzAs1XGUA4MVMxu4qbm",
                     "archived": "9e027854024f5f11373a32ef554c87de51480335b8d2208b0c37c995f26290ec/buildcraft-7.1.20.jar",
                     "hash": { "type": "sha256", "digest": "9e027854024f5f11373a32ef554c87de51480335b8d2208b0c37c995f26290ec" },
                     "urls": [
@@ -39,6 +41,7 @@
             "files": [
                 {
                     "filename": "buildcraft-7.0.26.jar",
+                    "ipfs": "QmPmxijinAfbhSB18HebHVCYfURtGtGVdbxaoSg1EAUzN1",
                     "archived": "b77dd9d16fe2b30c706def0db5e68270c659d15f581ee9de5a44024c45233188/buildcraft-7.0.26.jar",
                     "hash": { "type": "sha256", "digest": "b77dd9d16fe2b30c706def0db5e68270c659d15f581ee9de5a44024c45233188" },
                     "urls": [
@@ -54,6 +57,7 @@
             "files": [
                 {
                     "filename": "buildcraft-6.4.18.jar",
+                    "ipfs": "QmXktLej8XM4gU4TS91FpvaZoQG5syPjqqi1ywKJdQmTFn",
                     "archived": "0eb590515b3ad1dbe41ea7d952d224f7ac65debb448921c5376ce78af4b34d70/buildcraft-6.4.18.jar",
                     "hash": { "type": "sha256", "digest": "0eb590515b3ad1dbe41ea7d952d224f7ac65debb448921c5376ce78af4b34d70" },
                     "urls": [
@@ -69,6 +73,7 @@
             "files": [
                 {
                     "filename": "buildcraft-6.3.7.jar",
+                    "ipfs": "QmWv5Sip7H9StNxqA8yxVWN43Nq7hQ7aYyLZGwWWeWchc1",
                     "archived": "1e38c41431394777b1dcad4e75b0b6ca753afc3a44817ea36c6108ade1a6d8ae/buildcraft-6.3.7.jar",
                     "hash": { "type": "sha256", "digest": "1e38c41431394777b1dcad4e75b0b6ca753afc3a44817ea36c6108ade1a6d8ae" },
                     "urls": [
@@ -84,6 +89,7 @@
             "files": [
                 {
                     "filename": "buildcraft-6.2.6.jar",
+                    "ipfs": "QmbKPtieJw3bscmSJdB985LB8PiefaKYE9W18SAptUgKRJ",
                     "archived": "45c0eb9498010035754d5dd79e5f8f460b3eafa85ef51ab2285f01e208677ad7/buildcraft-6.2.6.jar",
                     "hash": { "type": "sha256", "digest": "45c0eb9498010035754d5dd79e5f8f460b3eafa85ef51ab2285f01e208677ad7" },
                     "urls": [
@@ -99,6 +105,7 @@
             "files": [
                 {
                     "filename": "buildcraft-6.1.8.jar",
+                    "ipfs": "QmcpH5tyoerrQx8pdzxpaisGUTfSg27dgNfCJ1zj9pCb73",
                     "archived": "c032aa8e0df3a4e8e4fd035a02df3963366b59510db62a4490e6b9915e779d6e/buildcraft-6.1.8.jar",
                     "hash": { "type": "sha256", "digest": "c032aa8e0df3a4e8e4fd035a02df3963366b59510db62a4490e6b9915e779d6e" },
                     "urls": [
@@ -114,6 +121,7 @@
             "files": [
                 {
                     "filename": "buildcraft-6.0.18.jar",
+                    "ipfs": "QmRywkPdQrqGaQEyH7CCcXtwAt5PzToDJER7gkdRrtPaMA",
                     "archived": "510e5f0fdd4840fdddb9dfd8b526847631e0afef3e7b3fd0ed1961f235c7aafa/buildcraft-6.0.18.jar",
                     "hash": { "type": "sha256", "digest": "510e5f0fdd4840fdddb9dfd8b526847631e0afef3e7b3fd0ed1961f235c7aafa" },
                     "urls": [
@@ -129,6 +137,7 @@
             "files": [
                 {
                     "filename": "buildcraft-5.0.7.jar",
+                    "ipfs": "QmXrk71Et5FLGBvmhmFWTCzn27oioVgzKEyRYCxQwPXTMN",
                     "archived": "9ba4a0bf2cb9f0833aee9acd69f2926808b1613c1312b1e7863bcd794c82f65c/buildcraft-5.0.7.jar",
                     "hash": { "type": "sha256", "digest": "9ba4a0bf2cb9f0833aee9acd69f2926808b1613c1312b1e7863bcd794c82f65c" },
                     "urls": [
@@ -144,6 +153,7 @@
             "files": [
                 {
                     "filename": "buildcraft-A-1.6.4-4.2.2.jar",
+                    "ipfs": "QmSoyAa2zH4JoYJtw8fZsKRY5UTs6C25acjpjuLTsPSQ6W",
                     "archived": "f38995580db06b60b2bd9770ad92805bf5a0a48a8b1bf92a79cbb70a3b2f1005/buildcraft-A-1.6.4-4.2.2.jar",
                     "hash": { "type": "sha256", "digest": "f38995580db06b60b2bd9770ad92805bf5a0a48a8b1bf92a79cbb70a3b2f1005" },
                     "urls": [
@@ -159,6 +169,7 @@
             "files": [
                 {
                     "filename": "buildcraft-A-1.6.2-4.1.2.jar",
+                    "ipfs": "QmRdw15QBjVBhhfiNZX19mbj1F9355gTHDzHF1CuNQQtaT",
                     "archived": "55f5237eab549a5edab45301e4be19588c81764f7463f7b221907e60d1593297/buildcraft-A-1.6.2-4.1.2.jar",
                     "hash": { "type": "sha256", "digest": "55f5237eab549a5edab45301e4be19588c81764f7463f7b221907e60d1593297" },
                     "urls": [
@@ -174,6 +185,7 @@
             "files": [
                 {
                     "filename": "buildcraft-A-4.0.2.jar",
+                    "ipfs": "QmTaq9sia2Tta4BhLXPdGcLnFipiFoWeN9rV8uvBnU8VQE",
                     "archived": "03557d8dd89743a0a1acd1721e6caa8f4d60aed956376d013cdd6175dd96441f/buildcraft-A-4.0.2.jar",
                     "hash": { "type": "sha256", "digest": "03557d8dd89743a0a1acd1721e6caa8f4d60aed956376d013cdd6175dd96441f" },
                     "urls": [
@@ -189,6 +201,7 @@
             "files": [
                 {
                     "filename": "buildcraft-A-1.4.7-3.4.4.jar",
+                    "ipfs": "QmdddxiSCFx7DaHnFe37ZKnPxkysESRJLseLGTpUcetHKW",
                     "archived": "ad4760ed509e1a164e75366f01a1840d062f3720e1fa9fbe38941f457934bb82/buildcraft-A-1.4.7-3.4.4.jar",
                     "hash": { "type": "sha256", "digest": "ad4760ed509e1a164e75366f01a1840d062f3720e1fa9fbe38941f457934bb82" },
                     "urls": [
@@ -204,6 +217,7 @@
             "files": [
                 {
                     "filename": "buildcraft-A-3.2.2.jar",
+                    "ipfs": "QmSpppXr8AFDMNYYP3N72SdfaAzh6WnrUSytwsL1BWsDPv",
                     "archived": "1f1f1e3b813a86852bde097ebfda38d847451a655ed8959db946e7e4d9dfc8bd/buildcraft-A-3.2.2.jar",
                     "hash": { "type": "sha256", "digest": "1f1f1e3b813a86852bde097ebfda38d847451a655ed8959db946e7e4d9dfc8bd" },
                     "urls": [
@@ -219,6 +233,7 @@
             "files": [
                 {
                     "filename": "buildcraft-client-A-core-3.1.5.zip",
+                    "ipfs": "QmS69AKTdUJVojkM8rvqaeut9WozDDjqZNskt2w32EGhtz",
                     "archived": "37baebd2a66fa06c387401dc2582975ddc9bce02d1a6688d21988e346f164e9c/buildcraft-client-A-core-3.1.5.zip",
                     "hash": { "type": "sha256", "digest": "37baebd2a66fa06c387401dc2582975ddc9bce02d1a6688d21988e346f164e9c" },
                     "urls": [
@@ -228,6 +243,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-builders-3.1.5.zip",
+                    "ipfs": "QmawCT7oBJqbDv4qWZAhpvMTk6JrMDRkNS6Ygjv4FvAwPm",
                     "archived": "8bdc1bd2798ef1ead0570f19a61b1db3c776644ffeb2978da28941d976c0a085/buildcraft-client-B-builders-3.1.5.zip",
                     "hash": { "type": "sha256", "digest": "8bdc1bd2798ef1ead0570f19a61b1db3c776644ffeb2978da28941d976c0a085" },
                     "urls": [
@@ -237,6 +253,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-energy-3.1.5.zip",
+                    "ipfs": "QmcdZ5Eg4BuBKv568VTBC84w2fRC6zrM9HxoCouPrtpH7b",
                     "archived": "6589a6a06296ee27438b89bc13d888f7954b93d72d20e10a4084647973474e5b/buildcraft-client-B-energy-3.1.5.zip",
                     "hash": { "type": "sha256", "digest": "6589a6a06296ee27438b89bc13d888f7954b93d72d20e10a4084647973474e5b" },
                     "urls": [
@@ -246,6 +263,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-factory-3.1.5.zip",
+                    "ipfs": "QmdMNTvbnRqpfNXaz2wLjWX6evZqVMYaTQ8vQRV3tMZPsr",
                     "archived": "d0d6d13c971b326e1a77d55feb85a2bf47899b94a0a6fc81e4ab8c0d6ac8bd17/buildcraft-client-B-factory-3.1.5.zip",
                     "hash": { "type": "sha256", "digest": "d0d6d13c971b326e1a77d55feb85a2bf47899b94a0a6fc81e4ab8c0d6ac8bd17" },
                     "urls": [
@@ -255,6 +273,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-transport-3.1.5.zip",
+                    "ipfs": "QmdaNE7HE1ZtU4n92UcUS1ihkCyMAR4agaaDCtSCjQQ2YS",
                     "archived": "215e5db27347227055e30545925c359026c3a75646d322994ebbe12e05bfba50/buildcraft-client-B-transport-3.1.5.zip",
                     "hash": { "type": "sha256", "digest": "215e5db27347227055e30545925c359026c3a75646d322994ebbe12e05bfba50" },
                     "urls": [
@@ -264,6 +283,7 @@
                 },
                 {
                     "filename": "buildcraft-client-C-silicon-3.1.5.zip",
+                    "ipfs": "QmSo99pVAwmz9sW5XCX2dxY9ZDECzzLmWawVwAcPcVphvr",
                     "archived": "edb6c28956cff3880812d6aea0b00aa0077c043b3cba500de810f2048d975975/buildcraft-client-C-silicon-3.1.5.zip",
                     "hash": { "type": "sha256", "digest": "edb6c28956cff3880812d6aea0b00aa0077c043b3cba500de810f2048d975975" },
                     "urls": [
@@ -279,6 +299,7 @@
             "files": [
                 {
                     "filename": "buildcraft-client-A-core-2.2.14.zip",
+                    "ipfs": "Qma2jRQc2y1nGLfgsN6WSx6ci3wfWak6Uy95caVn7ySbg2",
                     "archived": "6485943acfd42eaa0968912424ccd35c7da57823d9c61a7ba10027980f037ea8/buildcraft-client-A-core-2.2.14.zip",
                     "hash": { "type": "sha256", "digest": "6485943acfd42eaa0968912424ccd35c7da57823d9c61a7ba10027980f037ea8" },
                     "urls": [
@@ -288,6 +309,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-builders-2.2.14.zip",
+                    "ipfs": "QmSTiEsyj6PhTcTnPEWE3yXBk96yrtkLfbwFfizcci5gzA",
                     "archived": "11570f4c6a316d0a6ea8bf2c18ae69ca64d4cb383fe22933b60d1302c752886c/buildcraft-client-B-builders-2.2.14.zip",
                     "hash": { "type": "sha256", "digest": "11570f4c6a316d0a6ea8bf2c18ae69ca64d4cb383fe22933b60d1302c752886c" },
                     "urls": [
@@ -297,6 +319,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-energy-2.2.14.zip",
+                    "ipfs": "QmTK2F7g88dNTAZgvE3HoW4xqYBKQBusZibFkTQsZR7jaP",
                     "archived": "412f36ec44f66fddaeecc78f8b342d209a8f5723b3da84e3a6d833f2b4fb1a98/buildcraft-client-B-energy-2.2.14.zip",
                     "hash": { "type": "sha256", "digest": "412f36ec44f66fddaeecc78f8b342d209a8f5723b3da84e3a6d833f2b4fb1a98" },
                     "urls": [
@@ -306,6 +329,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-factory-2.2.14.zip",
+                    "ipfs": "QmZXsn9y1iygxKbwwjaYUQCb6LtUQ4mLDj8TD8MP5mES4k",
                     "archived": "ba54e5b865b94484d901c952b65f549cd27ea17a03a4b2895bb6706132c40324/buildcraft-client-B-factory-2.2.14.zip",
                     "hash": { "type": "sha256", "digest": "ba54e5b865b94484d901c952b65f549cd27ea17a03a4b2895bb6706132c40324" },
                     "urls": [
@@ -315,6 +339,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-transport-2.2.14.zip",
+                    "ipfs": "Qma2pKq9j4NzVpZTbau7mWDJQmW2cFZpDtrX5R3JxjkL8Q",
                     "archived": "a49ba6e230821061d2e8721a4932e4c29a099a52e6a61f7c05d0d4e7d1a69c18/buildcraft-client-B-transport-2.2.14.zip",
                     "hash": { "type": "sha256", "digest": "a49ba6e230821061d2e8721a4932e4c29a099a52e6a61f7c05d0d4e7d1a69c18" },
                     "urls": [
@@ -330,6 +355,7 @@
             "files": [
                 {
                     "filename": "buildcraft-client-A-core-3.0.4.zip",
+                    "ipfs": "QmRu5XUte3riuxryTgv3CZbThFvi2us9VzyqrsF2PtS21q",
                     "archived": "1a2a061499e1e327fb6d72d0f6f8802536b44142393832041f5e99873a3a1f7a/buildcraft-client-A-core-3.0.4.zip",
                     "hash": { "type": "sha256", "digest": "1a2a061499e1e327fb6d72d0f6f8802536b44142393832041f5e99873a3a1f7a" },
                     "urls": [
@@ -339,6 +365,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-builders-3.0.4.zip",
+                    "ipfs": "QmbK8S1aUw1FBW3KuP8XeW6AE68UhRNU9jEro6tHhsYFSy",
                     "archived": "7dd745210f33413a09162f13a3666a5ee1d66c2987a751d51a622bfad93d50c5/buildcraft-client-B-builders-3.0.4.zip",
                     "hash": { "type": "sha256", "digest": "7dd745210f33413a09162f13a3666a5ee1d66c2987a751d51a622bfad93d50c5" },
                     "urls": [
@@ -348,6 +375,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-energy-3.0.4.zip",
+                    "ipfs": "QmQSuNGYC4SuWa47YZEhjgtpHTof9HUxGCkh1gBu745sHb",
                     "archived": "3232cde8e50881caef3b032d9f235f1f8674e273a6b680ab2bfa73b095df0b0b/buildcraft-client-B-energy-3.0.4.zip",
                     "hash": { "type": "sha256", "digest": "3232cde8e50881caef3b032d9f235f1f8674e273a6b680ab2bfa73b095df0b0b" },
                     "urls": [
@@ -357,6 +385,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-factory-3.0.4.zip",
+                    "ipfs": "QmXfgsZ44CfoKHXNfXzusXo5cfvGCPcnm27Kgt3hziWG6m",
                     "archived": "719ed36b66306825bd61abdd4c4f69d570407ac027a17f8133eb6f53828af141/buildcraft-client-B-factory-3.0.4.zip",
                     "hash": { "type": "sha256", "digest": "719ed36b66306825bd61abdd4c4f69d570407ac027a17f8133eb6f53828af141" },
                     "urls": [
@@ -366,6 +395,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-transport-3.0.4.zip",
+                    "ipfs": "QmRpR4P7J927kiqJ1Prfarya4mSk6TYe9DGLHuMQuB4TDs",
                     "archived": "1b702bdff8b7fd5be89ce20b2e808a0a2413ad2b3f677c225e28bf0147029c8c/buildcraft-client-B-transport-3.0.4.zip",
                     "hash": { "type": "sha256", "digest": "1b702bdff8b7fd5be89ce20b2e808a0a2413ad2b3f677c225e28bf0147029c8c" },
                     "urls": [
@@ -381,6 +411,7 @@
             "files": [
                 {
                     "filename": "buildcraft-client-A-core-2.1.1.zip",
+                    "ipfs": "Qmev4nmZdcPJAKmd8Ngu9Hvec6YnRarhWLX3Nu8tWY4sjg",
                     "archived": "ffb1caa708ae1ced9eb944c4b899d45e31d1047605886594b5c8b91c9a772a00/buildcraft-client-A-core-2.1.1.zip",
                     "hash": { "type": "sha256", "digest": "ffb1caa708ae1ced9eb944c4b899d45e31d1047605886594b5c8b91c9a772a00" },
                     "urls": [
@@ -390,6 +421,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-builders-2.1.1.zip",
+                    "ipfs": "QmS7CEFpw8yD1HBJKbNWS5jefauUE18x4NLDa95PYgkBU5",
                     "archived": "8414cc61c1db6cb1c439b0e5a1fef4c07a1de93f012f7b09e370ce7fc993e268/buildcraft-client-B-builders-2.1.1.zip",
                     "hash": { "type": "sha256", "digest": "8414cc61c1db6cb1c439b0e5a1fef4c07a1de93f012f7b09e370ce7fc993e268" },
                     "urls": [
@@ -399,6 +431,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-energy-2.1.1.zip",
+                    "ipfs": "QmfMfZNWguUvdYAniAxa1QkjDSsjsr8SwKZxwFx3ZsLvqE",
                     "archived": "d3a60c351ba999960264988d6830568a20327723e6abd92e5b4783dbfafd2851/buildcraft-client-B-energy-2.1.1.zip",
                     "hash": { "type": "sha256", "digest": "d3a60c351ba999960264988d6830568a20327723e6abd92e5b4783dbfafd2851" },
                     "urls": [
@@ -408,6 +441,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-factory-2.1.1.zip",
+                    "ipfs": "QmTMa6vythTDijQQVbx2T2B47LQEmamh85tVZG1GPpwWuk",
                     "archived": "4fee9290f59ad7a5060276f7d2a0c3d81e453698a4bff6f41cfda81937981199/buildcraft-client-B-factory-2.1.1.zip",
                     "hash": { "type": "sha256", "digest": "4fee9290f59ad7a5060276f7d2a0c3d81e453698a4bff6f41cfda81937981199" },
                     "urls": [
@@ -417,6 +451,7 @@
                 },
                 {
                     "filename": "buildcraft-client-B-transport-2.1.1.zip",
+                    "ipfs": "QmXTw9PSNB34hvZAJ47ngqKcb5sjCe7VtsEobpiEenoCKi",
                     "archived": "95021eef6874cbf3762a46ecaa967f3b009a4663ec2530a6fcdcea5c704ff7f8/buildcraft-client-B-transport-2.1.1.zip",
                     "hash": { "type": "sha256", "digest": "95021eef6874cbf3762a46ecaa967f3b009a4663ec2530a6fcdcea5c704ff7f8" },
                     "urls": [

@@ -9,6 +9,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.3.0.1.jar",
+                    "ipfs": "QmRp3nD7bW8edMNQu8w2hdgqvTrYwXoLwwrbCMguGfL1EJ",
                     "archived": "2c42fe4c1e9498aa86fc05da13935b77d169328e2da2365dcf4e17dc76e36d3b/forestry-A-2.3.0.1.jar",
                     "hash": { "type": "sha256", "digest": "2c42fe4c1e9498aa86fc05da13935b77d169328e2da2365dcf4e17dc76e36d3b" },
                     "urls": [
@@ -24,6 +25,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.3.0.0.jar",
+                    "ipfs": "QmazsDG34WfoyHRNc1PyBujRD4Ybdmhd3LAEivneAfoE9G",
                     "archived": "5b6ddfae026493c6aa210a06f1f01abee561137612b0b198800743e29bb13462/forestry-A-2.3.0.0.jar",
                     "hash": { "type": "sha256", "digest": "5b6ddfae026493c6aa210a06f1f01abee561137612b0b198800743e29bb13462" },
                     "urls": [
@@ -39,6 +41,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.8.4.jar",
+                    "ipfs": "QmbBtKqNTMnnhxaT4S9hD1dt3DL9aidAK8mZKom5RtTZxY",
                     "archived": "bae3390da624575d727a849422370a3fa57f5bbf17492c7ae48f7f1661c50573/forestry-A-2.2.8.4.jar",
                     "hash": { "type": "sha256", "digest": "bae3390da624575d727a849422370a3fa57f5bbf17492c7ae48f7f1661c50573" },
                     "urls": [
@@ -54,6 +57,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.8.3.jar",
+                    "ipfs": "QmQ6goZKw3yJRsEK7fnEhRHEXMpJy5ZbTgZWjiEBXeLNfs",
                     "archived": "97624e4eabbaff0443cd7303de93a62b4091ec8eb448d2c44416f477fed7ca2e/forestry-A-2.2.8.3.jar",
                     "hash": { "type": "sha256", "digest": "97624e4eabbaff0443cd7303de93a62b4091ec8eb448d2c44416f477fed7ca2e" },
                     "urls": [
@@ -69,6 +73,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.8.2.jar",
+                    "ipfs": "QmQmFQYdN5uBY8MiuLZD9BvGs73kYVwDyfHS4GKsDtktpC",
                     "archived": "a8d177edaa329bd55de3863b558dd3609b01db92159dd0f029bebd3ea17ff314/forestry-A-2.2.8.2.jar",
                     "hash": { "type": "sha256", "digest": "a8d177edaa329bd55de3863b558dd3609b01db92159dd0f029bebd3ea17ff314" },
                     "urls": [
@@ -84,6 +89,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.8.1.jar",
+                    "ipfs": "QmQKio9Ggfdu5wYzv2meyv9D5om9WPin5VP7FhaojqT3qw",
                     "archived": "f968c0f305a6e6644aec7bfc5220df4de051a3d8888177ca75ae986e6be49c78/forestry-A-2.2.8.1.jar",
                     "hash": { "type": "sha256", "digest": "f968c0f305a6e6644aec7bfc5220df4de051a3d8888177ca75ae986e6be49c78" },
                     "urls": [
@@ -99,6 +105,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.8.0.jar",
+                    "ipfs": "QmfDsYPptE3cSaQ3gzXBq2tNcL4XfYkQuKqoNwvHKF5ak1",
                     "archived": "ebdbd88e7cef4044e98004169f0eac11b083e9d7742bc771d08898f31ff95b06/forestry-A-2.2.8.0.jar",
                     "hash": { "type": "sha256", "digest": "ebdbd88e7cef4044e98004169f0eac11b083e9d7742bc771d08898f31ff95b06" },
                     "urls": [
@@ -114,6 +121,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.6.3.jar",
+                    "ipfs": "QmQLmJgXJvxvFNvUx2rfiv65htfRpMVK8iALNatSfprSDA",
                     "archived": "ab6cad9e206600efffa0d2a36d72f472173579644f39104f86813467e03f6a74/forestry-A-2.2.6.3.jar",
                     "hash": { "type": "sha256", "digest": "ab6cad9e206600efffa0d2a36d72f472173579644f39104f86813467e03f6a74" },
                     "urls": [
@@ -129,6 +137,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.6.2.jar",
+                    "ipfs": "QmWLt3a6xt9CFEqBQKc6irsprzXgPwLa6dNYUdBwApkN7i",
                     "archived": "40fe933653b02def922121978c2047e757312f8b4eae9db5af6d7b66fccced34/forestry-A-2.2.6.2.jar",
                     "hash": { "type": "sha256", "digest": "40fe933653b02def922121978c2047e757312f8b4eae9db5af6d7b66fccced34" },
                     "urls": [
@@ -144,6 +153,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.6.1.jar",
+                    "ipfs": "QmeFhNzj4cqYYiErrX1HbgAMBp5QHCbYWpFx3jP1Gsi8Gm",
                     "archived": "c4919c534f48b3eb1cef1da3fb324f68fa641bc42c3add98865a1599e3fba51f/forestry-A-2.2.6.1.jar",
                     "hash": { "type": "sha256", "digest": "c4919c534f48b3eb1cef1da3fb324f68fa641bc42c3add98865a1599e3fba51f" },
                     "urls": [
@@ -159,6 +169,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.6.0.jar",
+                    "ipfs": "QmUqyEgsUZFQ6dKmu19tfgmxR1SvKh6WpbY4K8ZETHnZMA",
                     "archived": "5888a5c9b7886c0c7d4deccb64dd767929e984be196278a1b9792ac4b86846e2/forestry-A-2.2.6.0.jar",
                     "hash": { "type": "sha256", "digest": "5888a5c9b7886c0c7d4deccb64dd767929e984be196278a1b9792ac4b86846e2" },
                     "urls": [
@@ -174,6 +185,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.4.4.jar",
+                    "ipfs": "QmZ7nYrwi7KRcEiFLtgASaYGNKudvhpTmufhFd8cNyg7PU",
                     "archived": "fd200284bf303b1642181074da27d827b6944968f0476999726c4671ec1c0bed/forestry-A-2.2.4.4.jar",
                     "hash": { "type": "sha256", "digest": "fd200284bf303b1642181074da27d827b6944968f0476999726c4671ec1c0bed" },
                     "urls": [
@@ -189,6 +201,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.4.3.jar",
+                    "ipfs": "QmdUKtxZcDFTRTrsakBrU1PSfCSvp77H3cpf55djVNLajR",
                     "archived": "8f65f537ffa59e0df3f2c272b3f490c4a31160c41e5a5dae29913abd6be0187a/forestry-A-2.2.4.3.jar",
                     "hash": { "type": "sha256", "digest": "8f65f537ffa59e0df3f2c272b3f490c4a31160c41e5a5dae29913abd6be0187a" },
                     "urls": [
@@ -204,6 +217,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.4.2.jar",
+                    "ipfs": "Qmb7g8R57Y76H7yq6HaU2PAncyWVsVooBweZ6QndesEpVf",
                     "archived": "aeb32d09366335ce7c3da00211f3a9ca703f384fd82b6c4f2f8848e47982dc82/forestry-A-2.2.4.2.jar",
                     "hash": { "type": "sha256", "digest": "aeb32d09366335ce7c3da00211f3a9ca703f384fd82b6c4f2f8848e47982dc82" },
                     "urls": [
@@ -219,6 +233,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.4.1.jar",
+                    "ipfs": "QmcwLQMF8o4MUcj2P9rvcqJdUey5LyY2boaJEKxCfqf7AL",
                     "archived": "cc26878cfdcd270a1f2f1d38af264f571a86d1fb380bf1f200dfcccb3b31335e/forestry-A-2.2.4.1.jar",
                     "hash": { "type": "sha256", "digest": "cc26878cfdcd270a1f2f1d38af264f571a86d1fb380bf1f200dfcccb3b31335e" },
                     "urls": [
@@ -234,6 +249,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.4.0.jar",
+                    "ipfs": "Qmcfa4uaGAwWDz2KgHTqtNRZg3HkLVRdC5kRs33nAoZ6FB",
                     "archived": "194a933118a601d2f62d916e0c9dea0c449357b9fc5de9bcf7c55e86535e8ed6/forestry-A-2.2.4.0.jar",
                     "hash": { "type": "sha256", "digest": "194a933118a601d2f62d916e0c9dea0c449357b9fc5de9bcf7c55e86535e8ed6" },
                     "urls": [
@@ -249,6 +265,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.2.2.jar",
+                    "ipfs": "QmcQwZvAFNTsMaUx9dAJee7CbVVxvxp2cqAfKHWFGz9h6z",
                     "archived": "f74e0b3e3f37c43745779ed3ba10d743cc34780df863384b221a1395c91991fb/forestry-A-2.2.2.2.jar",
                     "hash": { "type": "sha256", "digest": "f74e0b3e3f37c43745779ed3ba10d743cc34780df863384b221a1395c91991fb" },
                     "urls": [
@@ -264,6 +281,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.2.1.jar",
+                    "ipfs": "QmbupybKcEvqwFGT2cKUPNj2uMgkTLCDnYimH22Ar5y1c8",
                     "archived": "d635fd48f938533812a2a65a8a81cd695a91202db4479571b0c0b413c40817cc/forestry-A-2.2.2.1.jar",
                     "hash": { "type": "sha256", "digest": "d635fd48f938533812a2a65a8a81cd695a91202db4479571b0c0b413c40817cc" },
                     "urls": [
@@ -279,6 +297,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.2.0.jar",
+                    "ipfs": "QmTVqz8FWfpmsSdFGfvkYJ88Zk8CBuVYEBE9VnxFGvyorE",
                     "archived": "09a2b7e329fdd6016cb54825517293873e7c298e16f96e03c34e2319002284d4/forestry-A-2.2.2.0.jar",
                     "hash": { "type": "sha256", "digest": "09a2b7e329fdd6016cb54825517293873e7c298e16f96e03c34e2319002284d4" },
                     "urls": [
@@ -294,6 +313,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.0.2.jar",
+                    "ipfs": "QmdmtfX6JLzDkD9dtxyFxaisGCoo5kEBuWoASDXnnPXr7z",
                     "archived": "32753a2ff35ea38a67d4892c8c5a096d86a8c9c3fb6338a30d10714831c90f49/forestry-A-2.2.0.2.jar",
                     "hash": { "type": "sha256", "digest": "32753a2ff35ea38a67d4892c8c5a096d86a8c9c3fb6338a30d10714831c90f49" },
                     "urls": [
@@ -309,6 +329,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.0.1.jar",
+                    "ipfs": "QmZY9fdmT5aiQKpnTyC2YRNNvTgWvSHVA2mixtg6NV8i97",
                     "archived": "a2259cb13ab498fadc47add4f1bd304acd078530fc693894fbe51ed96aa5cd16/forestry-A-2.2.0.1.jar",
                     "hash": { "type": "sha256", "digest": "a2259cb13ab498fadc47add4f1bd304acd078530fc693894fbe51ed96aa5cd16" },
                     "urls": [
@@ -324,6 +345,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.2.0.0.jar",
+                    "ipfs": "QmUkibEevmx8TRXWAFFZg6DVeF3h1jCPguRMs5J4rWhhoV",
                     "archived": "53ded4299af556129b021e1e26c50a0e77d6bcc7dac3d0cd68613a47302527b1/forestry-A-2.2.0.0.jar",
                     "hash": { "type": "sha256", "digest": "53ded4299af556129b021e1e26c50a0e77d6bcc7dac3d0cd68613a47302527b1" },
                     "urls": [
@@ -339,6 +361,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.11.jar",
+                    "ipfs": "QmREMxbz1KFMcCX51BMqUzikz5mfMEF7vxsT4nVQJzCYAu",
                     "archived": "2ec08d94442183135b4d6398d4c2f02698f3f64cf4030edca4112eb62ae8d642/forestry-A-2.0.0.11.jar",
                     "hash": { "type": "sha256", "digest": "2ec08d94442183135b4d6398d4c2f02698f3f64cf4030edca4112eb62ae8d642" },
                     "urls": [
@@ -354,6 +377,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.10.jar",
+                    "ipfs": "QmYKvXNZMujreqLt2bknKrgEnUyCpUC7z7BfrYht9aE6Nh",
                     "archived": "086c95cdfc3c1ba37f30b952c62e832fa94c22e40dec1f6bd3bc9e048483778b/forestry-A-2.0.0.10.jar",
                     "hash": { "type": "sha256", "digest": "086c95cdfc3c1ba37f30b952c62e832fa94c22e40dec1f6bd3bc9e048483778b" },
                     "urls": [
@@ -369,6 +393,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.9.jar",
+                    "ipfs": "QmYhgzhGrEWkPcSEGXEEsHR4nNzBgbH7Re8shZUwTQE54Q",
                     "archived": "24fe58592786c56f79d7ff2d6269eae6e1e8ac0ac29f46457ca3215b3e798e74/forestry-A-2.0.0.9.jar",
                     "hash": { "type": "sha256", "digest": "24fe58592786c56f79d7ff2d6269eae6e1e8ac0ac29f46457ca3215b3e798e74" },
                     "urls": [
@@ -384,6 +409,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.8.jar",
+                    "ipfs": "QmQ3o3ewv6Z4vMtKVWNt2x5jY2VV5u9xVsDhmfxWh1RhvJ",
                     "archived": "1b9f3395521c3a9b771df8f94288dcdc5bb25126dc6a57108432790b8920afcb/forestry-A-2.0.0.8.jar",
                     "hash": { "type": "sha256", "digest": "1b9f3395521c3a9b771df8f94288dcdc5bb25126dc6a57108432790b8920afcb" },
                     "urls": [
@@ -399,6 +425,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.7.jar",
+                    "ipfs": "QmWMkokApSE9rWdNQ5RqJAhRGJPi8G6tdoj9PQN1qjBZTz",
                     "archived": "c31625a5be93e72cd33dff5bff3d89823fa8f29b589eabfcbd0a04f6145ebcde/forestry-A-2.0.0.7.jar",
                     "hash": { "type": "sha256", "digest": "c31625a5be93e72cd33dff5bff3d89823fa8f29b589eabfcbd0a04f6145ebcde" },
                     "urls": [
@@ -414,6 +441,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.6.jar",
+                    "ipfs": "QmfBvLWi5RpUPQvAGQqFXt9KgMb7hPMmEuLg2Ubcn79Dph",
                     "archived": "0b746c8001b76a1d0fb6edd9c58422e399d2796ef1eed179b3b639534afceadd/forestry-A-2.0.0.6.jar",
                     "hash": { "type": "sha256", "digest": "0b746c8001b76a1d0fb6edd9c58422e399d2796ef1eed179b3b639534afceadd" },
                     "urls": [
@@ -429,6 +457,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.5.jar",
+                    "ipfs": "QmcDWJzt7n7NrZUxKaAjLc3rTYXvdA8pWw1kQLSQWVLKp6",
                     "archived": "059988cdeafad44650c6d0f3f4bf25748da274a72b69040d7d04e81547a53fec/forestry-A-2.0.0.5.jar",
                     "hash": { "type": "sha256", "digest": "059988cdeafad44650c6d0f3f4bf25748da274a72b69040d7d04e81547a53fec" },
                     "urls": [
@@ -444,6 +473,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.4.jar",
+                    "ipfs": "QmbHuvXz2wb1J3YUY7xY4xGVwCmESYqxpkndL8mgk1KnH5",
                     "archived": "49a95faf61ac4325629a4efec24f17ed1ff3f5faea7f15dc38ebdbd132eafa2a/forestry-A-2.0.0.4.jar",
                     "hash": { "type": "sha256", "digest": "49a95faf61ac4325629a4efec24f17ed1ff3f5faea7f15dc38ebdbd132eafa2a" },
                     "urls": [
@@ -459,6 +489,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.3.jar",
+                    "ipfs": "QmcXhJskQnWwo4uR7wh4iGsUENcfwcyWcHzbTRZhsuKsqC",
                     "archived": "8d029cf09bf3811f27e800f1aac9432e4d2689642f1480cc2047d7e7401513a5/forestry-A-2.0.0.3.jar",
                     "hash": { "type": "sha256", "digest": "8d029cf09bf3811f27e800f1aac9432e4d2689642f1480cc2047d7e7401513a5" },
                     "urls": [
@@ -474,6 +505,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.2.jar",
+                    "ipfs": "QmNv25cZXZMcro3yWfcGbwJ5aTfzuhvUhhp5e44kTZRUQE",
                     "archived": "165973fcc18756758b1168f596c4013161a99b10026317dab87a5b8ecf47b5bf/forestry-A-2.0.0.2.jar",
                     "hash": { "type": "sha256", "digest": "165973fcc18756758b1168f596c4013161a99b10026317dab87a5b8ecf47b5bf" },
                     "urls": [
@@ -489,6 +521,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.1.jar",
+                    "ipfs": "QmRNF8eDcL1Wd5coDmEMwg9TTUBcScJRJcrsm9uQ1yHE5W",
                     "archived": "e39d0a3f97822cba67bc53ce3abd98fa9a15b3bfc7e88ee3b2aba3c58249dbf0/forestry-A-2.0.0.1.jar",
                     "hash": { "type": "sha256", "digest": "e39d0a3f97822cba67bc53ce3abd98fa9a15b3bfc7e88ee3b2aba3c58249dbf0" },
                     "urls": [
@@ -504,6 +537,7 @@
             "files": [
                 {
                     "filename": "forestry-A-2.0.0.0.jar",
+                    "ipfs": "QmecnDykZoK9K5SjrLr3GExsgQruyHwwa1X9HRsKYHNN8p",
                     "archived": "f755a9a69c6c56e0194cc6475b3ec3cb2b2d26f39c65d9b859e2bdd1953de8e1/forestry-A-2.0.0.0.jar",
                     "hash": { "type": "sha256", "digest": "f755a9a69c6c56e0194cc6475b3ec3cb2b2d26f39c65d9b859e2bdd1953de8e1" },
                     "urls": [
@@ -519,6 +553,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.7.0.5.jar",
+                    "ipfs": "QmZZ6AtMi2iVDBV4Y4FLQwd8KMdGajWd86Jn3e4mLCJW6B",
                     "archived": "164935cc0a9d94ee6f02798f7edb4868c082dced3fe2d65d2cd0fd1f39625968/forestry-A-1.7.0.5.jar",
                     "hash": { "type": "sha256", "digest": "164935cc0a9d94ee6f02798f7edb4868c082dced3fe2d65d2cd0fd1f39625968" },
                     "urls": [
@@ -534,6 +569,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.7.0.4.jar",
+                    "ipfs": "QmSAbnSWMRciL1PabKx7EWE1h7ionm1dwErnrGiz7mZYrA",
                     "archived": "8354c129e88460ea0aff6f22a39ba119428786114a5b7772d8272d53f557cc37/forestry-A-1.7.0.4.jar",
                     "hash": { "type": "sha256", "digest": "8354c129e88460ea0aff6f22a39ba119428786114a5b7772d8272d53f557cc37" },
                     "urls": [
@@ -549,6 +585,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.7.0.3.jar",
+                    "ipfs": "QmPqB3EUVppA8gNYbJwkrJ8BLgDgYC51y729tyoLrRLTRd",
                     "archived": "7da3e493ddc224b97ea65a2cfadb64ae285a1248e2ffc8f60de4d969b6539699/forestry-A-1.7.0.3.jar",
                     "hash": { "type": "sha256", "digest": "7da3e493ddc224b97ea65a2cfadb64ae285a1248e2ffc8f60de4d969b6539699" },
                     "urls": [
@@ -564,6 +601,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.7.0.2.jar",
+                    "ipfs": "QmNwTVk4q29L9VMZDVBctTfEDFLVS6XzMLt3RGYx5DAwVo",
                     "archived": "ddee8e3fa0354f99a51073c5bd9615cb92d7459142162d78edb5f98cbba77819/forestry-A-1.7.0.2.jar",
                     "hash": { "type": "sha256", "digest": "ddee8e3fa0354f99a51073c5bd9615cb92d7459142162d78edb5f98cbba77819" },
                     "urls": [
@@ -579,6 +617,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.7.0.1.jar",
+                    "ipfs": "Qmf9fGbxttBrdxtKx8sjp9QzzBoyvqYTaodKenbcMxnfXg",
                     "archived": "8ab12835e58e7d50ccfd2919134ed6fdbd9022d7eb9b5119c38598aeaecd9b7d/forestry-A-1.7.0.1.jar",
                     "hash": { "type": "sha256", "digest": "8ab12835e58e7d50ccfd2919134ed6fdbd9022d7eb9b5119c38598aeaecd9b7d" },
                     "urls": [
@@ -594,6 +633,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.7.0.0.jar",
+                    "ipfs": "QmXgTkNFKcpaLcNHu6FGQL3eqEjXSMC1cEUFaUW2Hdakec",
                     "archived": "26657ab8d4f0e1846d59700ab5fa13c9cad70f225785226004054305387dea10/forestry-A-1.7.0.0.jar",
                     "hash": { "type": "sha256", "digest": "26657ab8d4f0e1846d59700ab5fa13c9cad70f225785226004054305387dea10" },
                     "urls": [
@@ -609,6 +649,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.4.2.jar",
+                    "ipfs": "QmNQtubEhAhPUHXD281VudhJN46hxAx6ThBzpSFEXxXrPR",
                     "archived": "07aab189a19f64dc393c98bff9a8352c138c8181a768fc10386db3cd7512823e/forestry-A-1.6.4.2.jar",
                     "hash": { "type": "sha256", "digest": "07aab189a19f64dc393c98bff9a8352c138c8181a768fc10386db3cd7512823e" },
                     "urls": [
@@ -624,6 +665,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.4.1.jar",
+                    "ipfs": "QmTD2x8S8uqugtLpdFZyHrd7adoxzYmxTEWSjKA2ZZJejH",
                     "archived": "5955de74f319cb71695f69e57eed323193425151a9137cd6091222d7b6f66279/forestry-A-1.6.4.1.jar",
                     "hash": { "type": "sha256", "digest": "5955de74f319cb71695f69e57eed323193425151a9137cd6091222d7b6f66279" },
                     "urls": [
@@ -639,6 +681,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.4.0.jar",
+                    "ipfs": "QmZfMMjYvSA14VREeAhUuK9spXN7eJ6VkC8ti5TGpdJat6",
                     "archived": "394fdfce68c1517b2ed821641a55175f090ee3bf6eedb1c65df1d0f8321cbde7/forestry-A-1.6.4.0.jar",
                     "hash": { "type": "sha256", "digest": "394fdfce68c1517b2ed821641a55175f090ee3bf6eedb1c65df1d0f8321cbde7" },
                     "urls": [
@@ -654,6 +697,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.3.0.jar",
+                    "ipfs": "QmQudKPGr6cr4RPDFC3r56tJtHwJT2dnjPdUNuHWQ2T6v1",
                     "archived": "4312cb8d92378eb847c7bc3671a754f5e928a1aaf10b0e159b8f5cf293556a24/forestry-A-1.6.3.0.jar",
                     "hash": { "type": "sha256", "digest": "4312cb8d92378eb847c7bc3671a754f5e928a1aaf10b0e159b8f5cf293556a24" },
                     "urls": [
@@ -669,6 +713,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.9.jar",
+                    "ipfs": "QmXctb6DSDSz1gtg2muPF3qDwSPhuzLeKMwTcms59kBfEc",
                     "archived": "84f296e4d2d914dfc2352995101e392056e45ab6d44d9be898b4642dec4a82e6/forestry-A-1.6.2.9.jar",
                     "hash": { "type": "sha256", "digest": "84f296e4d2d914dfc2352995101e392056e45ab6d44d9be898b4642dec4a82e6" },
                     "urls": [
@@ -684,6 +729,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.8.jar",
+                    "ipfs": "QmR7BMB9ehi8YdExr6vutpx1UEPzwpxwHDpFCzHRqmfDKc",
                     "archived": "2aa1f7a9c438c09fe3b533a861205700ca78eb5e7726a72ef81b5903b55416b1/forestry-A-1.6.2.8.jar",
                     "hash": { "type": "sha256", "digest": "2aa1f7a9c438c09fe3b533a861205700ca78eb5e7726a72ef81b5903b55416b1" },
                     "urls": [
@@ -699,6 +745,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.7.jar",
+                    "ipfs": "QmQ4PWhXpt9RLLxSb9J9F8j9X7NbBqqu8wJgHcupxuRMKu",
                     "archived": "78d4ac0f564668ad05cdc1de750ecc39b70fc7c572a9bdd818bdce7521430a11/forestry-A-1.6.2.7.jar",
                     "hash": { "type": "sha256", "digest": "78d4ac0f564668ad05cdc1de750ecc39b70fc7c572a9bdd818bdce7521430a11" },
                     "urls": [
@@ -714,6 +761,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.6.jar",
+                    "ipfs": "QmYf4FUWTDXHePv4146c3fcSqDcLCMJXmGe7t52Sten9h4",
                     "archived": "b4ac8c94e7b2791ee76d1f373af227cc208a51d66b3aab01cb9a05c490e9063b/forestry-A-1.6.2.6.jar",
                     "hash": { "type": "sha256", "digest": "b4ac8c94e7b2791ee76d1f373af227cc208a51d66b3aab01cb9a05c490e9063b" },
                     "urls": [
@@ -729,6 +777,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.5.jar",
+                    "ipfs": "QmXaAPKxYdvQrKYHS8pHpL2PmSzPFSTzmW11WLBJ5yXj1u",
                     "archived": "a62799107f18e5618fa07f82a0ed2397d15987f2722c551e01c1c1b2e13bd8bd/forestry-A-1.6.2.5.jar",
                     "hash": { "type": "sha256", "digest": "a62799107f18e5618fa07f82a0ed2397d15987f2722c551e01c1c1b2e13bd8bd" },
                     "urls": [
@@ -744,6 +793,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.4.jar",
+                    "ipfs": "Qmf4m7wWA2qvMhg9UYJJf8ZGUYWrnoE6Vs9tgAmPR9ZhsZ",
                     "archived": "7a39367c2d06ae17db0164dd3ef06dd94759656cafcd664dee403180bfb170d7/forestry-A-1.6.2.4.jar",
                     "hash": { "type": "sha256", "digest": "7a39367c2d06ae17db0164dd3ef06dd94759656cafcd664dee403180bfb170d7" },
                     "urls": [
@@ -759,6 +809,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.3.jar",
+                    "ipfs": "QmeAuJdGsXrbJ7brV17xx8QYvi2fStWyk9pncdJWK1SJQc",
                     "archived": "e8751134e0e55c495891d1eadc3d02ac6de8effe663e8b6a317bca4cbbae3a3e/forestry-A-1.6.2.3.jar",
                     "hash": { "type": "sha256", "digest": "e8751134e0e55c495891d1eadc3d02ac6de8effe663e8b6a317bca4cbbae3a3e" },
                     "urls": [
@@ -774,6 +825,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.2.jar",
+                    "ipfs": "QmPhwzk2SMaMDwqMWapkSqvt2WN8NhvvmcTZAKfYP4Hwth",
                     "archived": "d30400c9995a908e512e8d676e6181721982b4a0a4f775f05eea20caeeaa171c/forestry-A-1.6.2.2.jar",
                     "hash": { "type": "sha256", "digest": "d30400c9995a908e512e8d676e6181721982b4a0a4f775f05eea20caeeaa171c" },
                     "urls": [
@@ -789,6 +841,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.1.jar",
+                    "ipfs": "QmVRs8fgNgCLBup52quJ2M8rswGf31Z6CdUcBJa892wqwd",
                     "archived": "12eb57475d3da37a6675a51a1cab9270749a720d85a4e7d7c345811ba4b5caec/forestry-A-1.6.2.1.jar",
                     "hash": { "type": "sha256", "digest": "12eb57475d3da37a6675a51a1cab9270749a720d85a4e7d7c345811ba4b5caec" },
                     "urls": [
@@ -804,6 +857,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.6.2.0.jar",
+                    "ipfs": "QmWmvRRB5iekehkcZjCoiQh8QCgDh8UKvuVXFHeefkb4kG",
                     "archived": "1b1cbaacdffdf15fb9be79a0565164a68d87190db0236dbb45bb0a87c4087553/forestry-A-1.6.2.0.jar",
                     "hash": { "type": "sha256", "digest": "1b1cbaacdffdf15fb9be79a0565164a68d87190db0236dbb45bb0a87c4087553" },
                     "urls": [
@@ -819,6 +873,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.5.0.2.jar",
+                    "ipfs": "QmP92bkJBgXkj1UVKLXtKBjyibGsbnggb4NbW6fGxMeaTU",
                     "archived": "524a2bfa13aba0bc1d791f05288b608e2523f2dfaa8aa714cc2ffa1c629db84a/forestry-A-1.5.0.2.jar",
                     "hash": { "type": "sha256", "digest": "524a2bfa13aba0bc1d791f05288b608e2523f2dfaa8aa714cc2ffa1c629db84a" },
                     "urls": [
@@ -834,6 +889,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.5.0.1.jar",
+                    "ipfs": "QmVwZmw3tmxoqYocECYQsScSsksJcKAnKmUvbgUir8yW1R",
                     "archived": "c5010f0277acf335d94cfc6c7a606247f4d9a01558c31a084238d8c30f2de88a/forestry-A-1.5.0.1.jar",
                     "hash": { "type": "sha256", "digest": "c5010f0277acf335d94cfc6c7a606247f4d9a01558c31a084238d8c30f2de88a" },
                     "urls": [
@@ -849,6 +905,7 @@
             "files": [
                 {
                     "filename": "forestry-A-1.5.0.0.jar",
+                    "ipfs": "QmSnUDBcDTFj4rwHCE4iahzxHdSgTwcBsdo1aZvN2c5qpK",
                     "archived": "f571021c328b071382feb8e19199695866ce2885a0ec7273ccd3d62c23171202/forestry-A-1.5.0.0.jar",
                     "hash": { "type": "sha256", "digest": "f571021c328b071382feb8e19199695866ce2885a0ec7273ccd3d62c23171202" },
                     "urls": [
@@ -864,6 +921,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.6_bc2.2.jar",
+                    "ipfs": "QmNtekrYBnW8SotaN6g5QT1K93uha32ZboJU5chRFU9f9E",
                     "archived": "524b8d91cc148bdf9bf8b9edc49bd654a805313e2898dd382c7c3d41226718e0/forestry-client-A-1.4.8.6_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "524b8d91cc148bdf9bf8b9edc49bd654a805313e2898dd382c7c3d41226718e0" },
                     "urls": [
@@ -873,6 +931,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.6_bc2.2.jar",
+                    "ipfs": "QmQkvX8ygvFgviXTL1hphF1NNJ5pczyfTvEwKTEuRUUhiy",
                     "archived": "c1cd16d4f9f042ec67daad80795408b0ab54ef7642a694f2c5a3d3572f7cb581/forestry-server-A-1.4.8.6_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "c1cd16d4f9f042ec67daad80795408b0ab54ef7642a694f2c5a3d3572f7cb581" },
                     "urls": [
@@ -888,6 +947,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.6.jar",
+                    "ipfs": "QmTUw8RoxDDExVsgnFBuihYGWRLDBhQ4xniD3Sqk1gaJyb",
                     "archived": "945d9bf8fae160b7d6fa67c360de6281b45d951ed8fc4e68c7db14bb42ddb712/forestry-client-A-1.4.8.6.jar",
                     "hash": { "type": "sha256", "digest": "945d9bf8fae160b7d6fa67c360de6281b45d951ed8fc4e68c7db14bb42ddb712" },
                     "urls": [
@@ -897,6 +957,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.6.jar",
+                    "ipfs": "QmTWg6bCjpuAMLzzwPEKZyKZHiQ9w3DFHHUEu7416mPCT8",
                     "archived": "21d3ebcedb50421b8c3e2da1e977143dc9f8697f27d76f0664a0c522784eeaab/forestry-server-A-1.4.8.6.jar",
                     "hash": { "type": "sha256", "digest": "21d3ebcedb50421b8c3e2da1e977143dc9f8697f27d76f0664a0c522784eeaab" },
                     "urls": [
@@ -912,6 +973,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.5_bc2.2.jar",
+                    "ipfs": "QmVKzBNLoEccxZUQWBUT1uneqR7gWZ5fCWoUtKwG8AR1Sr",
                     "archived": "4ab42d8ef35bf5251319135f381a94fb359e0ea6a3cdfdfcf15eab29ce134665/forestry-client-A-1.4.8.5_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "4ab42d8ef35bf5251319135f381a94fb359e0ea6a3cdfdfcf15eab29ce134665" },
                     "urls": [
@@ -921,6 +983,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.5_bc2.2.jar",
+                    "ipfs": "QmR5w8UsiqLWBwxMu18jjDpo58RP7djcAwLwVNGiMsnVgC",
                     "archived": "5488f09c43e1afdb7790c0c3ae5596188d9b3b1e650c1d9f2db7ce0b2763b96d/forestry-server-A-1.4.8.5_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "5488f09c43e1afdb7790c0c3ae5596188d9b3b1e650c1d9f2db7ce0b2763b96d" },
                     "urls": [
@@ -936,6 +999,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.5.jar",
+                    "ipfs": "QmY8zXbWntWm2psLoywArK9CCo8PNfrGUuVgPNKWruxJeR",
                     "archived": "472682a4eeb04d5ddf220b56d8f649689fba644cbf3da7e3127745045c07d97f/forestry-client-A-1.4.8.5.jar",
                     "hash": { "type": "sha256", "digest": "472682a4eeb04d5ddf220b56d8f649689fba644cbf3da7e3127745045c07d97f" },
                     "urls": [
@@ -945,6 +1009,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.5.jar",
+                    "ipfs": "QmRc9p9v72XNGCsCLuTNoLmn9CU79dx2N6iFyzRM9h4BXf",
                     "archived": "c47b1ff482ca1ec2b08a159af954dd9d12ae7a7ce52b1e5536e90458329f5e56/forestry-server-A-1.4.8.5.jar",
                     "hash": { "type": "sha256", "digest": "c47b1ff482ca1ec2b08a159af954dd9d12ae7a7ce52b1e5536e90458329f5e56" },
                     "urls": [
@@ -960,6 +1025,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.4_bc2.2.jar",
+                    "ipfs": "QmQqXPBb4s8WDuRUgARsySNntbEeQYSXvT7tJkjeokjfjn",
                     "archived": "4a9524034aa91b154ee3cf9def51844a58896d65a69e25d0bf89436e0053caf8/forestry-client-A-1.4.8.4_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "4a9524034aa91b154ee3cf9def51844a58896d65a69e25d0bf89436e0053caf8" },
                     "urls": [
@@ -969,6 +1035,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.4_bc2.2.jar",
+                    "ipfs": "QmdHgd59d1SSb6ipmdmkJjtfEG7Yd2a2DwLAAWi3cVCR5p",
                     "archived": "72b8f83133f17db2e468ccecf3303da592de562043762dcf623242723a766072/forestry-server-A-1.4.8.4_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "72b8f83133f17db2e468ccecf3303da592de562043762dcf623242723a766072" },
                     "urls": [
@@ -984,6 +1051,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.4.jar",
+                    "ipfs": "QmNqAkrk1yU72ZUuGDno4GTcQAfgDvHx27Dqrm1vJQyXB6",
                     "archived": "4c03065ff636c384e2cb9efb02e7df99a70213bdb371239b902eea3f5a059ced/forestry-client-A-1.4.8.4.jar",
                     "hash": { "type": "sha256", "digest": "4c03065ff636c384e2cb9efb02e7df99a70213bdb371239b902eea3f5a059ced" },
                     "urls": [
@@ -993,6 +1061,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.4.jar",
+                    "ipfs": "QmUvYipE3DPt8eDKGgkNcQ73wT3UpSBV5Myx4Gqi27QRnj",
                     "archived": "1d3d369dc8f32f50200c9404d9756e2e69de8e91df611587393910ca129dfa4e/forestry-server-A-1.4.8.4.jar",
                     "hash": { "type": "sha256", "digest": "1d3d369dc8f32f50200c9404d9756e2e69de8e91df611587393910ca129dfa4e" },
                     "urls": [
@@ -1008,6 +1077,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.3_bc2.2.jar",
+                    "ipfs": "QmQboqXL5Tr2GPb8EcdQzLtESajaaMT254jcW1h55b3Qd3",
                     "archived": "86ed77e6cdb6b412e52c81db7be9908376d1048522641c3002aa1446e0573cfb/forestry-client-A-1.4.8.3_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "86ed77e6cdb6b412e52c81db7be9908376d1048522641c3002aa1446e0573cfb" },
                     "urls": [
@@ -1017,6 +1087,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.3_bc2.2.jar",
+                    "ipfs": "QmP3pXdjYZtweoS5ovL7Wr9FJ9QFuH9LumygK3LeGJRqvq",
                     "archived": "be1bd444e1eb81c599ca521790d277093ace44cdfb5eacc2301a9d7a41a7b69f/forestry-server-A-1.4.8.3_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "be1bd444e1eb81c599ca521790d277093ace44cdfb5eacc2301a9d7a41a7b69f" },
                     "urls": [
@@ -1032,6 +1103,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.3.jar",
+                    "ipfs": "QmUTeizMRpVDTgaUdJCyGPj5gxwHshcqFmc9jxQQQX2B5r",
                     "archived": "5e74a6194f20b0da06fb050d80aa181b8ae785afae11347804e5c4f30a9bb7ea/forestry-client-A-1.4.8.3.jar",
                     "hash": { "type": "sha256", "digest": "5e74a6194f20b0da06fb050d80aa181b8ae785afae11347804e5c4f30a9bb7ea" },
                     "urls": [
@@ -1041,6 +1113,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.3.jar",
+                    "ipfs": "QmXzV3XPKDKRBXjW81MBFamJvDgCv9TUiszPwfopvdCv41",
                     "archived": "09ca2ca002c186865e023145ce9faef646723773a2b5842a86b978b13c74581f/forestry-server-A-1.4.8.3.jar",
                     "hash": { "type": "sha256", "digest": "09ca2ca002c186865e023145ce9faef646723773a2b5842a86b978b13c74581f" },
                     "urls": [
@@ -1056,6 +1129,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.2_bc2.2.jar",
+                    "ipfs": "QmVaN5z4R5fGFkDwuT3uNwhxJPEVVkmX1Pg838MxUJ4qBU",
                     "archived": "9808457881462847a5fb7a1ccb9ad281f16b612236a2fda2dd087a33ec533c02/forestry-client-A-1.4.8.2_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "9808457881462847a5fb7a1ccb9ad281f16b612236a2fda2dd087a33ec533c02" },
                     "urls": [
@@ -1065,6 +1139,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.2_bc2.2.jar",
+                    "ipfs": "QmcVc8KR5KkniRD6NYgQm2KrB6XsGADgkmZ5ynpcFgwztf",
                     "archived": "d47b293ed43491d92aeaee6ca4f8267495213216dc67fbea0fcd879b7f0f8e1a/forestry-server-A-1.4.8.2_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "d47b293ed43491d92aeaee6ca4f8267495213216dc67fbea0fcd879b7f0f8e1a" },
                     "urls": [
@@ -1080,6 +1155,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.2.jar",
+                    "ipfs": "QmW5b5VbwYRveYvh6grptngKHwFrWzRu2gCKumV78sdZvP",
                     "archived": "65e89aa75dcc1061c86cff4ccf8906fb2ca3d514e936195dca8c74753a8d1b64/forestry-client-A-1.4.8.2.jar",
                     "hash": { "type": "sha256", "digest": "65e89aa75dcc1061c86cff4ccf8906fb2ca3d514e936195dca8c74753a8d1b64" },
                     "urls": [
@@ -1089,6 +1165,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.2.jar",
+                    "ipfs": "QmbRgzbxYroSreetkGQ3xn9eVQP9Dt7M6jyFDyD4YsRuUk",
                     "archived": "da9c54b569885efc8ced6569858734018bcb8c979835e0ca403e818f711e83ea/forestry-server-A-1.4.8.2.jar",
                     "hash": { "type": "sha256", "digest": "da9c54b569885efc8ced6569858734018bcb8c979835e0ca403e818f711e83ea" },
                     "urls": [
@@ -1104,6 +1181,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.1_bc2.2.jar",
+                    "ipfs": "QmXduvrqPigaQ8EWCPXxF3RUp1bfESqA4271jBbnsQsBks",
                     "archived": "16bd365588b5bc9e1db1290609a11b0324354ea7c6032e0ba42ec57732ad1029/forestry-client-A-1.4.8.1_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "16bd365588b5bc9e1db1290609a11b0324354ea7c6032e0ba42ec57732ad1029" },
                     "urls": [
@@ -1113,6 +1191,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.1_bc2.2.jar",
+                    "ipfs": "QmXLZWVwXomjXjpvnk2JcuNHaashbh8N4kRVXK3K837vRC",
                     "archived": "0c464bb09068324878a77015044e6e6d0055ee63f2e858bc185c16eeb260fddb/forestry-server-A-1.4.8.1_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "0c464bb09068324878a77015044e6e6d0055ee63f2e858bc185c16eeb260fddb" },
                     "urls": [
@@ -1128,6 +1207,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.1.jar",
+                    "ipfs": "QmQPBjcj1wd2S2xNPzZenusdjvWWBXbxprjqzcN1VciQ7i",
                     "archived": "e2c2a93003ac1aeb1262dcc169b10a1b23b8aa5fed361ccdc8e359831de62854/forestry-client-A-1.4.8.1.jar",
                     "hash": { "type": "sha256", "digest": "e2c2a93003ac1aeb1262dcc169b10a1b23b8aa5fed361ccdc8e359831de62854" },
                     "urls": [
@@ -1137,6 +1217,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.1.jar",
+                    "ipfs": "QmXAokdWCGGXxcPo5q11Yuea843bDCwZPj8Rdks9JWh515",
                     "archived": "e56510e8af30426f655fd1247462e409832183c49ebd6fb9705044202fcf6b06/forestry-server-A-1.4.8.1.jar",
                     "hash": { "type": "sha256", "digest": "e56510e8af30426f655fd1247462e409832183c49ebd6fb9705044202fcf6b06" },
                     "urls": [
@@ -1152,6 +1233,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.0_bc2.2.jar",
+                    "ipfs": "QmfC3TAvv6XH1kvhvaCmwXrq8CUP6GnQWbMAZCdGkLkSGw",
                     "archived": "8fb9bd78c77f720a6f0754994cf0b581358b9a7731c5fe018a119a1c14a4b816/forestry-client-A-1.4.8.0_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "8fb9bd78c77f720a6f0754994cf0b581358b9a7731c5fe018a119a1c14a4b816" },
                     "urls": [
@@ -1161,6 +1243,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.0_bc2.2.jar",
+                    "ipfs": "QmXPKkxC2u5GzzCFeiNFwSJCxqMGiZ5pyX9kcNnmi1mcRe",
                     "archived": "4c0d5ae1ce275485ca78e5efb281688e344d7445f1a48f4473c792d38f186631/forestry-server-A-1.4.8.0_bc2.2.jar",
                     "hash": { "type": "sha256", "digest": "4c0d5ae1ce275485ca78e5efb281688e344d7445f1a48f4473c792d38f186631" },
                     "urls": [
@@ -1176,6 +1259,7 @@
             "files": [
                 {
                     "filename": "forestry-client-A-1.4.8.0.jar",
+                    "ipfs": "QmbXN8Xt5dcke2P2eJq2pwjQGyxBWkqbvriYrDb18RpsqK",
                     "archived": "a6d8fc6c5d672493b28a053630c8e8bd2df9f4bb21f180ad9e17112114abd1a9/forestry-client-A-1.4.8.0.jar",
                     "hash": { "type": "sha256", "digest": "a6d8fc6c5d672493b28a053630c8e8bd2df9f4bb21f180ad9e17112114abd1a9" },
                     "urls": [
@@ -1185,6 +1269,7 @@
                 },
                 {
                     "filename": "forestry-server-A-1.4.8.0.jar",
+                    "ipfs": "QmRu33WE5xuNgSFnrTPCzZxZqcT5xXVPp89rdMPFfm4R1K",
                     "archived": "4336061f78722c77213577618feed849e6c5c899382377f8d7c2db8bab063d44/forestry-server-A-1.4.8.0.jar",
                     "hash": { "type": "sha256", "digest": "4336061f78722c77213577618feed849e6c5c899382377f8d7c2db8bab063d44" },
                     "urls": [
