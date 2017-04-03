@@ -4,6 +4,228 @@
     "authors": ["Risugami"],
     "versions": [
         {
+            "name": "1.5.2",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.5.2.zip",
+                    "archived": "950f81bf80f79a2b7fed3b55484ec372540161708142fa6d28992a6d274e7f37/AudioMod 1.5.2.zip",
+                    "hash": { "type": "sha256", "digest": "950f81bf80f79a2b7fed3b55484ec372540161708142fa6d28992a6d274e7f37" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.5.1",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.5.1.zip",
+                    "archived": "53189081d54239e0835998398b8c9291456f1782bc713f3c579fa3327b23fcc3/AudioMod 1.5.1.zip",
+                    "hash": { "type": "sha256", "digest": "53189081d54239e0835998398b8c9291456f1782bc713f3c579fa3327b23fcc3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.5",
+            "mcvsn": ["1.5"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.5.zip",
+                    "archived": "3abea18dc624feee58b9c424f68d32d5d244daa9b4f38ee9ed12dd6a24243911/AudioMod 1.5.zip",
+                    "hash": { "type": "sha256", "digest": "3abea18dc624feee58b9c424f68d32d5d244daa9b4f38ee9ed12dd6a24243911" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.7",
+            "mcvsn": ["1.4.7"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.4.7.zip",
+                    "archived": "85272c49fda026a2c891d86cf73dffe5f44ee1e1b95b6675b150eb0a8e082a85/AudioMod 1.4.7.zip",
+                    "hash": { "type": "sha256", "digest": "85272c49fda026a2c891d86cf73dffe5f44ee1e1b95b6675b150eb0a8e082a85" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.6",
+            "mcvsn": ["1.4.6"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.4.6.zip",
+                    "archived": "b2fc509f8311c5b49a6a29b3ff978871b91cba3680ea5eeb6505c7b85bfa8b41/AudioMod 1.4.6.zip",
+                    "hash": { "type": "sha256", "digest": "b2fc509f8311c5b49a6a29b3ff978871b91cba3680ea5eeb6505c7b85bfa8b41" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.5",
+            "mcvsn": ["1.4.5"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.4.5.zip",
+                    "archived": "b0210cb0c97b9c61ddc73678e022baefcaf0314be12f65d576d1b0593e1789b8/AudioMod 1.4.5.zip",
+                    "hash": { "type": "sha256", "digest": "b0210cb0c97b9c61ddc73678e022baefcaf0314be12f65d576d1b0593e1789b8" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.4",
+            "mcvsn": ["1.4.4"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.4.4.zip",
+                    "archived": "8c128a0a65d90e15c41e8fad80ef150a38c58763d5ae6c1df8a638db42a64bd1/AudioMod 1.4.4.zip",
+                    "hash": { "type": "sha256", "digest": "8c128a0a65d90e15c41e8fad80ef150a38c58763d5ae6c1df8a638db42a64bd1" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.2",
+            "mcvsn": ["1.4.2"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.4.2.zip",
+                    "archived": "00479a90c995060fe7d3fe01a2744ed079bc091c4cbf7442ec24c20da8067dae/AudioMod 1.4.2.zip",
+                    "hash": { "type": "sha256", "digest": "00479a90c995060fe7d3fe01a2744ed079bc091c4cbf7442ec24c20da8067dae" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.2",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.3.2.zip",
+                    "archived": "7bdb801dcba47639f717d5d322d962db2c9f1ccb7ec75132d180afb1a96ae863/AudioMod 1.3.2.zip",
+                    "hash": { "type": "sha256", "digest": "7bdb801dcba47639f717d5d322d962db2c9f1ccb7ec75132d180afb1a96ae863" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.1",
+            "mcvsn": ["1.3.1"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.3.1.zip",
+                    "archived": "ee53ed9dcc14e0910bf5fda21a609c29714039c2b338c9c822132844f94d05ff/AudioMod 1.3.1.zip",
+                    "hash": { "type": "sha256", "digest": "ee53ed9dcc14e0910bf5fda21a609c29714039c2b338c9c822132844f94d05ff" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.5",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.2.5.zip",
+                    "archived": "c5b7883983fe807e92687ea262b5cd0c7598705a4ac38f081e0deff3724da62c/AudioMod 1.2.5.zip",
+                    "hash": { "type": "sha256", "digest": "c5b7883983fe807e92687ea262b5cd0c7598705a4ac38f081e0deff3724da62c" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.4",
+            "mcvsn": ["1.2.4"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.2.4.zip",
+                    "archived": "a4ad4f518db1f2ff52e9cad76676806e3df1408d363c42999cdae3495eaac988/AudioMod 1.2.4.zip",
+                    "hash": { "type": "sha256", "digest": "a4ad4f518db1f2ff52e9cad76676806e3df1408d363c42999cdae3495eaac988" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/tvxc049xph9o6lq/AudioMod+1.2.4.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.2.3",
+            "mcvsn": ["1.2.3"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.2.3.zip",
+                    "archived": "6f1caf38d733c2f6078798c37557c52295626ca3b2e9576ab3fd9dbf3a5f76c8/AudioMod 1.2.3.zip",
+                    "hash": { "type": "sha256", "digest": "6f1caf38d733c2f6078798c37557c52295626ca3b2e9576ab3fd9dbf3a5f76c8" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/f3vxsf3wacrw38w/AudioMod+1.2.3.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.1",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.1.zip",
+                    "archived": "caddde9465838ed2bf41d8082f60d036368037c4a9e283252797c28b2fe4ea49/AudioMod 1.1.zip",
+                    "hash": { "type": "sha256", "digest": "caddde9465838ed2bf41d8082f60d036368037c4a9e283252797c28b2fe4ea49" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/wymybuv1kjq3vge/AudioMod+1.1.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.0.0",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.0.0.zip",
+                    "archived": "14986ea86a180d7bc22b6c6409f49c8220ebac5a6c9e7441f4716746dd69984e/AudioMod 1.0.0.zip",
+                    "hash": { "type": "sha256", "digest": "14986ea86a180d7bc22b6c6409f49c8220ebac5a6c9e7441f4716746dd69984e" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/gpnwwotkqafg8os/AudioMod+1.0.0.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.9p5",
+            "mcvsn": ["b1.9p5"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.9p5.zip",
+                    "archived": "18710caa3a72b56a5043bcc0867e6deb97a6881410dc6a9bdcb711d24892fcb9/AudioMod B1.9p5.zip",
+                    "hash": { "type": "sha256", "digest": "18710caa3a72b56a5043bcc0867e6deb97a6881410dc6a9bdcb711d24892fcb9" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/2779udab672oevz/AudioMod+B1.9p5.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.8.1",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.8.1.zip",
+                    "archived": "3a4990ea1183b8f073ef20ef2883cb52941bba3a0ca6da745b74d87b16e9e015/AudioMod B1.8.1.zip",
+                    "hash": { "type": "sha256", "digest": "3a4990ea1183b8f073ef20ef2883cb52941bba3a0ca6da745b74d87b16e9e015" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/c4sxbjabrvb5pmn/AudioMod+B1.8.1.zip" }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "B1.7.3",
             "mcvsn": ["b1.7.3"],
             "files": [
@@ -15,6 +237,225 @@
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
                         { "type": "original", "url": "http://www.mediafire.com/file/f5mmpxpz667pyaw/AudioMod+B1.7.3.zip" }
                     ]
+                }
+            ]
+        },
+        {
+            "name": "b1.6.5",
+            "mcvsn": ["b1.6.6", "b1.6.5"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.6.5.zip",
+                    "archived": "3eed53b12f1f860f132ee7b7ac64dffc70a814387e19927dd0ae194e67ea1736/AudioMod B1.6.5.zip",
+                    "hash": { "type": "sha256", "digest": "3eed53b12f1f860f132ee7b7ac64dffc70a814387e19927dd0ae194e67ea1736" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/39evlr94a2z2eda/AudioMod+B1.6.5.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.6.4",
+            "mcvsn": ["b1.6.4"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.6.4.zip",
+                    "archived": "dcc8474939f6579a05da60cf4eff1a7d629c24dd2b69b46bc7fdd2fb51a524ef/AudioMod B1.6.4.zip",
+                    "hash": { "type": "sha256", "digest": "dcc8474939f6579a05da60cf4eff1a7d629c24dd2b69b46bc7fdd2fb51a524ef" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/zve0bul6z2a88zv/AudioMod+B1.6.4.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.5_01",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.5_01.zip",
+                    "archived": "7a3f55a595b667cd993045a16932fb8ebf5f1065530cfe493902f9bc6dc9f604/AudioMod B1.5_01.zip",
+                    "hash": { "type": "sha256", "digest": "7a3f55a595b667cd993045a16932fb8ebf5f1065530cfe493902f9bc6dc9f604" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/qab0qcqjirpw4a9/AudioMod+B1.5_01.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.4",
+            "mcvsn": ["b1.4_01", "b1.4"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.4.zip",
+                    "archived": "167187f76bb5aa4d87787dd9ae31e2f73d52bf30edd4abded8c37feda5174a90/AudioMod B1.4.zip",
+                    "hash": { "type": "sha256", "digest": "167187f76bb5aa4d87787dd9ae31e2f73d52bf30edd4abded8c37feda5174a90" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/puh5apazrn5hd5r/AudioMod+B1.4.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.3_01",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.3_01.zip",
+                    "archived": "fb2919025c6cf9a29db8cecc1e83e15904408a2e6c80ae95a9ad27b908b17ff9/AudioMod B1.3_01.zip",
+                    "hash": { "type": "sha256", "digest": "fb2919025c6cf9a29db8cecc1e83e15904408a2e6c80ae95a9ad27b908b17ff9" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/wju5c4qp6g3kj7p/AudioMod+B1.3_01.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.3",
+            "mcvsn": ["b1.3"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.3.zip",
+                    "archived": "78cc10ad69e5e28773e039eed96d86e26d23fb3fdefe9a10029a5179f0e6d3f3/AudioMod B1.3.zip",
+                    "hash": { "type": "sha256", "digest": "78cc10ad69e5e28773e039eed96d86e26d23fb3fdefe9a10029a5179f0e6d3f3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "b1.2",
+            "mcvsn": ["b1.2_02", "b1.2_01", "b1.2"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.2.rar",
+                    "archived": "8fa76fa4ebda2aa8d22b5597673fb89442685b23df64297bd7aad087114c5a70/AudioMod B1.2.rar",
+                    "hash": { "type": "sha256", "digest": "8fa76fa4ebda2aa8d22b5597673fb89442685b23df64297bd7aad087114c5a70" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/p7b7nm5hm2aozc7/AudioMod+B1.2.rar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.1_02v2",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.1_02v2.rar",
+                    "archived": "9c55afab88bd129391cd8dfc31a80672b4eb1aa877aee1cea732e6d1f269b462/AudioMod B1.1_02v2.rar",
+                    "hash": { "type": "sha256", "digest": "9c55afab88bd129391cd8dfc31a80672b4eb1aa877aee1cea732e6d1f269b462" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/23bzqzi786k4x59/AudioMod+B1.1_02v2.rar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "b1.0_02",
+            "mcvsn": ["b1.0_02"],
+            "files": [
+                {
+                    "filename": "AudioMod B1.0_02.rar",
+                    "archived": "9bb394ff18366804ded702e5a2d17d2e133176752ded57fc0543a7ba4b2a9be3/AudioMod B1.0_02.rar",
+                    "hash": { "type": "sha256", "digest": "9bb394ff18366804ded702e5a2d17d2e133176752ded57fc0543a7ba4b2a9be3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.6",
+            "mcvsn": ["a1.2.6"],
+            "files": [
+                {
+                    "filename": "AudioMod A1.2.6.rar",
+                    "archived": "912bd57480445b5ea314390792eeb29ef40b6c4ddbd28fdabb4416749dc7dffa/AudioMod A1.2.6.rar",
+                    "hash": { "type": "sha256", "digest": "912bd57480445b5ea314390792eeb29ef40b6c4ddbd28fdabb4416749dc7dffa" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/xlcyc2irg7ma051/AudioMod+A1.2.6.rar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "a1.2.5",
+            "mcvsn": ["a1.2.5"],
+            "files": [
+                {
+                    "filename": "AudioMod A1.2.5.rar",
+                    "archived": "c9dec6bde5d92008ef323b4a78fa16fd518e769da5091f68f96be9773c3387fd/AudioMod A1.2.5.rar",
+                    "hash": { "type": "sha256", "digest": "c9dec6bde5d92008ef323b4a78fa16fd518e769da5091f68f96be9773c3387fd" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.4_01",
+            "mcvsn": ["a1.2.4_01"],
+            "files": [
+                {
+                    "filename": "AudioMod A1.2.4_01.rar",
+                    "archived": "d83db7278b9ad6f84204fbed907cf0496889270a4b7afd104109d235da1a71fa/AudioMod A1.2.4_01.rar",
+                    "hash": { "type": "sha256", "digest": "d83db7278b9ad6f84204fbed907cf0496889270a4b7afd104109d235da1a71fa" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/54ndwrmua117yqf/AudioMod+A1.2.4_01.rar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "a1.2.3_04",
+            "mcvsn": ["a1.2.3_04"],
+            "files": [
+                {
+                    "filename": "AudioMod A1.2.3_04.rar",
+                    "archived": "a616eada4d49e08317f11f4bab4e6f4325b7f7efe58db9e54b5016bc96f370fd/AudioMod A1.2.3_04.rar",
+                    "hash": { "type": "sha256", "digest": "a616eada4d49e08317f11f4bab4e6f4325b7f7efe58db9e54b5016bc96f370fd" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.2",
+            "mcvsn": ["a1.2.2"],
+            "files": [
+                {
+                    "filename": "AudioMod A1.2.2.rar",
+                    "archived": "e84af63b85324eeaea6cdea82b0bc35b2a3bed9cb03784437d6f4ef2fe3cfe9c/AudioMod A1.2.2.rar",
+                    "hash": { "type": "sha256", "digest": "e84af63b85324eeaea6cdea82b0bc35b2a3bed9cb03784437d6f4ef2fe3cfe9c" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.1_01",
+            "mcvsn": ["a1.2.1_01"],
+            "files": [
+                {
+                    "filename": "AudioMod A1.2.1_01.rar",
+                    "archived": "82a3d2dabbc1b8eab786bb126b2adef1bca4f35b9becb0e7e4b1e20e1121904a/AudioMod A1.2.1_01.rar",
+                    "hash": { "type": "sha256", "digest": "82a3d2dabbc1b8eab786bb126b2adef1bca4f35b9becb0e7e4b1e20e1121904a" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "a1.2.0_02",
+            "mcvsn": ["a1.2.0_02"],
+            "files": [
+                {
+                    "filename": "AudioMod A1.2.0_02.rar",
+                    "archived": "a33521726fba844d8b0ca9ed79c2f98776e11abf3433158810d02e9c7de9cab9/AudioMod A1.2.0_02.rar",
+                    "hash": { "type": "sha256", "digest": "a33521726fba844d8b0ca9ed79c2f98776e11abf3433158810d02e9c7de9cab9" },
+                    "urls": []
                 }
             ]
         }
