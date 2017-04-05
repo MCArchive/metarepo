@@ -1,0 +1,503 @@
+{
+    "format": 1,
+    "name": "GuiAPI",
+    "authors": ["Lahwran", "ShaRose"],
+    "versions": [
+        {
+            "name": "0.15.6",
+            "desc": "0.15.6 - 0.15.2 use Minecraft Forge.",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.15.6-1.5.2.jar",
+                    "ipfs": "QmaFd37AgMrZ8vBRFvE4JKPhNtMS9t7Mq3qqNkY8ReMMcN",
+                    "archived": "5fca479a444248f86e30171d8bc17186084f7e828134d4338da8ab8ed6a331e3/GuiAPI-0.15.6-1.5.2.jar",
+                    "hash": { "type": "sha256", "digest": "5fca479a444248f86e30171d8bc17186084f7e828134d4338da8ab8ed6a331e3" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.15.6-1.5.2.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.15.5",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.15.5-1.5.1.jar",
+                    "ipfs": "QmSAGBDtnKtiCA3THjGtGGCG93V4zMNQkSR3bjR9hCbVEv",
+                    "archived": "13209cea05342ecafcc09c8aad1c2b2f70da74fc79ec5e4aad805c72ee8bfd16/GuiAPI-0.15.5-1.5.1.jar",
+                    "hash": { "type": "sha256", "digest": "13209cea05342ecafcc09c8aad1c2b2f70da74fc79ec5e4aad805c72ee8bfd16" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.15.5-1.5.1.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.15.4",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.15.4-1.5.1.jar",
+                    "ipfs": "Qmeco66pxvs57kexr73BHEZQ5yYYnVLi86DiT2kMnU2Z4P",
+                    "archived": "012f8f91d95e9b4b330ca0f44676ac35c68836761bc1b583501df0067e7a7cb8/GuiAPI-0.15.4-1.5.1.jar",
+                    "hash": { "type": "sha256", "digest": "012f8f91d95e9b4b330ca0f44676ac35c68836761bc1b583501df0067e7a7cb8" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.15.4-1.5.1.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.15.3",
+            "mcvsn": ["1.5"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.15.3-1.5.jar",
+                    "ipfs": "Qmbg9pQtLcFTkgfRRxYyTYqSf3m9PnExoqTYqXr5431jiJ",
+                    "archived": "081b6604b986021f98af4cfa32d7187755bcd0440935420aaeb0dc8a4bb29cc1/GuiAPI-0.15.3-1.5.jar",
+                    "hash": { "type": "sha256", "digest": "081b6604b986021f98af4cfa32d7187755bcd0440935420aaeb0dc8a4bb29cc1" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.15.3-1.5.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.15.2",
+            "desc": "0.15.6 - 0.15.2 use Minecraft Forge.",
+            "mcvsn": ["1.4.6"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.15.2-1.4.6.jar",
+                    "ipfs": "QmNdSz9Wj8KpCJD1kvevuHdbjUSvcyaXdF89XyUxDcwnto",
+                    "archived": "4e6ba5cd70fbc3fa3bf0de3efa4fd86492ab394cda43bb8fa1159ef8edc63d41/GuiAPI-0.15.2-1.4.6.jar",
+                    "hash": { "type": "sha256", "digest": "4e6ba5cd70fbc3fa3bf0de3efa4fd86492ab394cda43bb8fa1159ef8edc63d41" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.15.2-1.4.6.jar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.15.1",
+            "desc": "Requires ModLoader or Minecraft Forge.",
+            "mcvsn": ["1.4.5"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.15.1-1.4.5.zip",
+                    "ipfs": "QmWDTCdxBohZrybR191EXUUQctiaYYFCTcFr3rppimt8bY",
+                    "archived": "443cd1de0920275ee01700fcd373591e40c7a0fea7d38f44b38a69cebbc18fdb/GuiAPI-0.15.1-1.4.5.zip",
+                    "hash": { "type": "sha256", "digest": "443cd1de0920275ee01700fcd373591e40c7a0fea7d38f44b38a69cebbc18fdb" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.15.1-1.4.5.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.15.0",
+            "desc": "Requires ModLoader or Minecraft Forge.",
+            "mcvsn": ["1.4.4"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.15.0-1.4.4.zip",
+                    "ipfs": "QmUKturkicaZNA7QwvC3UqDGX3yJLWaLYTQ5NMaRNKUNkC",
+                    "archived": "aff644a63150e3c72812ef6d66db2fcb4ffab7a9d6d38e47cb540e11552ced59/GuiAPI-0.15.0-1.4.4.zip",
+                    "hash": { "type": "sha256", "digest": "aff644a63150e3c72812ef6d66db2fcb4ffab7a9d6d38e47cb540e11552ced59" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.15.0-1.4.4.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.8",
+            "desc": "This version and all older versions require ModLoader for their respective Minecraft version.",
+            "mcvsn": ["1.4.2"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.8-1.4.2.zip",
+                    "ipfs": "QmXZvdBfLUtY7tzNKU5FUfdoR6aAuimpuY2eVLU3bKYvVx",
+                    "archived": "5bf84ecea11503005605f99612e4bb995f022b394a35009e08056f91f0090506/GuiAPI-0.14.8-1.4.2.zip",
+                    "hash": { "type": "sha256", "digest": "5bf84ecea11503005605f99612e4bb995f022b394a35009e08056f91f0090506" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.8-1.4.2.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.7",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.7-1.3.2.zip",
+                    "ipfs": "QmYQ1PS4oqH6BBUveygbRH5UBesTHvTxzG8LEfpbpLFaEa",
+                    "archived": "ff49681ef0c6e57903d8681d982522181f61e11705a8cd5d88c461acf16c76f7/GuiAPI-0.14.7-1.3.2.zip",
+                    "hash": { "type": "sha256", "digest": "ff49681ef0c6e57903d8681d982522181f61e11705a8cd5d88c461acf16c76f7" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.7-1.3.2.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.6",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.6-1.3.2.zip",
+                    "ipfs": "QmWwqgsm9RiGx1JLM241JZAEPhSeHVL2EMTYSS4iWUiZkz",
+                    "archived": "cd99d14e38b8eea660b3f62693519db9b3f19f5a5b6ff77c194ce9e6951e2f5b/GuiAPI-0.14.6-1.3.2.zip",
+                    "hash": { "type": "sha256", "digest": "cd99d14e38b8eea660b3f62693519db9b3f19f5a5b6ff77c194ce9e6951e2f5b" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.6-1.3.2.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.5",
+            "mcvsn": ["1.3.1"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.5-1.3.1.zip",
+                    "ipfs": "QmSU24s9byFauUXDr71JZ9dCycVoJFLn5dHd2J4gfA4MVK",
+                    "archived": "e449fd7f71ecd480e5acbd60b21f2736a7d86cbf37ed352a8052bad2b0d05db6/GuiAPI-0.14.5-1.3.1.zip",
+                    "hash": { "type": "sha256", "digest": "e449fd7f71ecd480e5acbd60b21f2736a7d86cbf37ed352a8052bad2b0d05db6" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.5-1.3.1.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.4",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.4-1.2.5.zip",
+                    "ipfs": "QmabhCFs7nbQsi8YpkF2QfWuQYs15qA5GmvDQ6HLnA7dSu",
+                    "archived": "717200932312646b19b9fecbaa2e2daf26902d25e4053eb6e55fdb8fde173496/GuiAPI-0.14.4-1.2.5.zip",
+                    "hash": { "type": "sha256", "digest": "717200932312646b19b9fecbaa2e2daf26902d25e4053eb6e55fdb8fde173496" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.4-1.2.5.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.3",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.3-1.2.5.zip",
+                    "ipfs": "QmUZYKHBfR7FJjftsbq7fHgcsNhiFKkSEfLGMtoWQckYDr",
+                    "archived": "b7d32ca134dd940d0bfdeb8eb890fe925401542fa322b5e9c452ef79184b5275/GuiAPI-0.14.3-1.2.5.zip",
+                    "hash": { "type": "sha256", "digest": "b7d32ca134dd940d0bfdeb8eb890fe925401542fa322b5e9c452ef79184b5275" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.3-1.2.5.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.2",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.2-1.2.5.zip",
+                    "ipfs": "QmcyhkMmCHdw3LA15decyS6LzEt7MwLb9ST3JRSfKiYGNh",
+                    "archived": "6f37bb31b2bb411a79336f37e11a54b93889b6161aefbe4cb1ec796bb6232824/GuiAPI-0.14.2-1.2.5.zip",
+                    "hash": { "type": "sha256", "digest": "6f37bb31b2bb411a79336f37e11a54b93889b6161aefbe4cb1ec796bb6232824" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.2-1.2.5.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.1",
+            "mcvsn": ["1.2.4"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.1-1.2.4.zip",
+                    "ipfs": "QmTnHFEP8oopUHE7MDE3N5Mvrgo4qTA4BTQgPQwCJBJooE",
+                    "archived": "b2f63d05f10a0f76257fea55f72e33325acd438875ceffb2ac24bca036f27b00/GuiAPI-0.14.1-1.2.4.zip",
+                    "hash": { "type": "sha256", "digest": "b2f63d05f10a0f76257fea55f72e33325acd438875ceffb2ac24bca036f27b00" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.1-1.2.4.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.14.0",
+            "mcvsn": ["1.2.3"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.14.0-1.2.3.zip",
+                    "ipfs": "QmXtvAe9nFxHpHCJADYRaz8RG4dwaVPy1psQuJzLrWdhmr",
+                    "archived": "75605d82c223a1a87d2bb67c5bf9c4d87d79d8ba3691d4c03de25842c9c6f92b/GuiAPI-0.14.0-1.2.3.zip",
+                    "hash": { "type": "sha256", "digest": "75605d82c223a1a87d2bb67c5bf9c4d87d79d8ba3691d4c03de25842c9c6f92b" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.14.0-1.2.3.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.13.1",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.13.1-1.1.zip",
+                    "ipfs": "QmcrKFQ8YWFu8qjHRGmJGjEgKWxTaYo6A9oAna397NxwwC",
+                    "archived": "a721ab48799e79064e2f580d6f4dff8ed0232ecff614fc55b76d5c13eb0f103f/GuiAPI-0.13.1-1.1.zip",
+                    "hash": { "type": "sha256", "digest": "a721ab48799e79064e2f580d6f4dff8ed0232ecff614fc55b76d5c13eb0f103f" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.13.1-1.1.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.13.0",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.13.0-1.1.zip",
+                    "ipfs": "QmPyMeFfmoUwzwZxx4ehsv3o5WTELSw3ZhrwLGiqw6hR7h",
+                    "archived": "4807c65400ff55e3486e7ad79fad31f9e1e308ab78b6a75ceaeecd19f6888175/GuiAPI-0.13.0-1.1.zip",
+                    "hash": { "type": "sha256", "digest": "4807c65400ff55e3486e7ad79fad31f9e1e308ab78b6a75ceaeecd19f6888175" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.13.0-1.1.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.12.0",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.12.0-1.0.0.zip",
+                    "ipfs": "QmeKjperktQGD7iTVLuoVzi2W4rmShbopwzKV2FDtkj8wN",
+                    "archived": "2506e64974cc37da3a953de31331f3d539db12ada99c547d878cb2494e837f07/GuiAPI-0.12.0-1.0.0.zip",
+                    "hash": { "type": "sha256", "digest": "2506e64974cc37da3a953de31331f3d539db12ada99c547d878cb2494e837f07" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.12.0-1.0.0.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.11.1",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "GuiAPI-0.11.1-1.8.1.zip",
+                    "ipfs": "QmU8nJniKBE6uR8MRAakboVSS9gYdDdN2ba3vbWGzgf3bQ",
+                    "archived": "92e4c6dc36d7a555fa65374aefe49945255ae0a3ff030f6854afecc454191e0d/GuiAPI-0.11.1-1.8.1.zip",
+                    "hash": { "type": "sha256", "digest": "92e4c6dc36d7a555fa65374aefe49945255ae0a3ff030f6854afecc454191e0d" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI-0.11.1-1.8.1.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.11.0",
+            "mcvsn": ["b1.7.3", "b1.7.2"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.11.0-1.7.zip",
+                    "ipfs": "QmanAUGY6s2wt168ovuz1pPP8bSABDutBGbus6HBAE2ckC",
+                    "archived": "8d72030f34f7b8c50187fe517cd53fcacc6c724065f27ec677ec8b08d8f0429a/GuiAPI0.11.0-1.7.zip",
+                    "hash": { "type": "sha256", "digest": "8d72030f34f7b8c50187fe517cd53fcacc6c724065f27ec677ec8b08d8f0429a" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI0.11.0-1.7.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.10.4",
+            "mcvsn": ["b1.7.3", "b1.7.2"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.10.4-1.7.zip",
+                    "ipfs": "QmYQ5Y83ABBU3EQybWmoaffvnaEF7Uv5BKHLgRWwjmJe7N",
+                    "archived": "81015eaf8966576f11f2f596adce8d48fe4a9f5b41dbd326723f964b447527ee/GuiAPI0.10.4-1.7.zip",
+                    "hash": { "type": "sha256", "digest": "81015eaf8966576f11f2f596adce8d48fe4a9f5b41dbd326723f964b447527ee" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI0.10.4-1.7.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.10.3",
+            "mcvsn": ["b1.7.3", "b1.7.2"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.10.3-1.7.zip",
+                    "ipfs": "QmZyhq7bq5x2pdP8BVncncX5N8bRDb2FUBSVpQby6tbgot",
+                    "archived": "7af878e0be1d13c1eca75ec867ca60de23bdd2243b0c953bba6723b265e3c645/GuiAPI0.10.3-1.7.zip",
+                    "hash": { "type": "sha256", "digest": "7af878e0be1d13c1eca75ec867ca60de23bdd2243b0c953bba6723b265e3c645" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.10.2",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.10.2-1.6.6.zip",
+                    "ipfs": "QmXzPEZTwQMAz3jwEokRaVuRzC5RXNUic93tvbj3QtVAL2",
+                    "archived": "c5f24cd0361639a7498c339a79d3dcefbd6f0193135af4f2b225e1716bbd79ae/GuiAPI0.10.2-1.6.6.zip",
+                    "hash": { "type": "sha256", "digest": "c5f24cd0361639a7498c339a79d3dcefbd6f0193135af4f2b225e1716bbd79ae" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI0.10.2-1.6.6.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.10.1",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.10.1-1.6.6.zip",
+                    "ipfs": "QmQ1nFKBRFUxfHd1nEnNHiSbC3Ngqx3Qa1b3vHSTE6zwUx",
+                    "archived": "7964c404d20b83195cd85f6dac90fcfeac36526313ef959141ccd0eb69be3b9f/GuiAPI0.10.1-1.6.6.zip",
+                    "hash": { "type": "sha256", "digest": "7964c404d20b83195cd85f6dac90fcfeac36526313ef959141ccd0eb69be3b9f" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.9.9",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.9.9-1.6.6.zip",
+                    "ipfs": "QmTyztu9VvkwYertVGXWFwFHQgC3wsbj81K6jK6DnYTbov",
+                    "archived": "f7754d90ba31385cc23ec17533056f54b0daf1bd382528209355fa5d9f49e423/GuiAPI0.9.9-1.6.6.zip",
+                    "hash": { "type": "sha256", "digest": "f7754d90ba31385cc23ec17533056f54b0daf1bd382528209355fa5d9f49e423" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.9.8a",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.9.8a-1.5_01.zip",
+                    "ipfs": "QmWwmsvwTdeNpqreZjSmyYvCBByWTAhJouFvs7ahfzb2UA",
+                    "archived": "f518bd2d0a64eecf610c6ba8f54e0d57f621ad190528d9a5b1fe618603cba220/GuiAPI0.9.8a-1.5_01.zip",
+                    "hash": { "type": "sha256", "digest": "f518bd2d0a64eecf610c6ba8f54e0d57f621ad190528d9a5b1fe618603cba220" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI0.9.8a-1.5_01.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.9.8",
+            "mcvsn": ["b1.4"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.9.8-1.4.zip",
+                    "ipfs": "Qme2p5oqcsS5UEReK7bGdwzmkW3pr2dU144JZ11kgzkvkV",
+                    "archived": "54adf82cc5a2fa78ff90f284a809c61e889b6c982eb66e58020baa413b94b3c7/GuiAPI0.9.8-1.4.zip",
+                    "hash": { "type": "sha256", "digest": "54adf82cc5a2fa78ff90f284a809c61e889b6c982eb66e58020baa413b94b3c7" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI0.9.8-1.4.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "0.9.7",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.9.7-1.3_01-nocamerawarp.zip",
+                    "ipfs": "QmZcKNCmbumvkPDbmhrmfLxJ3QvFgtNBqCz12wsDcxQH31",
+                    "archived": "b4267e00824b35bff503515b03a8f63c5de07e864a09d7343a39f058d7f51463/GuiAPI0.9.7-1.3_01-nocamerawarp.zip",
+                    "hash": { "type": "sha256", "digest": "b4267e00824b35bff503515b03a8f63c5de07e864a09d7343a39f058d7f51463" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI0.9.7-1.3_01-nocamerawarp.zip" }
+                    ]
+                },
+                {
+                    "filename": "GuiAPI0.9.7-1.3_01.zip",
+                    "ipfs": "QmYvSVNAb6kDsn1VAzZdhN82rGeZoaXoDzX4icEethZo8E",
+                    "archived": "76da7d6917c33e0b847efbcc17a6ea32274e73358b9b1b6cea8bfece1cc2fbc0/GuiAPI0.9.7-1.3_01.zip",
+                    "hash": { "type": "sha256", "digest": "76da7d6917c33e0b847efbcc17a6ea32274e73358b9b1b6cea8bfece1cc2fbc0" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.9.6",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "GuiApi0.9.6-1.3_01.zip",
+                    "ipfs": "QmQ9xCSHrsQZyDkHV3HKSjg4YwrYAxxcuM5jdsUEUVMrEd",
+                    "archived": "8c8b499cb5c57795ae2c1af2f7823ec6a971f47f1bc48cb6373ce1aeb9f84869/GuiApi0.9.6-1.3_01.zip",
+                    "hash": { "type": "sha256", "digest": "8c8b499cb5c57795ae2c1af2f7823ec6a971f47f1bc48cb6373ce1aeb9f84869" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.9.5a",
+            "mcvsn": ["b1.2_01"],
+            "files": [
+                {
+                    "filename": "GuiAPI0.9.5alpha-1.2_01beta.zip",
+                    "ipfs": "QmXtt7dByFdj7FxqQCgZcTeMhoJqzLsgAS69J5EXXd4JEG",
+                    "archived": "a30b927992eb98705cec26f4cbe61e1ff57d87617d11a678199bb471a953e3c2/GuiAPI0.9.5alpha-1.2_01beta.zip",
+                    "hash": { "type": "sha256", "digest": "a30b927992eb98705cec26f4cbe61e1ff57d87617d11a678199bb471a953e3c2" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276886-1-5-2-guiapi-an-advanced-gui-toolkit" },
+                        { "type": "original", "url": "https://raw.githubusercontent.com/ShaRose/GuiAPI/releases/GuiAPI0.9.5alpha-1.2_01beta.zip" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
