@@ -1,0 +1,171 @@
+{
+    "format": 1,
+    "name": "ModOptionsAPI",
+    "authors": ["Clintonio", "WyrdOne"],
+    "versions": [
+        {
+            "name": "1.5.1",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "moapi-1.5.1.zip",
+                    "desc": "Requires ModLoader.",
+                    "hash": { "type": "sha256", "digest": "21d962702f146f5792505a44e3bbdcde7a10153bf7b0cc584d608ad40aba3a07" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.6b",
+            "mcvsn": ["1.4.6"],
+            "files": [
+                {
+                    "filename": "moapi-client-1.4.6b.zip",
+                    "desc": "Requires ModLoader.",
+                    "hash": { "type": "sha256", "digest": "c42a6b8318f8d24de732bf23f5393e266a2d6471822e5b2c4967bc0aa9d1eff3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.6",
+            "mcvsn": ["1.4.6"],
+            "files": [
+                {
+                    "filename": "moapi-client-1.4.6.zip",
+                    "hash": { "type": "sha256", "digest": "d392738846ce059c2aadb81b8d9c21c5238c9258e52e15ee47017d75b9db4d0e" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.4",
+            "mcvsn": ["1.4.4"],
+            "files": [
+                {
+                    "filename": "moapi-client-1.4.4.zip",
+                    "hash": { "type": "sha256", "digest": "e5d6aada9bf40dc13d40bf3d26100232817352df7517f9b1b8e6f7403b2be8a7" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.2",
+            "mcvsn": ["1.4.2"],
+            "files": [
+                {
+                    "filename": "MOAPI-1.4.2.zip",
+                    "hash": { "type": "sha256", "digest": "fc007909d22339f97153ae5b44283860808c46084923c10682b58b1904090be6" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.2",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "MOAPI-1.3.2.zip",
+                    "hash": { "type": "sha256", "digest": "205a6d0a8770c45609fde466343285e90428c1bdb3d98c85724bc61e3de5c77d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.1",
+            "mcvsn": ["1.3.1"],
+            "files": [
+                {
+                    "filename": "MOAPI-1.3.1.zip",
+                    "hash": { "type": "sha256", "digest": "642f79aa9d18210377882c49283f2753ab966d53110d26197257ab40527fde26" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.5",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "moapi-1.2.5.zip",
+                    "desc": "This is the first version from a new maintainer.",
+                    "hash": { "type": "sha256", "digest": "f988f2aee444efed4f7b8c69c0a88ffbd4bc454949f1ff788443352310d8df29" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "9",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "moapi.9.zip",
+                    "desc": "This is the last version from the old maintainer.",
+                    "hash": { "type": "sha256", "digest": "27ef94cda651f0642482fbb9dd07b406588904e1c1e25bb6c7ac4643e0efc625" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "8",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "moapi.8.zip",
+                    "hash": { "type": "sha256", "digest": "a74be1f4a25daafac7aa93747ad7fe7c593f86712b7e0acc5eea392e8652aa73" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.7",
+            "mcvsn": ["b1.7.3", "b1.7.2"],
+            "files": [
+                {
+                    "filename": "ModOptionsAPI-v0.7.zip",
+                    "hash": { "type": "sha256", "digest": "ebf88d51e8e76d669c7221ddf6de78f800f1f0f4c68da0bbe18ff09005095cae" },
+                    "urls": []
+                },
+                {
+                    "filename": "GuiApiPatch-v0.7.zip",
+                    "desc": "This patch only works for GuiAPI 0.10.4-1.7. This will not work for 0.11.0-1.7.",
+                    "hash": { "type": "sha256", "digest": "1bef877f217751744a50c77b6b761e781d75f5097d19dfb37b176a6bee79edc0" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.6.5",
+            "mcvsn": ["b1.7.3", "b1.7.2"],
+            "files": [
+                {
+                    "filename": "ModOptionsAPI-v0.6.5.zip",
+                    "hash": { "type": "sha256", "digest": "536f8d54cbfbda2f90056ab248c70f8c354defbf71905cd0876df33f1639eab0" },
+                    "urls": []
+                },
+                {
+                    "filename": "GuiApiPatch-v0.6.5.zip",
+                    "desc": "This patch only works for GuiAPI 0.10.4-1.7. This will not work for 0.11.0-1.7.",
+                    "hash": { "type": "sha256", "digest": "9c202218fbc872906c31079c6ec297dc1e07fcf810d41e58bd6fe093bcb93949" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "0.6",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "ModOptionsAPI-v0.6.zip",
+                    "hash": { "type": "sha256", "digest": "1c79c2e22a95713022f517beefb14ef942b675cb12c3bf5c23b94a4382c3dc23" },
+                    "urls": []
+                },
+                {
+                    "filename": "GuiApiPatch-v0.6.zip",
+                    "hash": { "type": "sha256", "digest": "b1ec2751ecef01345378487ff18b6b49992f11e9c21feaf0d265d5ce861362b5" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
