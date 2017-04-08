@@ -10,7 +10,7 @@
             "files": [
                 {
                     "filename": "aether-1.7.10-1.6.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmPR29Coo7cE2fNxyBrQRfdKPrAcwKb8e2JxYwFpRKTo73",
                     "archived": "8e6221100a87fe1d0170d94360a0b33bc18fe1bac207fa03ab6df5197b34bd14/aether-1.7.10-1.6.jar",
                     "hash": { "type": "sha256", "digest": "8e6221100a87fe1d0170d94360a0b33bc18fe1bac207fa03ab6df5197b34bd14" },
                     "urls": [
@@ -27,7 +27,7 @@
             "files": [
                 {
                     "filename": "aether-1.7.10-1.5.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmWxAx2MkPHTSTQnFeGKa2Z4AQcyrE8NHuDLvKycKL8NRD",
                     "archived": "d2e51b241f7bfd23dc3b86b9bfa53ff3a019f0eca62fd539ef1ae4cb3f617ea5/aether-1.7.10-1.5.jar",
                     "hash": { "type": "sha256", "digest": "d2e51b241f7bfd23dc3b86b9bfa53ff3a019f0eca62fd539ef1ae4cb3f617ea5" },
                     "urls": []
@@ -41,7 +41,7 @@
             "files": [
                 {
                     "filename": "aether-1.7.10-1.4.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmcvF3MRVvhG8WBbxv22pMqHFERf4NK3MKFFTMbirPxMV4",
                     "archived": "8dcfc4cc167f507f0081180feb4a0e22dfeb753a09a67e7752668ff3e85e5aa9/aether-1.7.10-1.4.jar",
                     "hash": { "type": "sha256", "digest": "8dcfc4cc167f507f0081180feb4a0e22dfeb753a09a67e7752668ff3e85e5aa9" },
                     "urls": []
@@ -55,7 +55,7 @@
             "files": [
                 {
                     "filename": "aether-1.7.10-1.1.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmRb7dnpgqXmmrS63yUsCk3qeRZQijc5PPRzrT9coJsbbf",
                     "archived": "3e07fe644b9716a2738a0667d5b235b6dbe6fb207e2e8ef9b412555d4b4acf36/aether-1.7.10-1.1.jar",
                     "hash": { "type": "sha256", "digest": "3e07fe644b9716a2738a0667d5b235b6dbe6fb207e2e8ef9b412555d4b4acf36" },
                     "urls": []
@@ -68,8 +68,8 @@
             "mcvsn": ["1.7.10"],
             "files": [
                 {
-                    "filename": "aether-1.7.10-1.2.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "filename": "aether-1.7.10-1.0.jar",
+                    "ipfs": "QmRbgkFwSLKq7buE1eVx3URWahotbHE93Cm2mpaCQMRnHM",
                     "archived": "464df5e45a3c3d7762d6e2b4531c82410629b23419bdd5a1953cba3f59599f46/aether-1.7.10-1.0.jar",
                     "hash": { "type": "sha256", "digest": "464df5e45a3c3d7762d6e2b4531c82410629b23419bdd5a1953cba3f59599f46" },
                     "urls": []
@@ -83,7 +83,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-4.0.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmScK2ngQEej2CMrJcPcJ76PyrcoHWHRYXXgyecLMvG1oe",
                     "archived": "41dbc52064de6049736bbaf5d60a41485ab925e47bcc8e9e612da4792ab9d02d/aether-1.6.4-4.0.jar",
                     "hash": { "type": "sha256", "digest": "41dbc52064de6049736bbaf5d60a41485ab925e47bcc8e9e612da4792ab9d02d" },
                     "urls": []
@@ -97,7 +97,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-3.4.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmUVv8BqvCVqRdjPp9ZQqxaVu42UwkfXGsdQBHRmo5v9TD",
                     "archived": "6a7612144c0362685d620dfba2a51ac81977f5555b5539e2346bed8fc9f85897/aether-1.6.4-3.4.jar",
                     "hash": { "type": "sha256", "digest": "6a7612144c0362685d620dfba2a51ac81977f5555b5539e2346bed8fc9f85897" },
                     "urls": []
@@ -111,7 +111,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-3.3.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "Qmcax1HqNCH48THxnjWPMTSmULyqRPv22mhnohLHCDpEUJ",
                     "archived": "a3d480b61ad09525c0005d12df80d38d7b8c19bac15bb7457fda94b59358e72a/aether-1.6.4-3.3.jar",
                     "hash": { "type": "sha256", "digest": "a3d480b61ad09525c0005d12df80d38d7b8c19bac15bb7457fda94b59358e72a" },
                     "urls": []
@@ -125,7 +125,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-3.2.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmVrDAnXCQ6bdzfeisQ1WJeTqbcKXZyWrXPrvva1koLSGh",
                     "archived": "5e349409ec5d28ff0c77c2bc0ce6b43fe25b7ae9d8d7b7f332f2a05d931fa317/aether-1.6.4-3.2.jar",
                     "hash": { "type": "sha256", "digest": "5e349409ec5d28ff0c77c2bc0ce6b43fe25b7ae9d8d7b7f332f2a05d931fa317" },
                     "urls": []
@@ -139,7 +139,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-3.1.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmWmR1rcjMQWVSd4sBo1At2Y89WjC4hGWUPWNiXRgJavkB",
                     "archived": "dc8801dda2a857be93fa4047f88c3abbf15d977d0e1bcd4097c6594ce4b5dcf5/aether-1.6.4-3.1.jar",
                     "hash": { "type": "sha256", "digest": "dc8801dda2a857be93fa4047f88c3abbf15d977d0e1bcd4097c6594ce4b5dcf5" },
                     "urls": []
@@ -153,7 +153,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-3.0.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmVdwzvNV13Cnbm6Kw34hgiPsr4AS9aXCrKJULaMykZF1H",
                     "archived": "4af63f58930a1e90fbc29d6f33e5489bf6511089894006e19ae04891b92ad4e3/aether-1.6.4-3.0.jar",
                     "hash": { "type": "sha256", "digest": "4af63f58930a1e90fbc29d6f33e5489bf6511089894006e19ae04891b92ad4e3" },
                     "urls": []
@@ -167,7 +167,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-2.0.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmPF4sXAWjwzmP3enmdk2MfjQVNjjwz5jqdkkirshA4Hsj",
                     "archived": "c09b417f801fc606a5a9d7124d0ddfa63b0faae554d34751e13524c1f1a5c4d9/aether-1.6.4-2.0.jar",
                     "hash": { "type": "sha256", "digest": "c09b417f801fc606a5a9d7124d0ddfa63b0faae554d34751e13524c1f1a5c4d9" },
                     "urls": []
@@ -181,7 +181,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.4-1.0.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmcrwXC66dQD5EE52ijC14VJphR264o9LDYwKe74LU1sWo",
                     "archived": "80bf06b7ad49a107618cb753c4f76e752eba54ee9c1c0d641ef0a6df4c00ea83/aether-1.6.4-1.0.jar",
                     "hash": { "type": "sha256", "digest": "80bf06b7ad49a107618cb753c4f76e752eba54ee9c1c0d641ef0a6df4c00ea83" },
                     "urls": []
@@ -195,7 +195,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.2-2.0.jar",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmTQ9pLXkPbMW9KdzdG6GfPg2gihA61Ng3zerH8kLZXY9m",
                     "archived": "2d07f6366c192b37ad8dca616c0f55c76ab7f7d8a098ab938243446dd10f988c/aether-1.6.2-2.0.jar",
                     "hash": { "type": "sha256", "digest": "2d07f6366c192b37ad8dca616c0f55c76ab7f7d8a098ab938243446dd10f988c" },
                     "urls": []
@@ -209,7 +209,7 @@
             "files": [
                 {
                     "filename": "aether-1.6.2-1.0.zip",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmX7dTjnkANEsYiLgVmWeySCJyerMbG3xgfvkwaSgjfunu",
                     "archived": "7ab03cc61d39845b256b5f113fc02e0523ac5c56ec235c54cc63be7302d5f239/aether-1.6.2-1.0.zip",
                     "hash": { "type": "sha256", "digest": "7ab03cc61d39845b256b5f113fc02e0523ac5c56ec235c54cc63be7302d5f239" },
                     "urls": []
@@ -223,7 +223,7 @@
             "files": [
                 {
                     "filename": "aether_1.5.2-1.0.zip",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmSRoAn2dPVG4yyw1pqLu5oV3xgazzt6Fbk9Y6gCLB4JqU",
                     "archived": "3a57f9d13fdb89d97bfc9f26da99b75ad3b816626c4fd0d1ff9b64f36b9c02f3/aether_1.5.2-1.0.zip",
                     "hash": { "type": "sha256", "digest": "3a57f9d13fdb89d97bfc9f26da99b75ad3b816626c4fd0d1ff9b64f36b9c02f3" },
                     "urls": []
@@ -237,7 +237,7 @@
             "files": [
                 {
                     "filename": "AetherII_Alpha_v1.0.2_MC1.5.1.zip",
-                    "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
+                    "ipfs": "QmVrV5QYRhnDYnSck99qupSw3gPzH5Pjuo4uWbRbvTJxVW",
                     "archived": "8e753c770ec78b12cee1bbe11eeadf74b592151f25eb32382215aab079245d55/AetherII_Alpha_v1.0.2_MC1.5.1.zip",
                     "hash": { "type": "sha256", "digest": "8e753c770ec78b12cee1bbe11eeadf74b592151f25eb32382215aab079245d55" },
                     "urls": []
