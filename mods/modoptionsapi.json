@@ -9,6 +9,7 @@
             "files": [
                 {
                     "filename": "moapi-1.5.1.zip",
+                    "ipfs": "QmaE59S7y9JqXx9pqmbDNCdeAZmtc5hELVckHQd87cEhgi",
                     "desc": "Requires ModLoader.",
                     "hash": { "type": "sha256", "digest": "21d962702f146f5792505a44e3bbdcde7a10153bf7b0cc584d608ad40aba3a07" },
                     "urls": []
@@ -21,6 +22,7 @@
             "files": [
                 {
                     "filename": "moapi-client-1.4.6b.zip",
+                    "ipfs": "QmcASATXm88UJ7GLcehpNYszoYFnmKAVgpRhsGAAfBkzLt",
                     "desc": "Requires ModLoader.",
                     "hash": { "type": "sha256", "digest": "c42a6b8318f8d24de732bf23f5393e266a2d6471822e5b2c4967bc0aa9d1eff3" },
                     "urls": []
@@ -33,6 +35,7 @@
             "files": [
                 {
                     "filename": "moapi-client-1.4.6.zip",
+                    "ipfs": "QmQDTqfsu9KVbyG6wxZQmSvRZduzJhh1zkBUdmBSJfpXBc",
                     "hash": { "type": "sha256", "digest": "d392738846ce059c2aadb81b8d9c21c5238c9258e52e15ee47017d75b9db4d0e" },
                     "urls": []
                 }
@@ -44,6 +47,7 @@
             "files": [
                 {
                     "filename": "moapi-client-1.4.4.zip",
+                    "ipfs": "QmckQK19bwMzAbGLEg4aVCAxB9Q8dt15BmLMXYmimd2bxA",
                     "hash": { "type": "sha256", "digest": "e5d6aada9bf40dc13d40bf3d26100232817352df7517f9b1b8e6f7403b2be8a7" },
                     "urls": []
                 }
@@ -55,6 +59,7 @@
             "files": [
                 {
                     "filename": "MOAPI-1.4.2.zip",
+                    "ipfs": "QmRnweTSiYedCdM9oXrVVX1nYKDHrbUBnZtSewoYxWHS9g",
                     "hash": { "type": "sha256", "digest": "fc007909d22339f97153ae5b44283860808c46084923c10682b58b1904090be6" },
                     "urls": []
                 }
@@ -66,6 +71,7 @@
             "files": [
                 {
                     "filename": "MOAPI-1.3.2.zip",
+                    "ipfs": "QmRdzduMKerkwU5MWEby75QMVyzc7YXYaNFfn7h43N233b",
                     "hash": { "type": "sha256", "digest": "205a6d0a8770c45609fde466343285e90428c1bdb3d98c85724bc61e3de5c77d" },
                     "urls": []
                 }
@@ -77,6 +83,7 @@
             "files": [
                 {
                     "filename": "MOAPI-1.3.1.zip",
+                    "ipfs": "QmTRV57D2vXzotJ5jZtNi2X9xf7H7YVYCmcz8PUCJ66YEv",
                     "hash": { "type": "sha256", "digest": "642f79aa9d18210377882c49283f2753ab966d53110d26197257ab40527fde26" },
                     "urls": []
                 }
@@ -88,6 +95,7 @@
             "files": [
                 {
                     "filename": "moapi-1.2.5.zip",
+                    "ipfs": "QmUpT6EythWtM53eXyQSTAsje7yKffrqAJnMTLmGY9LkCK",
                     "desc": "This is the first version from a new maintainer.",
                     "hash": { "type": "sha256", "digest": "f988f2aee444efed4f7b8c69c0a88ffbd4bc454949f1ff788443352310d8df29" },
                     "urls": []
@@ -100,6 +108,7 @@
             "files": [
                 {
                     "filename": "moapi.9.zip",
+                    "ipfs": "QmUJ2cKiD9Tqm5cp7YBeT98rJaQHzwcDR8VFaSC4gSbLcq",
                     "desc": "This is the last version from the old maintainer.",
                     "hash": { "type": "sha256", "digest": "27ef94cda651f0642482fbb9dd07b406588904e1c1e25bb6c7ac4643e0efc625" },
                     "urls": []
@@ -112,6 +121,7 @@
             "files": [
                 {
                     "filename": "moapi.8.zip",
+                    "ipfs": "QmdsMVg4mNjUQZMTXefXrvNsAGofGa6oRqacLUXUtVo7ze",
                     "hash": { "type": "sha256", "digest": "a74be1f4a25daafac7aa93747ad7fe7c593f86712b7e0acc5eea392e8652aa73" },
                     "urls": []
                 }
@@ -123,11 +133,13 @@
             "files": [
                 {
                     "filename": "ModOptionsAPI-v0.7.zip",
+                    "ipfs": "QmfL4g9xCr7ipRrgbqq8AwW6FDwCKrm87rQWV8tDw63fKZ",
                     "hash": { "type": "sha256", "digest": "ebf88d51e8e76d669c7221ddf6de78f800f1f0f4c68da0bbe18ff09005095cae" },
                     "urls": []
                 },
                 {
                     "filename": "GuiApiPatch-v0.7.zip",
+                    "ipfs": "QmRvHbwnAdregbs4vssJjpyZtYpMUyF68quG7PK2MPT2FK",
                     "desc": "This patch only works for GuiAPI 0.10.4-1.7. This will not work for 0.11.0-1.7.",
                     "hash": { "type": "sha256", "digest": "1bef877f217751744a50c77b6b761e781d75f5097d19dfb37b176a6bee79edc0" },
                     "urls": []
@@ -140,11 +152,13 @@
             "files": [
                 {
                     "filename": "ModOptionsAPI-v0.6.5.zip",
+                    "ipfs": "QmS9DxkL5N7jLWj8Xe1gjmikjS8vh9pLCW97MvCQynCZ2K",
                     "hash": { "type": "sha256", "digest": "536f8d54cbfbda2f90056ab248c70f8c354defbf71905cd0876df33f1639eab0" },
                     "urls": []
                 },
                 {
                     "filename": "GuiApiPatch-v0.6.5.zip",
+                    "ipfs": "QmX13rxEgMzMFVSyYnE2iNp1ms6KwDDp9QzcnLi5cuRHVx",
                     "desc": "This patch only works for GuiAPI 0.10.4-1.7. This will not work for 0.11.0-1.7.",
                     "hash": { "type": "sha256", "digest": "9c202218fbc872906c31079c6ec297dc1e07fcf810d41e58bd6fe093bcb93949" },
                     "urls": []
@@ -157,11 +171,13 @@
             "files": [
                 {
                     "filename": "ModOptionsAPI-v0.6.zip",
+                    "ipfs": "QmVygrFmMQZkhb47ZiAkM9nndNbZHzsubW375oFMbZGwHc",
                     "hash": { "type": "sha256", "digest": "1c79c2e22a95713022f517beefb14ef942b675cb12c3bf5c23b94a4382c3dc23" },
                     "urls": []
                 },
                 {
                     "filename": "GuiApiPatch-v0.6.zip",
+                    "ipfs": "Qmf8LXX9o4bc8jJY6ECH2msVu4vrJrW5cucw1VuhHQ7XJj",
                     "hash": { "type": "sha256", "digest": "b1ec2751ecef01345378487ff18b6b49992f11e9c21feaf0d265d5ce861362b5" },
                     "urls": []
                 }
