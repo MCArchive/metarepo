@@ -1,0 +1,75 @@
+{
+    "format": 1,
+    "name": "Spawnlist",
+    "authors": ["303"],
+    "desc": "API for mod creators to modify the mob spawn lists without interfering with each other or conflicting.",
+    "versions": [
+        {
+            "name": "1.3v1",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "spawnlist-1.3v1.zip",
+                    "ipfs": "QmacQni62NZLV7cNWErJWjpY92BdgSR7CLWC7f5aYaxohy",
+                    "hash": { "type": "sha256", "digest": "d75af3b3e339a02a2e4b675e1ff6c819a17cc041a3e73633ef7ffe963abced10" },
+                    "urls": []
+                },
+                {
+                    "filename": "spawnlist-1.3v1-doc.zip",
+                    "ipfs": "QmaExp9i6ZiKiZ95f7BpGkxhoieSmz1r1Hwxkb92yp9WFD",
+                    "hash": { "type": "sha256", "digest": "0251ebd5e25e22cdd6c88cb664d4439e4c27c99a44b59da7780ba8a268b92df4" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2v1",
+            "mcvsn": ["b1.2_02"],
+            "files": [
+                {
+                    "filename": "spawnlist-1.2v1.zip",
+                    "ipfs": "QmaKZswedsfLtBNWCFxrDEk47hBvSDa2D8VAkyKPsLNbi4",
+                    "hash": { "type": "sha256", "digest": "afe8dbfcaadb00a7787eabe57957293223e43c647dc24b6a57027ba446165b4b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.1_02v1",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "spawnlist-b1.1_02v1.zip",
+                    "ipfs": "QmTi2rx4JiMsYtswQwCEwjqfoG86jTftuddyHiB7iDAtSa",
+                    "hash": { "type": "sha256", "digest": "8cf24e2f7fd1e5f4ac49737199240c8663b6dc55eee49d058d79141d7fe2dcd1" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0_01v1",
+            "mcvsn": ["b1.0_01"],
+            "files": [
+                {
+                    "filename": "spawnlist-beta-1.0_01v1.zip",
+                    "ipfs": "QmdhWQAvVNzsAc81eqaCBnkfZSMHuNvx4PEZfzU7rhLbgf",
+                    "hash": { "type": "sha256", "digest": "3c4ece65757f4dee0270bab35aecb58c58b1adeb8ad15b9b7532ea72dba106be" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0-1",
+            "mcvsn": ["a1.2.6"],
+            "files": [
+                {
+                    "filename": "spawnlist-1.0-1.zip",
+                    "ipfs": "QmSGVhFb7CFkMqnThPjds8bQEjH2VRrK7gWCS4MqQMffmJ",
+                    "hash": { "type": "sha256", "digest": "e4f16cc73d68a8b96fcd583c96c30130bfcda656acb7a8925a6d84d85239d828" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
