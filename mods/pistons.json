@@ -1,0 +1,125 @@
+{
+    "format": 1,
+    "name": "Pistons",
+    "authors": ["Hippoplatimus"],
+    "desc": "The original pistons mod.",
+    "versions": [
+        {
+            "name": "6-11-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "Pistons B1.6.6-6-11-2011.zip",
+                    "ipfs": "QmVV8K34A6nZ6B8LBvND9545rFZWTJJ7cibytkGmfYciD1",
+                    "hash": { "type": "sha256", "digest": "8baa18ccbbfa4c8730ff10291d871c4dd221a6f1262d23a7b397a147ee52c8d2" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "6-04-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "Pistons B1.6.6-6-04-2011.zip",
+                    "ipfs": "QmXaMtMwu6ssZUi8DybZfe2LEeG1tqkt3kwS9NzYp4b5NP",
+                    "hash": { "type": "sha256", "digest": "9efc7e56c759fe688d5700723c2cfa11a93add069eabd2f32d7bf5cc9da9454b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "5-02-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Pistons B1.5_01-5-02-2011.zip",
+                    "ipfs": "QmVtkV3TKXzESP6iq9SWPzQZkuxHYeDk3idruFR8AC2r1a",
+                    "hash": { "type": "sha256", "digest": "8126b81395ea0e6b3d05bfc65b26472d8b689c53d1f86a63dcac590335bb9b78" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4-30-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Pistons B1.5_01-4-30-2011.zip",
+                    "ipfs": "QmcKhU4wfs4E1yJnf2iJAsvod31LzhadQxRmhQtD2cMjQk",
+                    "hash": { "type": "sha256", "digest": "413a67fdca4aef18c289c2468f93d4c90072077b0bdce72df858baaf5fd93886" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4-27-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Pistons B1.5_01-4-27-2011.zip",
+                    "ipfs": "QmZ6EBU9n2aB1kY3MWA1bn8HBM3rCt3HuciWskq32gUJLF",
+                    "hash": { "type": "sha256", "digest": "336e0420fac2ac27376249d34ad2df7d02fa182a5513fa3d961b998cc262e667" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4-22-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Pistons B1.5_01-4-22-2011.zip",
+                    "ipfs": "Qme77fuxazhpHi4DhU7SdXaQxGReNotrR8UEj3yCQgX6Gf",
+                    "hash": { "type": "sha256", "digest": "1448afa13b551d5c4f879db025b944ea0dddf274145fd593d2c58ef6f6e11f74" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4-14-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.4_01"],
+            "files": [
+                {
+                    "filename": "Pistons B1.4_01-4-14-2011.zip",
+                    "ipfs": "QmRcebQPS4KLEadpf2JgYKJZod72QTSVziuj3Sy2ehWnmA",
+                    "hash": { "type": "sha256", "digest": "36a9b38f50dce62b27bec36282380744861f701f5703046a8e138414c4fc5f61" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4-10-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.4_01"],
+            "files": [
+                {
+                    "filename": "Pistons B1.4_01-4-10-2011.zip",
+                    "ipfs": "QmS6fbYNiQZmgHPseL3RVTBxMwoVPm86yG7nTPK7nSCSHr",
+                    "hash": { "type": "sha256", "digest": "e48ccd032439f9af840032edf04b520b46a2dbd1b96c86c20454b088c29cedc0" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3-30-2011",
+            "desc": "Requires ModLoader.",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "Pistons B1.3_01-3-30-2011.zip",
+                    "ipfs": "QmZYSvw2ky8oKu1ywmL8VuF35FJJiRrxJoyzmJTHWumpKJ",
+                    "hash": { "type": "sha256", "digest": "8f44aa64cd05b820f1c54092c82d9e46d6ae5dccce62ca0030b232abb974f691" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
