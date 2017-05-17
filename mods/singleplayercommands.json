@@ -1,0 +1,662 @@
+{
+    "format": 1,
+    "name": "Single Player Commands",
+    "authors": ["simo_415"],
+    "desc": "The zip files are manual installation and the jar files are the installers.",
+    "versions": [
+        {
+            "name": "4.9",
+            "mcvsn": ["1.6.2"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.6.2_V4.9.zip",
+                    "ipfs": "QmNMP1UYcF4MNsWGeXuvV7xRCqfB1QvheMzfyKZKzWjGyL",
+                    "hash": { "type": "sha256", "digest": "304dff3fd81d3e17792f9469ef9bce83dda08c59faa749565bba52c4edf550f4" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.8",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.5.2_V4.8.zip",
+                    "ipfs": "QmU6pZqN97EkGjB6PuFcXMztceiX233SeNKU1pQ2RkiXRB",
+                    "hash": { "type": "sha256", "digest": "5e9f3d5a57fa2988de4ef610a77924ae6c99c1e09011a84c5fb2b1237d19d4f7" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.5.2_V4.8.jar",
+                    "ipfs": "Qme1izZufsLk8HPpMX6E2HRaApHFaF98BZqoFTQT9UVx1f",
+                    "hash": { "type": "sha256", "digest": "babedfd6fedeaa8388e39932e15780471dcf8bb9ed892f7f7f6834f9cdca458d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.7",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.5.1_V4.7.zip",
+                    "ipfs": "QmPdpQpXu71iN6wSJDKGaFT3JAmDEhfmLNeiumjP8XBjrT",
+                    "hash": { "type": "sha256", "digest": "bd0b0e1d2c3b774b66cfa61842941906d2452c442c624a23b4388c7cc8f837a7" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.5.1_V4.7.jar",
+                    "ipfs": "QmPS6umT8FiEurDtgcQPKAw1KrPNydfw5X4XfdEAu4bxD4",
+                    "hash": { "type": "sha256", "digest": "6013cfb5659e438b5224d32b5831ea18a1c5abd7b470f238b2f02593d082ae30" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.6",
+            "mcvsn": ["1.5"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.5_V4.6.zip",
+                    "ipfs": "QmSEiAWGwxGMNX7EcscxokvJttKv567xME3eaqNeuvL1U6",
+                    "hash": { "type": "sha256", "digest": "32aea73a52a37af84d828a6fded5efd5c68bebcf7c3ea17694d1500b6dd7d59f" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.5_V4.6.jar",
+                    "ipfs": "QmNqLvANSRM4cc7FXtZAuhXJ1o8tsJD2Eqph5nWnwHwt4t",
+                    "hash": { "type": "sha256", "digest": "bbcba3b24b194fd6ec9896f4246e9113d0fe02343f9979e789a69308dde43cc6" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.5",
+            "mcvsn": ["1.4.7"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.7_V4.5.zip",
+                    "ipfs": "QmTJuH1VWFHpS14AQsFMhUc3LhP5XkGrwJpeG1tpGWNesa",
+                    "hash": { "type": "sha256", "digest": "541e6f179e35ee55a93674da218e710992003982910bfdbc8ddfb94842404ed9" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.7_V4.5.jar",
+                    "ipfs": "Qma2GDtpYhPGn2tHsV2zwj3AWFNmxgXi33hUxMz34AFB1c",
+                    "hash": { "type": "sha256", "digest": "127974c055613a1565713cb8d25345cbb5b62992ca1eaa4e7df3809ed262f292" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.4",
+            "mcvsn": ["1.4.6"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.6_V4.4.zip",
+                    "ipfs": "QmbTx4s4CUgTofqbwKutsUJ32LuThR2rJYpu2hAWbGkAL4",
+                    "hash": { "type": "sha256", "digest": "10272fe0aaec7180a511ae67dd4c816abb6944e7b2f6a1ae3e62dfd326f92122" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.6_V4.4.jar",
+                    "ipfs": "QmWFnmXbtpXjPK58LMLDCgNpdszoA4WsLFUcWPs4jC6MgE",
+                    "hash": { "type": "sha256", "digest": "377decdfc81d73de5f8a417ad9706e79864495905b018670ba31cc332b6672b4" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.3",
+            "mcvsn": ["1.4.5", "1.4.4"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.5_V4.3.zip",
+                    "ipfs": "QmVeA4BwJLcrGiKKD4B4xW2oi4A627PfQ3JEVQ9bK5mTkJ",
+                    "hash": { "type": "sha256", "digest": "51d98f6f9e2020c57a8f84d5db66e738926b4e5261c0b17474446ce3ff545ad9" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.5_V4.3.jar",
+                    "ipfs": "QmTVCz95udy7wKUDJKpsDhLG4EzH43hs6AjSp1ZkjSfgjn",
+                    "hash": { "type": "sha256", "digest": "c61867587f894f85c696d63bdf4d6847cd4d079a42926bd69dadbf1651cbe11c" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.2",
+            "mcvsn": ["1.4.2"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.2_V4.2.zip",
+                    "ipfs": "QmQWpC7Xq5zVBo2hhTEUGmHow8a6krdrsNn38dgd9p2bNh",
+                    "hash": { "type": "sha256", "digest": "f7055abe3485d24e8c46f73e328bee3f6e4c1554c0e56f12b7318d9359c5ba6c" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.4.2_V4.2.jar",
+                    "ipfs": "QmaKPY2RDEv53eVtLiLD3EAgqW9RzL7EwrXXodHeFGgduD",
+                    "hash": { "type": "sha256", "digest": "134d98dba59d0f0e8cb0fa82b4110d1e19adf901eb04d2beaf4eb154ceb860f8" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.1",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.3.2_V4.1.zip",
+                    "ipfs": "Qme55Q2KdCV6SBC8WCEGtuuPhFbk8gGUnhZbSWukhG11g9",
+                    "hash": { "type": "sha256", "digest": "d7941f89a99397575410746c5ebe259409ea6f97fdba4d12918b63471a532e3a" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.3.2_V4.1.jar",
+                    "ipfs": "QmXbSGxx9Z2pif5aJSVmJpJQMspMDN5fKVgRqa93CjaeoD",
+                    "hash": { "type": "sha256", "digest": "77b8f195eb665e561878bc142a4389a51436a1e5d33e728fc78a8428137247c7" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.0",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.3.2_V4.0.zip",
+                    "ipfs": "Qmf9GB9Z3rbd7iAyjC1MUt1CpwzyJhXNFZCnhMpmWy7cHW",
+                    "hash": { "type": "sha256", "digest": "90badd5f94c8abe8133e70cee2009e316bf185b28de9f14d2b22bac710db19f9" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.3.2_V4.0.jar",
+                    "ipfs": "QmX3MiYjnyQpFJ48tFRjRVUm2TMAkcnuKEyXnhY6A3qHvi",
+                    "hash": { "type": "sha256", "digest": "ead655dc0186a6d8168c29942bd242ccb63d5fe9e708f057ab58ad3030738916" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.2.2",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.2.5_V3.2.2.zip",
+                    "ipfs": "QmeTuoiorABR6S3K4RgsB4qMpftNgsMa7iazk3iDtkzCQ5",
+                    "hash": { "type": "sha256", "digest": "a1019f934d61d1d3f21628d88da179ceed62802936597ac69c163936bdcdd8b4" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.2.5_V3.2.2.jar",
+                    "ipfs": "QmdCoCkauRcJVyQgV3otgiTRc8Y1zoCAaL6VsqWMXtPwTZ",
+                    "hash": { "type": "sha256", "digest": "a81fe41aa7e9f1ebcc13a114e12b5c1688c0ed92514d547be3585ba06542af15" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.2.1",
+            "mcvsn": ["1.2.4"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.2.4_V3.2.1.zip",
+                    "ipfs": "QmaEYJssPjwddVW1sz29NHKk5TaqmXjAgePBJMykMHKaZm",
+                    "hash": { "type": "sha256", "digest": "5c22b4162d3d7e2a47ef1aac9937eb3cd12c6d07871134b33ad0e1e726a4ca1b" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.2.4_V3.2.1.jar",
+                    "ipfs": "Qmby1dhoBCHiS5nGz4kccrndazNorH2MFcvwo9sWbydKQm",
+                    "hash": { "type": "sha256", "digest": "b50c99bc8daeaacb40a721c622d443a319794741986ee63106e4341833f2c09e" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.2",
+            "mcvsn": ["1.2.3"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.2.3_V3.2.zip",
+                    "ipfs": "QmUxQG7NQK8QrTqveQwN4p8JGkGYQqVoEBa9GXE2m7KnxN",
+                    "hash": { "type": "sha256", "digest": "25b8f015052d0c7315caa727ecdb4169a7241f0016980ffc4bf360dc9ab11aef" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.2.3_V3.2.jar",
+                    "ipfs": "QmfYG1BTaRHHyyt4JiinW6a8f8a2zrhcUvmtEsbcX4qdpq",
+                    "hash": { "type": "sha256", "digest": "4896b8f5c47f393978060590eaf4c24766d27dcbfb33790e4ee1c6e7b1d05038" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.1.1",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.1.0_V3.1.1.zip",
+                    "ipfs": "QmTW3NwxqgHY3DyKmC5CJKG9C3X2fGdrrUNVwUQGtSw6pX",
+                    "hash": { "type": "sha256", "digest": "09206be67da3254f2949c4d772430cb2b00842ca69f7e668e8039b12cb43820e" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.1.0_V3.1.1.jar",
+                    "ipfs": "QmdHcvJTEyKfhr5X6hoAAajmxQNyoP1K569jVxgV6UMX88",
+                    "hash": { "type": "sha256", "digest": "c40b1ac9258d7b32d12b3b68e68eb9c5296c84f374930063dba69785b4ffdf88" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.1.0",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.1.0_V3.1.0.zip",
+                    "ipfs": "QmTG2gDXfJCBoEGjGAFgSXL2fKgrxmATyiZNWb1EWgCm1Q",
+                    "hash": { "type": "sha256", "digest": "1e2e9fd9b7dbd320cd42dd97082cb85fcda29cf457ae2b8b2bb6644a08c142cb" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.1.0_V3.1.0.jar",
+                    "ipfs": "QmXrYgXaFmmS3E1j3sd27Cwopqf2MaDyn1zHwjRGFugbup",
+                    "hash": { "type": "sha256", "digest": "1f3b6d6336ad91a82af5fd58180c387d662851c23e141907bf31509d62e817fb" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.0.1",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.0.0_V3.0.1.zip",
+                    "ipfs": "QmUnb2nCmUmJb4zVTZ9sxgis3aFH7VriE6Ut7bd7UJrGto",
+                    "hash": { "type": "sha256", "digest": "16f3a4e531aa669753efa4a284b94ae75b9950b593435fe572c5eaa7bab2a1cf" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.0.0_V3.0.1.jar",
+                    "ipfs": "QmbnzD2RxnpFmsbiLHjECUCGn4JnzkePb1sSh9RKWNQA4A",
+                    "hash": { "type": "sha256", "digest": "c0681c0bbbf926e90296958203b3d917daab964a789f76462cf695bd0afe0b58" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.0",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.0.0_V3.0.zip",
+                    "ipfs": "QmRVhR2wXXneg11FJhNzBh5MvEB12ZyUcKjGhuiCz7p1Xp",
+                    "hash": { "type": "sha256", "digest": "5137035d749cc821248fdafadc9f200a8f267b06cdfbd258df17393f8836ca4d" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.0.0_V3.0.jar",
+                    "ipfs": "QmcL6iWGEhmHyVzNQc44ttfUd5zgzqhnEGShbvgYAtdcZ4",
+                    "hash": { "type": "sha256", "digest": "5ff8e70f46e580ae1fd294862465f2eb0c03b2be07a1481395d7f67e0ce48134" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.13",
+            "mcvsn": ["b1.9p5"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.9pre5V2.13.zip",
+                    "ipfs": "QmXQmqLvMoNBnEGxgWzqP81kV5QnAoLCLyPRGKSt9b4X91",
+                    "hash": { "type": "sha256", "digest": "8695a4617f40d3c9b2d05865e368f70db39daa1bee813b062b5a0a6bfefc2d2a" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.9pre5V2.13.jar",
+                    "ipfs": "QmepF1Y6Cw4tDG2BRWN2euFDS3jrT4rPezmiThpZyUFnr6",
+                    "hash": { "type": "sha256", "digest": "ea509b9aa7a0ffd34e7cc6a1120cadafa9b09d53cd222b3eb03e046c0b3abfd5" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.12.1",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.8.1V2.12.1.zip",
+                    "ipfs": "QmQ2AG4Hrdted7zy3kx2vxSozx4enfUpLH2LSwTgbqpRau",
+                    "hash": { "type": "sha256", "digest": "328ed38a852aed86bce6254970bb0465a0c0fbf9529142608814eaf5d3944fda" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.8.1V2.12.1.jar",
+                    "ipfs": "QmXXKwtPHsEP5EZE8zkwbAvzbLpDmHpPy8NKFzbkziUKLs",
+                    "hash": { "type": "sha256", "digest": "0adef87ee0a5492fc8296fcabebf637363d45b6e9095e050ea5d90cecea12fe0" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.12",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.8.1V2.12.zip",
+                    "ipfs": "QmbdH9xsDyEVXpJtByDmYLKpfDaNFUHvThZB7EHNuPoUib",
+                    "hash": { "type": "sha256", "digest": "0420f2d0993f420bf603e716f7df879d9fbcbe472e60ca937d0aa97496fc55ad" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.8.1V2.12.jar",
+                    "ipfs": "QmWUrY6hvsdTzLWXrs9afbuy3UA5BtvdNLEFF5yDHRowTG",
+                    "hash": { "type": "sha256", "digest": "b52c4c2019ce5d3a2477be8861d9fad74e75400db73d7ebdfbdc06ed51b7504d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.11.1",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.7.3v2.11.1.zip",
+                    "ipfs": "Qmf3Jp4awJqAa6qSwtnirfc2EGV5VvsMxEXXLrLP1YYqwS",
+                    "hash": { "type": "sha256", "digest": "10ac88a3c49d7d03716db1ece065be29340d0686482efa0a0082b6b9dfddd7eb" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.7.3v2.11.1.jar",
+                    "ipfs": "QmXVJiQpwJXXt3SPogtvZbPnUFabwDE81h97HmtqeD1Eaw",
+                    "hash": { "type": "sha256", "digest": "a7d2df739017ed1a3d06773cbf5574de7607bff6a91278443c4a9f5d4a4cef00" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.11",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.7.3v2.11.zip",
+                    "ipfs": "QmTGENia2fgK7dopfwEfueKj2zuJw9yGSWp87ck3XaTMuW",
+                    "hash": { "type": "sha256", "digest": "ebc0665160ecc785989c18c338193884fd4947d7550d4c7802cf055845573b1b" },
+                    "urls": []
+                },
+                {
+                    "filename": "SinglePlayerCommands-MC1.7.3v2.11.jar",
+                    "ipfs": "QmPSxcTkXySYs6wXCfGk7fGFT38n3SJNPhWBvUjEmhhng8",
+                    "hash": { "type": "sha256", "digest": "3510563c465eacbde4c144488a259ab414829e38b146b3dcbe69fdce1244794b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.10_2",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.7.3v2.10_2.zip",
+                    "ipfs": "QmayPXqvxhXumDNmm6SVXwQmAaAUnUzpGTjG7Hu5Ztt6hS",
+                    "hash": { "type": "sha256", "digest": "ef9529093b99207f37150f0c6d0beee3f6675568c2aefd93bd4fc850845e09a3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.10_1",
+            "mcvsn": ["b1.7.2"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.7.2v2.10_1.zip",
+                    "ipfs": "QmRkGEuCs8suxk226b1k4oDQ8JQN5sdYYVBHbL15n2RY1t",
+                    "hash": { "type": "sha256", "digest": "2df0084b74239571f7b35484eeb49d96671c7b88a39b0c7d4ec71a396d85363a" },
+                    "urls": []
+                }
+            ]
+        },
+		{
+            "name": "2.10",
+            "mcvsn": ["b1.7.2"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.7.2v2.10.zip",
+                    "ipfs": "QmaYXbW9oB7SyFxhBxQuW1JxaosNyWoBpCmhxc2douVgGX",
+                    "hash": { "type": "sha256", "digest": "c3b6292afe3db36b28e23030e1051cea83c779ee3faaabc6c49fa3793b83e349" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.9_1",
+            "mcvsn": ["b1.6.6", "b1.6.5"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.6.5v2.9_1.zip",
+                    "ipfs": "QmQ3v1wZixUCxWnZ7bZnbhsoEbVZRUAFf7W3ErZxqYvYiH",
+                    "hash": { "type": "sha256", "digest": "5c6fdb5f9b95dce31f0b078bac35ec272f97df5ed72a9b89ef5e5b35a3eb4c30" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.9",
+            "mcvsn": ["b1.6.4"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.6_4v2.9.zip",
+                    "ipfs": "QmRq74kCo69bVjHAzzmUwZDBAGQp9W7LJJNFWiPFAxT1Mg",
+                    "hash": { "type": "sha256", "digest": "a41e6859447e5138369bf72e715bde27c397322750be95288aa8d7476a55d41e" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.8_2",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.5v2.8_2.zip",
+                    "ipfs": "QmWWf2W9AgF6vQiJTn3ibFUfsLCZgRuiLiFbiiKHnWAEJG",
+                    "hash": { "type": "sha256", "digest": "8258093f09c649af3b5a09d74e5b49d6c64667af33fc68042b5240e99e9dad26" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.8_1",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.5v2.8_1.zip",
+                    "ipfs": "QmeSfqE7PA5DQ8QF9yWuvBYzjWsbQpVQSmKhoJmccKKrTw",
+                    "hash": { "type": "sha256", "digest": "b18b29c3a39add1724342941620d441760ad5a8801b3702c8065a80826919ccd" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.8",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.5v2.8.zip",
+                    "ipfs": "QmdQUebrhuxMno1j7n9jJ8NJBxqFGuuj8j8E3A1WqB2JUC",
+                    "hash": { "type": "sha256", "digest": "0a9d5b6fb71b5fec58359469631b19af21cdecfd3365922281f9a53e071a8dd1" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.7_2",
+            "mcvsn": ["b1.4_01"],
+            "files": [
+                {
+                    "filename": "SinglePlayerCommands-MC1.4_01v2.7_2.zip",
+                    "ipfs": "QmRDoDk945pRKfaxKHU1offoUkqjREtVqTyjYF32fjft1s",
+                    "hash": { "type": "sha256", "digest": "43639a0ce009c1c24b82bb2289d786306541a74c07fed363f4dcb371870e820d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.6_2",
+            "mcvsn": ["b1.4_01"],
+            "files": [
+                {
+                    "filename": "(1.4_01-BETA)SinglePlayerCommandsV2.6_2.zip",
+                    "ipfs": "QmRaueUaSJh6xfakzRDSbGXyRavW262m6R6Dak4EUn95Tq",
+                    "hash": { "type": "sha256", "digest": "c0e2adca61b6b5fe1068a15a6cd60de03ba7a01424c9a07b873c0872d6d76758" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.6_1",
+            "mcvsn": ["b1.4"],
+            "files": [
+                {
+                    "filename": "(1.4-BETA)SinglePlayerCommandsV2.6_1.zip",
+                    "ipfs": "Qme8rEv1fpwhUAunuwdUTwz8n99DGup3q4rL3Kbns95wxu",
+                    "hash": { "type": "sha256", "digest": "3dc13cc8526301d72345cc723a6da6b2ec902a963a321a9320933447c24651a0" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.5_1",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "(1.3_01-BETA)SinglePlayerCommandsV2.5_1.zip",
+                    "ipfs": "QmUdLzf5JcPu2vHS95ji3Lk5y3desL8JrPYxrLrrJKzcMX",
+                    "hash": { "type": "sha256", "digest": "31443820879d0c523771fb1f90eea1e1faf156fdcb999017df6e48a7d9271fdf" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.3_01",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "(1.3_01-BETA)SinglePlayerCommandsV2.3_01.zip",
+                    "ipfs": "QmdRZkAabSo54Qpj2QcS9cC6tkWcBYNQYMByCVbeGw3KFM",
+                    "hash": { "type": "sha256", "digest": "30e8fd16eaff56db1487d0267a10bfd40d6b2d4ec35e1f261ddf0af1ffb64777" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.2",
+            "mcvsn": ["b1.2_02"],
+            "files": [
+                {
+                    "filename": "(1.2_02-BETA)SinglePlayerCommandsV2.2.zip",
+                    "ipfs": "QmcnZ1C9LM17fsMkDPpeKS58urLfhS2LZ4D1fJm7u8uqtg",
+                    "hash": { "type": "sha256", "digest": "fa8a27e7d987100497ece3c6b2bccfcbe92016a39f33869c856156f7d4f3b9a6" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.9_02",
+            "mcvsn": ["b1.2_02"],
+            "files": [
+                {
+                    "filename": "(1.2-BETA)SinglePlayerCommandsV1.9_02.zip",
+                    "ipfs": "QmQbKDtHgvkma1uSEf3zHMo8Dj3tGoEDk6aZNkQeCeT2x6",
+                    "hash": { "type": "sha256", "digest": "86288cab6de222dbd0f38ad6f72ff04eab1945c87b7653d701a707c3d1958e62" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.8",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "(1.1_02-BETA)SinglePlayerCommandsV1.8.zip",
+                    "ipfs": "QmPb7JZi55X2njPTEGmqPKiZ8wMjjeeKG5QdxXR7ykutia",
+                    "hash": { "type": "sha256", "digest": "949faf01c753851c6d090f985cb65a41b86bec79bfcdcf7b745dddf6d7db64e2" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.7",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "(1.1_02-BETA)SinglePlayerCommandsV1.7.zip",
+                    "ipfs": "QmbE6ExKNXk1xpeV29ZQjJ55fBXh6jQZjb3FLpEg8n11nr",
+                    "hash": { "type": "sha256", "digest": "a64f6ad97226abd49d28192f6408b2a08122d7526a3250bd6987a53e8a729155" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.6",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "(1.1_02-BETA)SinglePlayerCommandsV1.6.zip",
+                    "ipfs": "QmcVWvrWoFyBKPgF2WuFiG3bdRZBTPEhTwjMeLqsh8t588",
+                    "hash": { "type": "sha256", "digest": "737022d5888321ccd528f0527471d1e1dc98ed582a2b3a691b0fae47fcc29a11" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.5",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "(1.1_02-BETA)SinglePlayerCommandsV1.5.zip",
+                    "ipfs": "QmZFeAPftL6JKigsNW5Pa2fkKUjWR8T4LXsQKatzg6vcph",
+                    "hash": { "type": "sha256", "digest": "c7889e7e579db8ae1913d77fa497286baba4abf51c85d3fcfb15baf7c608a6af" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "(1.1.2_BETA)SinglePlayerCommandsV1.4.zip",
+                    "ipfs": "QmV2ApotoSz13FNpSZdfUCL5SVJQsRizunw59AVStpRBbh",
+                    "hash": { "type": "sha256", "digest": "f9014ad2e60ac7c086f10597ae8595fb473031d58aad80449a62838baab702bc" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3",
+            "mcvsn": ["b1.0.2"],
+            "files": [
+                {
+                    "filename": "(1.0.2_BETA)SinglePlayerCommandsV1.3.zip",
+                    "ipfs": "QmRr1yiLGBMoqzXG32TMeP4iabeFWi3xSecDKyaoeXbv24",
+                    "hash": { "type": "sha256", "digest": "4039bfd09cc49c09046a9110bcbd80ff1b59f15761a430c52418f180111e9d3c" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2",
+            "mcvsn": ["a1.2.6"],
+            "files": [
+                {
+                    "filename": "(1.2.6)SinglePlayerCommands.zip",
+                    "ipfs": "Qmc7upJvLjwichHvHyXYkEtKnWg4anx7PmRRydRVMLi5ve",
+                    "hash": { "type": "sha256", "digest": "888069934c257101a38b8d6ec42bbe6577a4ab915bb6193b25dc35bd5c02c134" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
