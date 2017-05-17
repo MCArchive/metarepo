@@ -10,8 +10,7 @@
             "files": [
                 {
                     "filename": "[1.5.2]ReiMinimap_v3.3_05.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmdAACQkm6XcoqqKbJ7GC82u3W7gfD2gPvzFbfFpBX7BWP",
                     "hash": { "type": "sha256", "digest": "7bd9f07cd9e592d30ca88fc601cbab74213a2f1715152aab9026b42b619be3b2" },
                     "urls": []
                 }
@@ -23,8 +22,7 @@
             "files": [
                 {
                     "filename": "[1.5.1]ReiMinimap_v3.3_04.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmY6jmaLwei7pb4YjWTxPipf6PiKzrqojkCfYPXZaHuiKZ",
                     "hash": { "type": "sha256", "digest": "40141233ff1da36e0003991103653c6ae3f9995a07eadead269ee2beded3b6b3" },
                     "urls": []
                 }
@@ -36,8 +34,7 @@
             "files": [
                 {
                     "filename": "[1.5]ReiMinimap_v3.3_02.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmNNeQC4GkHkpqvn5n559Kp94cLcnZHEzJGMUgaWTiLHZn",
                     "hash": { "type": "sha256", "digest": "e61a2d4453b0685d2dd853cc1604c695bb62f7c6ce59d5c9202863f75f1aa013" },
                     "urls": []
                 }
@@ -49,8 +46,7 @@
             "files": [
                 {
                     "filename": "[1.4.6]ReiMinimap_v3.2_06.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmYxVbA7Roi3HzrePLVeKnQnLwqibASKoeqcRAnszxqomG",
                     "hash": { "type": "sha256", "digest": "dcde8a14c32da0e05aa30b0fc17ac3d5518c2c1ea40bbee5145b0dac9c1a4606" },
                     "urls": []
                 }
@@ -62,8 +58,7 @@
             "files": [
                 {
                     "filename": "[1.4.5]ReiMinimap_v3.2_05.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmWXhpP22v1m3SKwv5XLypPBdGgPg5eX5kdpDvLzq4g1kc",
                     "hash": { "type": "sha256", "digest": "2211a72eb971f5d5f5703e80640ace2dd5d2339ce9827ef1bae30f5e4b47319c" },
                     "urls": []
                 }
@@ -75,8 +70,7 @@
             "files": [
                 {
                     "filename": "[1.4.4]ReiMinimap_v3.2_05.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmW4PpDHLyKJHAvMV9k9xpUgA5yvjJRiAu5X2W6LNaX2ba",
                     "hash": { "type": "sha256", "digest": "a20806c00e90716292b46799465795efdfb8b8eb3503ab29fb9b557172cda184" },
                     "urls": []
                 }
@@ -88,8 +82,7 @@
             "files": [
                 {
                     "filename": "[1.4.2]ReiMinimap_v3.2_05.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmP8wtyJPy11dAQh2T3GiryaBEFKLRhkd3HYHPFcqyLKYo",
                     "hash": { "type": "sha256", "digest": "6de8845af598cf7c7d08fc2da7d860272f2b8c872631d4df6587d0edc0457473" },
                     "urls": []
                 }
@@ -101,8 +94,7 @@
             "files": [
                 {
                     "filename": "[1.3.2]ReiMinimap_v3.2_05.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmZvPn12eYuoHmmYDu6YKfAHd3VHms2GYwoPTjrH5g2UQn",
                     "hash": { "type": "sha256", "digest": "dbeae14c1b66188b6cba939b8481db1ad2be38c41c6520f4f2ece6ceb6293587" },
                     "urls": []
                 }
@@ -114,8 +106,7 @@
             "files": [
                 {
                     "filename": "[1.2.5]ReiMinimap_v3.0_06.zip",
-                    "ipfs": "",
-                    "archived": "",
+                    "ipfs": "QmSjeray4nKgHfcf98JyeKHGREHSYNcpoSEsCiBhNEXNHU",
                     "hash": { "type": "sha256", "digest": "c4ba79962fe6cd666a54e96e4391c6616990b7264d3af3ab6aabc31418aa79c6" },
                     "urls": []
                 }
