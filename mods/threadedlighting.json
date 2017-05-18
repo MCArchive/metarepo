@@ -5,12 +5,23 @@
     "versions": [
         {
             "name": "0.1",
-            "mcvsn": ["1.6.4", "1.6.2"],
+            "mcvsn": ["1.6.4"],
             "files": [
                 {
-                    "filename": "threadedlighting",
+                    "filename": "threadedlighting.jar",
                     "ipfs": "QmYguqDZv4osgXqQNDTWpZv5Qtu7CQx16s7P9BJi6Ec3fc",
                     "hash": { "type": "sha256", "digest": "72ce356e742a3f3bbceaa5efce1b4d5df04e641d30bd0c97ecb625c3fe7f35f9" }
+                }
+            ]
+        },   
+        {
+            "name": "0.1",
+            "mcvsn": ["1.6.2"],
+            "files": [
+                {
+                    "filename": "threadedlighting.jar",
+                    "ipfs": "QmXpPRxrdUjM1k2RDeQuJXNY1nfSXDa8RDBoNmozChoTRj",
+                    "hash": { "type": "sha256", "digest": "c7efa88797ee605e0e60b7b71da47b7f5f6a53b96deafce8ff11804d12576b8b" }
                 }      
             ]
         }
