@@ -1,0 +1,18 @@
+{
+    "format": 1,
+    "name": "threadedlighting",
+    "authors": ["Cafaxo"],
+    "versions": [
+        {
+            "name": "0.1",
+            "mcvsn": ["1.6.4", "1.6.2"],
+            "files": [
+                {
+                    "filename": "threadedlighting",
+                    "ipfs": "QmYguqDZv4osgXqQNDTWpZv5Qtu7CQx16s7P9BJi6Ec3fc",
+                    "hash": { "type": "sha256", "digest": "72ce356e742a3f3bbceaa5efce1b4d5df04e641d30bd0c97ecb625c3fe7f35f9" }
+                }      
+            ]
+        }
+    ]
+}
