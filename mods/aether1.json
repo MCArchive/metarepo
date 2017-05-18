@@ -4,6 +4,32 @@
     "authors": ["Kingbdogz", "Kodaichi", "Shockah", "Flan", "303"],
     "versions": [
         {
+            "name": "1.2.5",
+            "desc": "Forge and Player API required",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "Aether_1.9_Pre-Release.zip",
+                    "ipfs": "QmXa9Fa99wTFhr4oNSrFG9GY3cnTesUqoCMhSBQMYBg33q",
+                    "hash": { "type": "sha256", "digest": "28b7f6dfd6093ae7353fb88428f24ab5affbf4694d55825d5ea2337ef2d89e2d" },
+                    "urls": []
+                }
+            ]
+        },  
+      {
+            "name": "1.0.0",
+            "desc": "ModLoader, AudioMod, ShockAhPI r5.1, and PlayerAPI are needed.",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "Aether 1.0.0 v1.04_1 Final.zip",
+                    "ipfs": "QmeZ8q8dFoDvybaXX7hP1oW3zMVyV9wHtLa6vS8GhrJDSM",
+                    "hash": { "type": "sha256", "digest": "98e1008a327c496f11e242f4abf96bec9d61a334c0aad618d76a294ee97176f9" },
+                    "urls": []
+                }
+            ]
+        },
+		{
             "name": "1.02",
             "desc": "ModLoader, AudioMod, ShockAhPI r5.1, and PlayerAPI are needed.",
             "mcvsn": ["b1.7.3"],

@@ -1,0 +1,103 @@
+{
+    "format": 1,
+    "name": "Gilded Games Util",
+    "authors": ["Brandon Pearce", "Emile van Krieken", "Oscar Payn", "Hugo Payn", "Brandon Potts", "Brendan Freeman", "Collin Soares", "Kino", "Jon Lachney"],
+    "versions": [
+        {
+            "name": "1.9",
+            "desc": "Gilded Games Utlity is required by Aether II",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "gilded-games-util-1.7.10-1.9.jar",
+                    "ipfs": "QmaCCXgENVYcC4cBGBPHpPhaa9rm7MsKxTySCwn3NeCtRm",
+                    "hash": { "type": "sha256", "digest": "b2c44f48e8e90d2f4aeacabb38c04ac6e985f683cb9e4b1b50f6b55aab5e795d" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717-alpha-the-aether-ii-genesis-of-the-void-the" },
+                        { "type": "original", "url": "https://aether.gildedgames.com/" }
+                    ]
+                }
+            ]
+        },  
+        {
+            "name": "1.7",
+            "desc": "Gilded Games Utlity is required by Aether II",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "gilded-games-util-1.7.jar",
+                    "ipfs": "QmcoownAKy2QACwbWRQGTj1qQtHqSgghGDE6fQ7dkyyA7D",
+                    "hash": { "type": "sha256", "digest": "aedf2c2fc670367f6733a56ee12e2ab0a01c3f7f96f8a8d6e8785fb7807e9b62" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717-alpha-the-aether-ii-genesis-of-the-void-the" },
+                        { "type": "original", "url": "https://aether.gildedgames.com/" }
+                    ]
+                }
+            ]
+        },  
+        {
+            "name": "1.5",
+            "desc": "Gilded Games Utlity is required by Aether II",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "gilded-games-util-1.7.10-1.5.jar",
+                    "ipfs": "QmcxW1BLKxpTUV6XbXBcVWURTdYVNwLTej7se5MevCtxP8",
+                    "hash": { "type": "sha256", "digest": "af9cf5c3964e2b95b83312992772cb7b96fc5b3a510d56e0fdd9c711a428db78" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717-alpha-the-aether-ii-genesis-of-the-void-the" },
+                        { "type": "original", "url": "https://aether.gildedgames.com/" }
+                    ]
+                }
+            ]
+        },  
+        {
+            "name": "1.4",
+            "desc": "Gilded Games Utlity is required by Aether II",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "gilded-games-util-1.4.jar",
+                    "ipfs": "QmNUfReHSGdoMzkUjc5RoiJKw5ozJhUSiwFpZA7D9R1k1G",
+                    "hash": { "type": "sha256", "digest": "c196d4758508c57f9c7fe8c3983232251d3cd17129e4c5eb8e9aa0176ada1a46" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717-alpha-the-aether-ii-genesis-of-the-void-the" },
+                        { "type": "original", "url": "https://aether.gildedgames.com/" }
+                    ]
+                }
+            ]
+        },       
+        {
+            "name": "1.1",
+            "desc": "Gilded Games Utlity is required by Aether II",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "gilded-games-util-1.1.jar",
+                    "ipfs": "QmWurpiC31bEejn23tKCMFcF16ZXyvkV4tm68gw61tEEiN",
+                    "hash": { "type": "sha256", "digest": "1681d577458046d2d91858faaf1e71484970d96a1a2f34b975dc283b7af1cd2c" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717-alpha-the-aether-ii-genesis-of-the-void-the" },
+                        { "type": "original", "url": "https://aether.gildedgames.com/" }
+                    ]
+                }
+            ]
+        },        
+        {
+            "name": "1.0",
+            "desc": "Gilded Games Utlity is required by Aether II",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "gilded-games-util-1.0.jar",
+                    "ipfs": "Qmejidi92RWjNUhnBHJRy3jffRFhHDL2B56x4vKZRxnxZD",
+                    "hash": { "type": "sha256", "digest": "e4b21a8d7a9c2046fdea5972f73ea4228de25c5967336ee239eef6016b01231f" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717-alpha-the-aether-ii-genesis-of-the-void-the" },
+                        { "type": "original", "url": "https://aether.gildedgames.com/" }
+                    ]
+                }      
+            ]
+        }
+    ]
+}

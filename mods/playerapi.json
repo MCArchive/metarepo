@@ -4,6 +4,36 @@
     "authors": ["Divisor"],
     "versions": [
         {
+            "name": "1.2.5",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "MC 1.2.5 - Player API client 1.5.zip",
+                    "ipfs": "QmUWgZN4yBKg31SKtiSCiXEfBu7hZrGDLF6gYbRjCf9cuD",
+                    "hash": { "type": "sha256", "digest": "465d66e9c2ba0f2b661f638956986573d36c59b2397e9681cd5310124ed9f06a" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-player-api" },
+                        { "type": "original", "url": "http://www.mediafiregaming.com/file/3t4ohn1scod44rr/MC+1.2.5+-+Player+API+client+1.5.zip" }
+                    ]
+                }
+            ]
+        },  
+        {
+            "name": "1.0.0",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "MC 1.2.5 - Player API client 1.5.zip",
+                    "ipfs": "QmUWgZN4yBKg31SKtiSCiXEfBu7hZrGDLF6gYbRjCf9cuD",
+                    "hash": { "type": "sha256", "digest": "465d66e9c2ba0f2b661f638956986573d36c59b2397e9681cd5310124ed9f06a" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-player-api" },
+                        { "type": "original", "url": "http://www.mediafiregaming.com/file/8y6xd4l25jslec1/MC+1.0.0+-+Player+API+client+1.6.zip" }
+                    ]
+                }
+            ]
+        }, 
+      {
             "name": "1.7",
             "mcvsn": ["b1.7.3"],
             "files": [
