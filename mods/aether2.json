@@ -28,11 +28,11 @@
                     "filename": "aether-1.7.10-1.6-patched.jar",
                     "ipfs": "QmVSV2Z7bN6rYDjLB6N9R1UiDQBdsSCRiWCgRV63UUVg4o",
                     "hash": { "type": "sha256", "digest": "23a5eea1b455283327edfb4087e5befc58766c3986860abba3a141ba7b55c4ca" },
-                    ]
+                    "urls": []
                 }
             ]
-        },  
-      {
+        },
+		{
             "name": "1.7.10-1.5",
             "desc": "Forge and Gilded Games Util required",
             "mcvsn": ["1.7.10"],
