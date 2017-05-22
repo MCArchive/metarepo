@@ -1,0 +1,68 @@
+{
+    "format": 1,
+    "name": "Achievement Pages",
+    "authors": ["Shockah"],
+    "desc": "Called Achievement Tabs in b1.5_01.",
+    "versions": [
+        {
+            "name": "r5",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "Achievement Pages r5.zip",
+                    "ipfs": "QmVUkvx22ombVfGoTdo7KZurVL8PV3eBSbY39g1F76X2ac",
+                    "hash": { "type": "sha256", "digest": "8e327aad81d72abb2585795c8de841ecfe79d74566fd11d97d6a17f0b582ba5f" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "r4",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Achievement Tabs r4.zip",
+                    "ipfs": "QmZVJgxnoFbvZVrWYKR6CyyRWc3TsNYfsbgiDKeehr54AY",
+                    "hash": { "type": "sha256", "digest": "5dead1ab0f72c4209a9198d7d4c09f82890e4f433d0e7a7dfa82297fb83e7959" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "r3",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Achievement Tabs r3.zip",
+                    "ipfs": "QmWUQejrbNU5t495S715sV6yhejkmtUxKuift3gpjs4TbH",
+                    "hash": { "type": "sha256", "digest": "276c021425ff8c1b43e6248a44c0cd656e41b11e8eebd91510697a25368d88d6" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "r2",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Achievement Tabs r2.zip",
+                    "ipfs": "QmZ7mmidNJQbwuvbR7CDPBRvHiysHRiNkqp4z7G6H5LK7n",
+                    "hash": { "type": "sha256", "digest": "ffafcb56ee04a206265c5f670796d7e63c70eebdab35c28392000a2aa00c8417" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "r1",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "Achievement Tabs.zip",
+                    "ipfs": "QmTHBnVAFBmrAxSuQb4AuDxi2w7D7HekfVtUNtPbDreZ47",
+                    "hash": { "type": "sha256", "digest": "b9e0539573cd3a2135cfd6c1e88abc8193a6f9b7bb30b76256d3d1786418d204" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
