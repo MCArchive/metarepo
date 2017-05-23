@@ -2,7 +2,7 @@
     "format": 1,
     "name": "More Creeps and Weirdos",
     "authors": ["freakstritch"],
-    "desc": "That mod with the wacky mobs!",
+    "desc": "That mod with the wacky mobs! Sounds are required to be in the standard .minecraft folder, will not work in MMC instance folder.",
     "versions": [
         {
             "name": "v2.62a",
