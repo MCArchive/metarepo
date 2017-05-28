@@ -1,0 +1,375 @@
+{
+    "format": 1,
+    "name": "ModLoaderMP",
+    "authors": ["ScottyDoesKnow", "Jamioflan"],
+    "desc": "Includes both the official versions from SDK and unofficial versions from Jamioflan",
+    "versions": [
+        {
+            "name": "v1",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "ModLoaderMP 1.3.2 v1.zip",
+                    "ipfs": "Qmazscv9qiwT5BzotgUVtPYifAdJaDoQVZwMwhJ46SsDUf",
+                    "hash": { "type": "sha256", "digest": "19418c4d28e740e89e9963419fc336012f3749767b5ffaa3c91f7e1d136ac6ac" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP Server 1.3.2 v1.zip",
+                    "ipfs": "QmNi6c56A1oDm19QZk4ymUJAbaChP1t9Vu9N3qiZmohWHT",
+                    "hash": { "type": "sha256", "digest": "8ae7bad614025b1f538b4bebf7049c8edde4918b5316c85e6880ab2d4504c209" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["1.3.1"],
+            "files": [
+                {
+                    "filename": "ModLoaderMP 1.3.1 v1.zip",
+                    "ipfs": "QmTBNnFPXxJD8kwn7k7ebYDtuSuc528kck7t4BwvDj8RJb",
+                    "hash": { "type": "sha256", "digest": "9928800eb8ff19e41629b6815e011952f0992da4c73f6bbe255309ee5541d864" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP Server 1.3.1 v1.zip",
+                    "ipfs": "Qma7irKpARQD5NF8BVZifDqPCHogGgVNz2KN4VC3kFxTTE",
+                    "hash": { "type": "sha256", "digest": "97c4510ba31e33e60559ce78ce8a1f6804ced0a12a47d2358c9e7288429441fb" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "ModLoaderMP 1.2.5 v1.zip",
+                    "ipfs": "QmbocMLB3Gohm9XGPbNtDutevzCkrRwC5vDc3Fv3Bu4W83",
+                    "hash": { "type": "sha256", "digest": "493be83295687720978dda7ae449913e618605c711f3d1b508d3df4df2ec4962" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP Server 1.2.5 v1.zip",
+                    "ipfs": "QmQDmD97jEoNEF8kkPFz25M6vo3Jc5JKKovYAowgBC82rz",
+                    "hash": { "type": "sha256", "digest": "7cd89ee3d4839c03d621e2308a21bae0c824d1f408a055f16d1ce0cd7d6f198e" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["1.2.4"],
+            "files": [
+                {
+                    "filename": "ModLoaderMP 1.2.4 v1.zip",
+                    "ipfs": "QmTLz94fYgo6jqsUj8hV22Yxzzmfn4XLostGESGf4J3SCx",
+                    "hash": { "type": "sha256", "digest": "30fc0c1b7dd9693c19fb419353bf9b0533d4d3248772ca93b6f5b78bbc70e5d6" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP Server 1.2.4 v1.zip",
+                    "ipfs": "QmdpokvWmgxWvRHjdqmeBDJVYMDfxtyihMsrucHdQvp5m5",
+                    "hash": { "type": "sha256", "digest": "5ed0b75d84d30c67e6c330f492673fb4518dd3d2b6af62ba88ec44cf29c71be2" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v3",
+            "mcvsn": ["1.2.3"],
+            "files": [
+                {
+                    "filename": "ModLoaderMP 1.2.3 v3.zip",
+                    "ipfs": "QmXU4zfKzoGDwSvmE1AgCXQLs7a4q52MghShfxLEoJSLL3",
+                    "hash": { "type": "sha256", "digest": "b6bc6d0a4fa21361429f39c2847fa47420e60d54263f9a4abc2fe74dea6814c8" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP Server 1.2.3 v3.zip",
+                    "ipfs": "QmairQVVbfKmtjVrNePSh7vQ9wi2N2zU7ETJMzMEqzbQin",
+                    "hash": { "type": "sha256", "digest": "81b2c99a7845e9d1b006cb59e14ed5e0cbf26f44b05f0a908b88f6c5f91a4d37" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v4",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "ModLoaderMP 1.1 v4.zip",
+                    "ipfs": "QmPTARe93KmoGhjjDNAyS9FBy3uArZuqwxRMnkwDpB6VEy",
+                    "hash": { "type": "sha256", "digest": "dd6043d90ebee7bdcb054957bfbcc121a27d7b1c011badfdca9144526285661e" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP Server 1.1 v4.zip",
+                    "ipfs": "QmZK218PGswcpLvECMzu3UGwq3wigGzojJMYy5UA9bUugb",
+                    "hash": { "type": "sha256", "digest": "b1e0c48305acd1c849b1d72306dbebaaeb8de92af38f2f8a960b02399503631c" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v2.1",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.1 v2.1.zip",
+                    "ipfs": "Qma9wf1qH1HCBawi7iA1PeFQptYTG4tzJuvxu6JgRUo6a3",
+                    "hash": { "type": "sha256", "digest": "40028c72b76d181189eaaa66d04a2014d89975e0e8a843379d3a19eb5d96213e" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/bclyqtbac98ppx2/ModLoaderMp+1.1+v2.1.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMp 1.1 v2.1 Server.zip",
+                    "ipfs": "QmRiZ6Au5PBPaNBsq3WHh34WfyqzJRkLeJfPaVdvfDe2Mx",
+                    "hash": { "type": "sha256", "digest": "661a74803c2536998c85ed6541141353d117d959ec0cec4c331ee2cf2b76ce2a" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/wgl7pb7hz85m9d6/ModLoaderMp+1.1+v2.1+Server.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.1 v2.zip",
+                    "ipfs": "QmVhdSLsr35JrXHZiGFhWptnS39TDLr4gupFrMLr8Hp3c6",
+                    "hash": { "type": "sha256", "digest": "94e982f1fc4071d96dbeb09ac64d8402e6d0629d5b73e0b9bd5db236286fb581" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/atepu4uj228qsnt/ModLoaderMp+1.1+v2.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMp 1.1 v2 Server.zip",
+                    "ipfs": "QmbUe9zJzP31o4gPck8sXDRu7uLeMs5SVD9c542cEFDA5d",
+                    "hash": { "type": "sha256", "digest": "db29aafe7a74467014e27d5d261180cd0fe871ef52469a8bd5fcbcf2bfccee2d" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/c7zu91treo7yeey/ModLoaderMp+1.1+v2+Server.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.1.zip",
+                    "ipfs": "QmXNDPgG9iq7cUqwbgEfQCxcgzREjPp3PwMTCHwCAhxdC4",
+                    "hash": { "type": "sha256", "digest": "09e21d29d3e675098643d8ce55b3930e7ce05b2b6d899e531ca33c17fe0168a6" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/11t866bv66ysu6i/ModLoaderMp+1.1.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMp 1.1 Server.zip",
+                    "ipfs": "QmZ81RM86i1r71HLTqBJrWviMjmStAuDqHqfRDPZf82Jq6",
+                    "hash": { "type": "sha256", "digest": "6577404fbb706f189ccf9fdde47971710a1e4342a77dd3d09b452dc10e35a29c" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/g681xl9etbmb9aj/ModLoaderMp+1.1+Server.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.0.0.zip",
+                    "ipfs": "QmPfrRu4iYwAZ1D2nESnckuoMyPVsvSiq3HumgYTQUieKz",
+                    "hash": { "type": "sha256", "digest": "9183a9fde186ca779c68d43f545e487e83ffe987cc7fea99d4aa17f253fd2cb9" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/u0infa76cs52qj2/ModLoaderMp+1.0.0.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMp 1.0.1 Server.zip",
+                    "ipfs": "QmU1wuTmXe834cUeWu4U753PXpZ42vGfgziU113zUfjnG3",
+                    "hash": { "type": "sha256", "digest": "f290984057da2c99902b2ac3a4b7fe4450516f2236c0bef162be66607a57f662" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/o709ivedcn8rz7a/ModLoaderMp+1.0.1+Server.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.8.1.zip",
+                    "ipfs": "QmQWCyz7KMgPsVrpNSwrxsu3EX9m3sQAujRt8J4tK6Unax",
+                    "hash": { "type": "sha256", "digest": "a08a5844da4ef7bf751a19359eb8cfd99dbaed846ecc4cd50386cf1668869377" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP 1.8.1 Server.zip",
+                    "ipfs": "QmTLqd2NKNRCRu3UzWvVcLW5XKUkxPm8Y11LJhaBwismav",
+                    "hash": { "type": "sha256", "digest": "a12d3b86bc32680e6ab2979b707ca02b7bf3c09f7a65d43fbcd1921391dc9416" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/nigzouqhikolc2c/ModLoaderMp+1.8.1+Server.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.7.3 Unofficial v2.zip",
+                    "ipfs": "QmeeFMXdY4vLX6D9pqwshKGxQxkk4BvdMCY77T66Yx6YSi",
+                    "hash": { "type": "sha256", "digest": "69dc20ce6cb578e0101471ea9a4e270a45f7f771cc46fcbab993bef7e9da4e23" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/j60zj1ljdtv03g7/ModLoaderMp+1.7.3+Unofficial+v2.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMp 1.7.3 Unofficial Server v2.zip",
+                    "ipfs": "QmeDFJsha21T2fhjhdCPp4VSfET6LhZvv6Q9niHRNCui3c",
+                    "hash": { "type": "sha256", "digest": "238f220f994819d8ea6a6a9bc2f5dae2edf43169c9038aa59b728dade8b966e8" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/ivb74fttuebrj7k/ModLoaderMp+1.7.3+Unofficial+Server+v2.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.7.3 Unofficial.zip",
+                    "ipfs": "QmUWKU9VwEmEgfvKfdWLuwkfmUQaYfPttBPH9rJjCDef29",
+                    "hash": { "type": "sha256", "digest": "23d1f0226efca89203b15eb255640261f30a318628e694d73a19151127321ed9" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/6cwdqr11ddn7i01/ModLoaderMp+1.7.3+Unofficial.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMp 1.7.3 Unofficial Server.zip",
+                    "ipfs": "QmYqimesJvuK8Bf8xfAcRRdK4JGqj31Ce2tEY3tmLjP5ST",
+                    "hash": { "type": "sha256", "digest": "05db20fe6d15e4a0d2eb36a9829341debb8e8c1f7ef5ce52a55fec808ad0f5b3" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/6lpmyr6ahrkaimi/ModLoaderMp+1.7.3+Unofficial+Server.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["b1.7.2"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp 1.7.2 Unofficial.zip",
+                    "ipfs": "QmbU77fDYgsAihxbmwJZ57HEgzHTLkoPKT3zBzRCEiCL7B",
+                    "hash": { "type": "sha256", "digest": "ff7e1f1df311a74fb2197fb330df5d66c7f7c204f86645629913ecaeba7ce534" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/jzvw77doo5qx0xd/ModLoaderMp+1.7.2+Unofficial.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMp 1.7.2 Unofficial Server.zip",
+                    "ipfs": "QmbMda836SiDnFTfM72THGE6GmuJu22zEacj65R5tGbHmm",
+                    "hash": { "type": "sha256", "digest": "93b93e1b242a71e8fee3cf48284e91802e81fc57c590df7083f6abe23b137ca4" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/9n6ibdhiugug61f/ModLoaderMp+1.7.2+Unofficial+Server.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v4",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "ModLoaderMP 1.6.6 v4.zip",
+                    "ipfs": "QmcQbidV2wFBNYdNT65SzGrkMVyj4AXiasdj7scQJi2AFQ",
+                    "hash": { "type": "sha256", "digest": "5be0ad55d0c24ff5bb1778904fcfbe2f11d551233af5081efa87e148aa2aaa43" },
+                    "urls": []
+                },
+                {
+                    "filename": "ModLoaderMP Server 1.6.6 v4.zip",
+                    "ipfs": "QmfUHU8J4SpBkUTqWYapsGR8fKUsnLG4UGZ8ZMYZxXViDJ",
+                    "hash": { "type": "sha256", "digest": "23c296cc0b151bdae9b11e114e9c0bce52b573d597211e12050ae0f153947ee3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["b1.6.5"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp1.6.5unofficial.zip",
+                    "ipfs": "QmTH2vousoGBoXAuFaXHofCX6Rgx15BJ95NoUyyAYSasR4",
+                    "hash": { "type": "sha256", "digest": "5eb65b64d0e6cf05b89513ab0cd9551be05d797a3c3775aacd429ab1a0420755" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/pzhjy3l3vt3py1c/ModLoaderMp1.6.5unofficial.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMpServer1.6.5unofficial.zip",
+                    "ipfs": "QmSHMg42KuC1Cfg35PJQ1drKhCkEwrwowKocSHNDFAERR1",
+                    "hash": { "type": "sha256", "digest": "6ce4a14d5294d535e87c3bc54c45354b7392214fbb05106d41cf3a03a720056f" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/w1wiil57kqmm9d9/ModLoaderMpServer1.6.5unofficial.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1",
+            "mcvsn": ["b1.6.4"],
+            "files": [
+                {
+                    "filename": "ModLoaderMp1.6.4unofficial.zip",
+                    "ipfs": "QmRHJKWxjeuzTvQ4hHYbVbRGR8LX7q2txk15tuCFGNrmrU",
+                    "hash": { "type": "sha256", "digest": "b73f68666b72a448f4b73b3bd7cbac8420c704f052845c34b6f20e6803d6e878" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/48p5tfq9e9txv5n/ModLoaderMp1.6.4unofficial.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMpServer1.6.4unofficial.zip",
+                    "ipfs": "QmYig9YxpiLwkF4S4Gqht3pJnSZxcFbf17KQoSx1AUhqct",
+                    "hash": { "type": "sha256", "digest": "3bec0f03cece64a5e6799552a1ba0f57a6a45bec469f88aa01749488c95687dd" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/f3gxv62t3870juh/ModLoaderMpServer1.6.4unofficial.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.4",
+            "mcvsn": ["b1.5_01"],
+            "desc": "For the sake of less confusion, I am only including v1 of the client and v1.4 of the server for now.",
+            "files": [
+                {
+                    "filename": "ModLoaderMp1.5_01v1.zip",
+                    "ipfs": "QmdcoEiUipDji7iZoYooW2nz54w7qURBsSPzdT5VPR5cmH",
+                    "hash": { "type": "sha256", "digest": "46ff4efc051ea568c09c4e39630c1bcc5793f762827fe1cd79ae222583e7d3b3" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/i7osvks53yers8x/ModLoaderMp1.5_01v1.zip" }
+                    ]
+                },
+                {
+                    "filename": "ModLoaderMpServer1.5_01v1.4.zip",
+                    "ipfs": "QmUsChcnHvYY9wsyqjqdKCa51nrEUGCCYYKeK7juUAa5Ap",
+                    "hash": { "type": "sha256", "digest": "8cee42644960d3db66333fab25c79c97dd252319019df924f5c9db33afec6b69" },
+                    "urls": [
+                        { "type": "original", "url": "http://www.mediafire.com/file/382t4bt2vaib14w/ModLoaderMpServer1.5_01v1.4.zip" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
