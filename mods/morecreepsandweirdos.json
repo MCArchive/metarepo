@@ -1,0 +1,447 @@
+{
+    "format": 1,
+    "name": "More Creeps and Weirdos",
+    "authors": ["freakstritch"],
+    "desc": "That mod with the wacky mobs! Sounds are required to be in the standard .minecraft folder, will not work in MMC instance folder.",
+    "versions": [
+        {
+            "name": "v2.62a",
+            "mcvsn": ["1.2.5"],
+            "desc": "Depends on Forge and Custom Mob Spawner.",
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.62a.rar",
+                    "ipfs": "QmScLjqVJZoVw2uReVFLproiJM5597UGPEeBbyzPFcd3zQ",
+                    "hash": { "type": "sha256", "digest": "fb1615d327f28f9622e736f7aa134e5ed2eb2a8de60469e9a62a0abfa79390b8" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/BW8Tw" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.61",
+            "mcvsn": ["1.2.5"],
+            "desc": "Depends on Forge and Custom Mob Spawner.",
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.61.rar",
+                    "ipfs": "QmbETwX76bk52FX9Lw3ysJYhAmYhfkQ37V5Rwiz3yjbC7L",
+                    "hash": { "type": "sha256", "digest": "98df6049ea2fcbc4b3d62c2f806dd77b8f023b8e780237464ec6ec7d80d03719" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/AuHSN" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.59",
+            "mcvsn": ["1.2.5"],
+            "desc": "Depends on Forge and Custom Mob Spawner.",
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.59.rar",
+                    "ipfs": "QmeaFEYakiGQBzL3MzguY7VJLEa9V5n6JEiMQhDrPqYY9m",
+                    "hash": { "type": "sha256", "digest": "82e08fcc170593bd923a5a18f95d1feab28990e972b06bbab10b2e6b0e2563eb" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/Al3CU" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.58",
+            "mcvsn": ["1.2.5"],
+            "desc": "Depends on Forge, ModLoader, AudioMod, and Custom Mob Spawner.",
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.58.rar",
+                    "ipfs": "QmfYroCfrFAYvepjtyZNjHJDof4ZCysnTDSGuErodC3kdZ",
+                    "hash": { "type": "sha256", "digest": "bd05c78741f4d84b4eee22f9ed70a4999a5046ba0e17a21f737296db933a827f" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/8leLn" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.57",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.57.rar",
+                    "ipfs": "QmeJZwZ24qe5GkXtApjFtyuHSXkobheprTymeBQomgv5iK",
+                    "hash": { "type": "sha256", "digest": "e9ec9c48984af28c4afeb1f79138867c708683d44c80778a1a2fe3649219b997" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/7r4fW" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.56",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.56.rar",
+                    "ipfs": "QmZtmQKSCziw7QpNozhKVPJLU9UXPn3c7kHnc3v65HbBEA",
+                    "hash": { "type": "sha256", "digest": "b029adee1f421a155997753c3b98d0de017d134eaa3aad11413011e1c9f3c09e" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/7ZU8n" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.55",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.55.rar",
+                    "ipfs": "QmaXieTsEaRHiSFe2UCTT5AZLHoDHBNhPV2CKvNDPxq15a",
+                    "hash": { "type": "sha256", "digest": "f7d94f34e49313d66558d2d5d29052c45a2fe2c6b98f81f176d9271833adcb93" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v2.54",
+            "mcvsn": ["1.2.4"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.54.rar",
+                    "ipfs": "QmVsG7Uu76YpmPaQfuXSYP8fxvGRneyb5o6pj8cuuB2oym",
+                    "hash": { "type": "sha256", "digest": "a8db2745672ff098a2b462932c6ad4ed3640b5a2087357a729d28b97154a476b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v2.50",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.50.rar",
+                    "ipfs": "Qmb3fW3oX85tx9655bhAoStcyPCJ9Mkvpp37gWhvjcHSA6",
+                    "hash": { "type": "sha256", "digest": "04930a341ffdcebbe95f46e9350adeb1ca38049bd3f2406a6219a37e3cd0ce8e" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/4nBHk" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.44",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "MoreCreeps-v2.44.rar",
+                    "ipfs": "Qmd7imnqyBTPtjhd9AVHqFUUdjSWRNpSn9Am4ARsCoLtfh",
+                    "hash": { "type": "sha256", "digest": "27056f2bccc96557c7ed5f404f798046b06e54082088e00f9be08b354111977f" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/41qWP" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.41",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.41.rar",
+                    "ipfs": "QmPVDvbUasivLTLCQMMP1uKJXrMtcSoEFKfFcMqnY1KM9c",
+                    "hash": { "type": "sha256", "digest": "bfdbb843741b2fcfef31f4b505355e44fa918f5c9f574ef137a329d573d1a3dc" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/2zZxb" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.32",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.32.rar",
+                    "ipfs": "QmNaWfY9m3stePPu3oQzW6NkBjkgqeMYZzMQrXnUZEXvoK",
+                    "hash": { "type": "sha256", "digest": "c9ad96e7225c0c6c3165619a4dec4b1fc9b64af30545bd9e950424adf966f06c" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/2qGew" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.12",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.12.rar",
+                    "ipfs": "QmVgHcRye7RDpwhArTFEZQHBH9arGxxCtyR9C27yBWs3jX",
+                    "hash": { "type": "sha256", "digest": "123f5fb861ad6d6f0eedeb8bcca66716b18c3b2c19fac56d9090fb849fb5e881" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/2NAnX" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.11",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.11.rar",
+                    "ipfs": "QmT1N8M3KksCHpGBaGhE7dL6aRnqvRPSFCg2xrW3hwM15S",
+                    "hash": { "type": "sha256", "digest": "0858f897e59ace52bd0f83061441c198aee9964bbdfd852d2f7961a49745237c" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/2MHlU" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v2.0",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv2.0.rar",
+                    "ipfs": "QmdbC7WVSt5SXvXabrSeSvj9Pk5ocbawHGZFaHkf6n6V6H",
+                    "hash": { "type": "sha256", "digest": "b38c51444caae58b24de1cd828bf7a8830deeea5767c4bb26684c43ecfa5d98c" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/23RCE" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.99a",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.99a.rar",
+                    "ipfs": "QmP8WtXgKk2wbLFa8WJpqohU9xrR822EHT2PYxN6EzcCLM",
+                    "hash": { "type": "sha256", "digest": "fcf265a372395f47f6c29f429f3c9a86bea040276c0dfed212e3c9621cd129c0" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/1kXKH" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.99",
+            "mcvsn": ["b1.6.6"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.99.rar",
+                    "ipfs": "QmbDGUjEPHaSjzsBroYE9QiqyxH2CBg9Lnh1NXUBQahi35",
+                    "hash": { "type": "sha256", "digest": "dd9e3382d6dbd0e442483423b6a8d059cd375a95fda96bb18dc49087700fb7dc" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/1eP8X" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.98b",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.98b.rar",
+                    "ipfs": "QmVKJskmnKjUHzkDQBqhyoVCQauqVbSxJM3ZcsYdnazPFQ",
+                    "hash": { "type": "sha256", "digest": "046eda43f5b42e5bed5645b9c3df572697ebc813fe5b7f18d3ea9ff541e8a17c" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/1X1nq" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.97a",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.97a.zip",
+                    "ipfs": "QmQkJbMYfZc4ieeEbyt2NFQv4W6zR78gq4f6TQAPq7G9ri",
+                    "hash": { "type": "sha256", "digest": "6b7958a9011a196b364fae5215d5e74369af661c2e2979354a288823a6d88fad" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/1QUtp" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.96",
+            "mcvsn": ["b1.5_01"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.96.zip",
+                    "ipfs": "QmSTkpi3EyBfXMYaUck4aAZnTFXyuBMeqCtcmvZkMx7PPb",
+                    "hash": { "type": "sha256", "digest": "3d604c997015b1951df46ddd52a88a4fa68d5e8d0c100de4475eeebe55b2df42" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/1LdDa" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.94",
+            "mcvsn": ["b1.4_01"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.94.zip",
+                    "ipfs": "QmT8UnLsG5waTR9ykuCB1wHppEVw2dtBH1hCFW51UYvUZZ",
+                    "hash": { "type": "sha256", "digest": "5db76b4b8eb1673d5fb917bdee5aa798b3e2e2bcba26643b9f8da670e45729b5" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://adf.ly/1IRzL" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.90",
+            "mcvsn": ["b1.4"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.90.zip",
+                    "ipfs": "QmViBkE6e3zdmPBAMbN5wu13QHAo8hEWYZ9tKDUtkvGN8D",
+                    "hash": { "type": "sha256", "digest": "ad2dc55f8e788876d978428f58ca61bb9c019cd335523bc7f5c14d6e51ce1de3" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/2x21nmfqa01j0qf/MoreCreepsv1.90.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.83",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.83.zip",
+                    "ipfs": "QmQJftFnSSsJWZNofnoUzCumcTcxTLx5T6aAgo82fKPM5j",
+                    "hash": { "type": "sha256", "digest": "d88f4f44ce01aed457df1ffce2663e0290c1cdcccf080bbcb1379d9151f97b8f" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/w1t32z6ak5dgpa7/MoreCreepsv1.83.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.70",
+            "mcvsn": ["b1.3_01"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.70.zip",
+                    "ipfs": "QmcPBcPdHKwvf2Pr5wrMJogqpSATUf8vCm1AFaH8kg8qWU",
+                    "hash": { "type": "sha256", "digest": "819e3efe58a1288b5ef77a1e17169fe84a6ea9c20e4f5d8b1a60834b0ebca8bf" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/d4051p7s9ok4cfs/MoreCreepsv1.70.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.50",
+            "mcvsn": ["b1.2_02"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.50.zip",
+                    "ipfs": "QmTaynfKwDmQbVVPidcdiJEKrZJryrszGDpCN98nQjHYdT",
+                    "hash": { "type": "sha256", "digest": "68388966f3b95fc85770c6f9b3de533caf7ab575737d347b90d17a398be19f23" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/mo0vzlzdzfkexp2/MoreCreepsv1.50.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.40",
+            "mcvsn": ["b1.2_02"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.40.zip",
+                    "ipfs": "Qma1eNuiLQoDsdcbjES8eU7nECkSYf9QMYHMQUQLxBYrFX",
+                    "hash": { "type": "sha256", "digest": "11905a0060922df9010146e3d6f354886b6ddc2f9cf57ef89ada2adecb18bdba" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/s9add93c61lf6i0/MoreCreepsv1.40.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.32",
+            "mcvsn": ["b1.2_02"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.32.zip",
+                    "ipfs": "QmZe58WK8PzNSNnXZtpcH7pe5KoJJLYch3nMfUkMMxb3J8",
+                    "hash": { "type": "sha256", "digest": "87707bb7b34d6dc1f2917baa2417e9fa5a005c3179864a55991290feb96114f4" },
+                    "urls": [
+                        { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272354-1-2-5-morecreeps-weirdos-v2-62-slot-machines-old" },
+                        { "type": "original", "url": "http://www.mediafire.com/file/xu2fbrr15zwz4ku/MoreCreepsv1.32.zip" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "v1.0",
+            "mcvsn": ["b1.2_02"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv1.0.zip",
+                    "ipfs": "QmSU6NmEZtZrNZcJt7EKe3i621VQMPpW3g7EVxNJ2ZKoWA",
+                    "hash": { "type": "sha256", "digest": "cbdad1edbc73c769c18059f1e3d3879ca1a1992d15f8924092b581cb8c24a38b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v0.6",
+            "mcvsn": ["b1.1_02"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv0.6.zip",
+                    "ipfs": "QmTL9XaARYwLDEnsmqR6ABdsFGofrKnCzwFfQsV855Y1db",
+                    "hash": { "type": "sha256", "digest": "bf5293da74f3613c0dc2aec72535d08e67a5a1f239ee2b7c7a9b94ef7db74f43" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "v0.2",
+            "mcvsn": ["a1.2.6"],
+            "files": [
+                {
+                    "filename": "MoreCreepsv0.2.zip",
+                    "ipfs": "QmZAxHEmM442H6o3z26GCPFhEFQxWbn8T6rp9Jg2tVs26t",
+                    "hash": { "type": "sha256", "digest": "5f3546e58a93d7d7ea75b92aede12c8c105cc0fb8e75356e330ef2cff4500f37" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
