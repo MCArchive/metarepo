@@ -66,6 +66,18 @@
         },
         {
             "name": "3.2_05",
+            "mcvsn": ["1.4.6"],
+            "files": [
+                {
+                    "filename": "[1.4.6]ReiMinimap_v3.2_05.zip",
+                    "ipfs": "QmX6Xivx4vv3cgEzSnrspD1xRSZ32n1xkn4dizpGiv5PJj",
+                    "hash": { "type": "sha256", "digest": "a2eed09d2e49852679d32c0a503c67d41defb9896a341bb6c5ddbd1341b58413" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.2_05",
             "mcvsn": ["1.4.5"],
             "files": [
                 {
