@@ -1,0 +1,1971 @@
+{
+    "format": 1,
+    "name": "Minecraft Forge",
+	"desc": "Modifications to the Minecraft base files to assist in compatibility between mods.",
+    "authors": ["LexManos", "cpw", "Eloraam", "FlowerChild", "Hawkye", "MALfunction84", "Scokeev9", "SpaceToad"],
+    "versions": [
+        {
+            "name": "14.21.1.2387",
+			"desc" : "Recommended build for 1.12.",
+            "mcvsn": ["1.12"],
+            "files": [
+                {
+                    "filename": "forge-1.12-14.21.1.2387-universal.jar",
+                    "ipfs": "QmTHYapeN5ifh7gbmmwd5AAuLF8gP9aqQ8NcDP5ZrmAQ3U",
+                    "hash": { "type": "sha256", "digest": "6c829897c470e54501c5c6b83bce1bff5289cf6a3745d512ed497fdc5e955c5a" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.12-14.21.1.2387-installer.jar",
+                    "ipfs": "QmTt74LoPKjJAiUahEewX5qa4xSB41XdDjV82DHBkbK2FJ",
+                    "hash": { "type": "sha256", "digest": "95005d16495bea3b502d480406d04efe30762221ad802bed8328e6f80571e14e" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.12-14.21.1.2387-installer-win.exe",
+                    "ipfs": "QmQxt24nHkSpUXcBDZf83QCLQ156HWDm1w8VSzuG3HtgbH",
+                    "hash": { "type": "sha256", "digest": "32b93ddf7b8016cdd4c76eb09280fc29c0edac7e50e3a4ab8cd37616d2ffa643" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.12-14.21.1.2387-mdk.zip",
+                    "ipfs": "QmeVnaRN19HaZd2bawtkp6dYHu2L26jN8czcAPd3QfQQ9J",
+                    "hash": { "type": "sha256", "digest": "f07ef1156c43cac4b2c7abab0a89a5f7e55a609a6da953f5a5cc6a01682ca1a6" },
+                    "urls": []
+                }
+            ]
+        },
+	    {
+            "name": "13.20.1.2386",
+			"desc" : "Recommended build for 1.11.2.",
+            "mcvsn": ["1.11.2"],
+            "files": [
+                {
+                    "filename": "forge-1.11.2-13.20.1.2386-universal.jar",
+                    "ipfs": "QmPuDp4n5bncJf8CnNHALtvQopL7BKJtgDdND6wJPh8KLp",
+                    "hash": { "type": "sha256", "digest": "49b6f7b6b7daaf324bf3a5c76e61f42a62c3de0f64bdfb3f3c36e510495a3ea8" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11.2-13.20.1.2386-installer.jar",
+                    "ipfs": "QmQeM26EZt1Nj8R69A3sQQeWPqxLqWmzgmuvqjj1UUofM6",
+                    "hash": { "type": "sha256", "digest": "8557346b51f47d35e90a9d370b6353ef8ddbea6b248e9357092a78c464f46ed5" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11.2-13.20.1.2386-installer-win.exe",
+                    "ipfs": "QmTpvujsRb33NxZrjCP14Eqq7DKBeyzySC5u5UzX9VuRPF",
+                    "hash": { "type": "sha256", "digest": "582b00fc9222a4b7b5e0b517b900de9d703c140eba866b0a42c60f23dba7d872" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11.2-13.20.1.2386-mdk.zip",
+                    "ipfs": "QmcLeCpDyRXNw3n3yZRnDamCHqUYkHhU4PnuGn1akqXCcW",
+                    "hash": { "type": "sha256", "digest": "5adc4ff4c6aa0e4e3e338da430e08546f8df95421e97436e49f7d0969de2eb00" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "13.20.0.2228",
+			"desc" : "Recommended build for 1.11.2.",
+            "mcvsn": ["1.11.2"],
+            "files": [
+                {
+                    "filename": "forge-1.11.2-13.20.0.2228-universal.jar",
+                    "ipfs": "QmXy1HN2ueAgQfd27TY3jVdVaLSBPz8kgvqCP9qDoi26z1",
+                    "hash": { "type": "sha256", "digest": "c6d490d893c21b03d115bae200ab2235279d1dc1bfb781e5c3a41e9b8ba2f8de" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11.2-13.20.0.2228-installer.jar",
+                    "ipfs": "QmPvMc73X89CkmHGadv9LPYtLe2wT6NB1NTFihWNMDwxXJ",
+                    "hash": { "type": "sha256", "digest": "fc721c77e3b097a60beae8c58047d78ada3387a97be8bd3badc7f34d464924e5" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11.2-13.20.0.2228-installer-win.exe",
+                    "ipfs": "QmWbDmtUJ3PnNnonX4ucEKcccqD8Ek673SSthJikxA88Gd",
+                    "hash": { "type": "sha256", "digest": "ef7cfb833bbc133b28507b384a60306e043971f4c6ee7ea7f24278c5e72847ca" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11.2-13.20.0.2228-mdk.zip",
+                    "ipfs": "QmPqhZ8VSRF5K18DeDZKrdSMCqkaD3nPz23wayMUmLCDLP",
+                    "hash": { "type": "sha256", "digest": "95e9ad2022840570b4201c7b9ab44f294e2754e4d56eae16d51d498423ebea1e" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "13.19.1.2189",
+			"desc" : "Recommended build for 1.11.",
+            "mcvsn": ["1.11"],
+            "files": [
+                {
+                    "filename": "forge-1.11-13.19.1.2189-universal.jar",
+                    "ipfs": "QmcQ22rWrU7mVcSqNgs6zMedpxp2LYa7YhFFqXJP6fGwRp",
+                    "hash": { "type": "sha256", "digest": "31258cfbbffa807c09b53a92cd74687a039e3c9f9f85e4b3410c0aa7cb838e1b" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11-13.19.1.2189-installer.jar",
+                    "ipfs": "QmaVMoYZe8N9Kg9FJoUFbXJtFTGfZPvoc5Pmv9AbbmQSnq",
+                    "hash": { "type": "sha256", "digest": "bb0380a0d29e0a6913abdbcfa23d5d2340d123ea3a6f015704e360537936aaa4" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11-13.19.1.2189-installer-win.exe",
+                    "ipfs": "QmaupKET5akaZTmqUTeghP6EQ1VEVWwGxFF6KWWhHhkZKJ",
+                    "hash": { "type": "sha256", "digest": "551a3e3b88632cd897ec13759ddec5ad9fe83d1374f17527b2aa1914fdaea99e" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.11-13.19.1.2189-mdk.zip",
+                    "ipfs": "QmcbsowA3sTGWJS6RoVyx9QdHuJF1oofVZXrmG99Q3LoT1",
+                    "hash": { "type": "sha256", "digest": "b2e86cc0dad0c38a46408cbff01f976412bc6bcd0e00e3f2328d7fac2f5c3b45" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "12.18.3.2185",
+			"desc" : "Recommended build for 1.10.2.",
+            "mcvsn": ["1.10.2"],
+            "files": [
+                {
+                    "filename": "forge-1.10.2-12.18.3.2185-universal.jar",
+                    "ipfs": "QmNMJJjg5aawSbE4kgNAS1s3vTtsFaw4LgpyqDLqVwvJXN",
+                    "hash": { "type": "sha256", "digest": "4b4a0ad60bb0314316b3be27e59857bced1fb36ee2a73d24f307bcb3f508c17a" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.3.2185-installer.jar",
+                    "ipfs": "QmTyV8kPsxZtiCWfRyhVcQkAtrp5kZwA2Bxps2GQk4aVaF",
+                    "hash": { "type": "sha256", "digest": "ad8896ce7c44688e6c6e0bbdd327c81dad62fa1a8bc1f68d3035df3abaf2b08d" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.3.2185-installer-win.exe",
+                    "ipfs": "QmVJBnFsMWTkucsfngnZaUwqdLa1u1XNw84A5kbhekriXL",
+                    "hash": { "type": "sha256", "digest": "ef911b7a3acf193026ee60c69fd13094e93082b0678dacd646dfb0d44a00ac05" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.3.2185-mdk.zip",
+                    "ipfs": "QmSsvbc5SW7u27Vk52hnJDeQRqC8cy6Xg4qSg74VU1EoJn",
+                    "hash": { "type": "sha256", "digest": "f575e2a4414455c565b71dc9a63489ebf112dca3669faf6d16e80c08cb112dcd" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "12.18.2.2097",
+			"desc" : "Recommended build for 1.10.2.",
+            "mcvsn": ["1.10.2"],
+            "files": [
+                {
+                    "filename": "forge-1.10.2-12.18.2.2097-universal.jar",
+                    "ipfs": "QmVfHET9Gcgy5XtqSmycg9HwVt2Z6EUQRt7guWNBrsn9iQ",
+                    "hash": { "type": "sha256", "digest": "205e86354b978c1479800ee5d278587bc5137b77f58819323b8112813e99d996" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.2.2097-installer.jar",
+                    "ipfs": "QmNM3BBgEcvrEnYQNCrPcSNd3SAcN9VjSkNDk9pbvijpMP",
+                    "hash": { "type": "sha256", "digest": "bd536170e71c00eea3685b4fe503c9a30e02a60a86ae6baa031c39a4e70618d1" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.2.2097-installer-win.exe",
+                    "ipfs": "QmQknHwvepDvQRzgtv81v7eZiw2cj4ozDPVUQEUAD26LxV",
+                    "hash": { "type": "sha256", "digest": "79a2997bc7d100df41e7f789bd94590fc1b8ae847c8306fce8800f32c61c6b66" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.2.2097-mdk.zip",
+                    "ipfs": "QmVget1SBQfbGJjboTS8u9u44oqVhLMScYACjE7DAFDNZd",
+                    "hash": { "type": "sha256", "digest": "e20319e559699259c55938562c26d567e5ec258d8232d8e681f94447cc348025" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "12.18.1.2011",
+			"desc" : "Recommended build for 1.10.2.",
+            "mcvsn": ["1.10.2"],
+            "files": [
+                {
+                    "filename": "forge-1.10.2-12.18.1.2011-universal.jar",
+                    "ipfs": "QmWDnfUPcAsa6V1TSENyuJJYyzxC86jmjbBF9yxtJX7QBu",
+                    "hash": { "type": "sha256", "digest": "3bb6f8b47cf45e805a75b853483d87fccebf2020130b294dae92195134073d72" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.1.2011-installer.jar",
+                    "ipfs": "QmU4C2Spba1MJrqecsFL3Rhx3Qf1oJrLvj28FaZaFkroGK",
+                    "hash": { "type": "sha256", "digest": "5736da99f41e83bc1c1b6044a021f766429e17a9bbdbdcd8101659d704f43661" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.1.2011-installer-win.exe",
+                    "ipfs": "QmVwsKMbHmNEsE514ztofLRxk6WeNF8JBfG4kZqEWr7Xuu",
+                    "hash": { "type": "sha256", "digest": "1d51cbf585ae279fd453bdff78b271f4e9c2d4cfe5a5a2ef48abac874247ec4c" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.10.2-12.18.1.2011-mdk.zip",
+                    "ipfs": "QmSH3qqVTXbSRSVzdNgXgTAVuLGhhSq8ocw44Ckp3yEoif",
+                    "hash": { "type": "sha256", "digest": "e2ae3c60ee02ad6d3938047166cbf094fa9c0807e7451f72c4774b52fc37cc8a" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "12.17.0.1987",
+			"desc" : "Recommended build for 1.9.4.",
+            "mcvsn": ["1.9.4"],
+            "files": [
+                {
+                    "filename": "forge-1.9.4-12.17.0.1987-universal.jar",
+                    "ipfs": "QmWaCjEzSwpZhHaow9S38PgyryR2vguSJWimwDj4MyBJMp",
+                    "hash": { "type": "sha256", "digest": "b5464fb2bde677820c9ad219c6ffb1939d5ce85685334846f25fd00077afbd03" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.9.4-12.17.0.1987-installer.jar",
+                    "ipfs": "QmU2qurg7VoMdd7wiS5zbq3cpVS66Yjvd3Yz1SxKdn3nQ6",
+                    "hash": { "type": "sha256", "digest": "0a742b0ba3c7859a89044f9db2f15137558439bb3f270d97e25f64b68a4b288d" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.9.4-12.17.0.1987-installer-win.exe",
+                    "ipfs": "QmdXranU5XhDdEsMs9yHioNc19aHwMgn2hSwMhc43V2WQy",
+                    "hash": { "type": "sha256", "digest": "3438262b3970f8630f0935d42a9152accfc9cd5fa89e185b8f90243a3b03dabc" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.9.4-12.17.0.1987-mdk.zip",
+                    "ipfs": "QmahQqh2oZUNTRMUbqVn2G1VfbxdQiyMCcPd1qE32jZVUb",
+                    "hash": { "type": "sha256", "digest": "d0d1c1986968df59cc51ea88bcb833752f701cccbc0b1d401b3c834fb8f495ee" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "12.16.1.1887",
+			"desc" : "Recommended build for 1.9.",
+            "mcvsn": ["1.9"],
+            "files": [
+                {
+                    "filename": "forge-1.9-12.16.1.1887-universal.jar",
+                    "ipfs": "QmV3JfWrSdPprpYtpG7dBhakTrusqEyC2xS38vusQBEKzU",
+                    "hash": { "type": "sha256", "digest": "ac2fe288e3d35b2e6ef92f8f73d59362894aee86f0cc20b805c4e5ab9c18f44a" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.9-12.16.1.1887-installer.jar",
+                    "ipfs": "QmaES6bYDWvuv1d8jtPxbQ6y3sdyaDnRJWmEtxESjFmA9H",
+                    "hash": { "type": "sha256", "digest": "01ed3425baad23199438bc6af5e94a77abdf57244d111a078084386756bf7283" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.9-12.16.1.1887-installer-win.exe",
+                    "ipfs": "QmThccqGZ3gW8LtkNQ1gFnnB4CMENTsQgQ3nxy8T16BH6L",
+                    "hash": { "type": "sha256", "digest": "2ee8cb3b2f61a96243ba93a7ba941f6cfa083c6523758f47ee88d92ad6220cb6" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.9-12.16.1.1887-mdk.zip",
+                    "ipfs": "QmZjg14orxk1ZK4KNwuTjijLLuHnuXbjnmzXdfZGpVtUEV",
+                    "hash": { "type": "sha256", "digest": "6f1369cf1e09b428337fd9c50cc8035155423b018b9f195b4750528e86c89fff" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "11.15.1.1722",
+			"desc" : "Recommended build for 1.8.9.",
+            "mcvsn": ["1.8.9"],
+            "files": [
+                {
+                    "filename": "forge-1.8.9-11.15.1.1722-universal.jar",
+                    "ipfs": "QmXkKef23zKf5nV8QksDbHuyWidweyVqRHyY8DhLzzwkBV",
+                    "hash": { "type": "sha256", "digest": "86025fe9a719c4a72b7784cd12bc8221c749218478ed4247c10455254ea69adc" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8.9-11.15.1.1722-installer.jar",
+                    "ipfs": "QmQhNbv2q4V41g7vcc3xsHAxoiN1tFRKAMRkPtMpxviK49",
+                    "hash": { "type": "sha256", "digest": "3e656c7da1ff7628ab004303d2088ea6ce9eb4ee6da374c821f6c173cbd7b5fe" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8.9-11.15.1.1722-installer-win.exe",
+                    "ipfs": "QmPXXMQCsfUNzj6RYK3f7gASvdhVsn5CYqXKKESeruaxrX",
+                    "hash": { "type": "sha256", "digest": "3d5ce5098fb7f63da447cd5cf915e28176b97bc972ac6951c4824a083a94785e" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8.9-11.15.1.1722-mdk.zip",
+                    "ipfs": "Qma24BNd7Eh4LLwjctrWjKbpeWwamoJGKxUc3g5wuGMZHx",
+                    "hash": { "type": "sha256", "digest": "ffe002e0463416141c546a430fc46f34ddc3327ecda7009a42c8c8434b88495c" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "11.14.4.1563",
+			"desc" : "Recommended build for 1.8.",
+            "mcvsn": ["1.8"],
+            "files": [
+                {
+                    "filename": "forge-1.8-11.14.4.1563-universal.jar",
+                    "ipfs": "Qmd97nWFTH4TRjCRXZn2hR8s5vXb4Z92P7TEYpd6zTwWEP",
+                    "hash": { "type": "sha256", "digest": "9c86c682caf368b7822c8cfe85ede0165b7a9b3430d065ea3b8616d1a9679c18" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.4.1563-installer.jar",
+                    "ipfs": "QmdGhRjdgfgTm3bsqehsimi9wsfkkCoK6yr8xMsMzBKcVu",
+                    "hash": { "type": "sha256", "digest": "33781b7d6721bdee620a7845b5fe366f960a8fea7db19c48de37a152664f47b2" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.4.1563-installer-win.exe",
+                    "ipfs": "QmQ78HEYaPCguHJL5R46Ydm2d2N86r1qr4kXHBiUTMZmeU",
+                    "hash": { "type": "sha256", "digest": "73ef53eabe2abb42d82813922423d2ea24c67d9cdc4afde832a4cfa9ef68487d" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.4.1563-mdk.zip",
+                    "ipfs": "QmWyLjd58aYhrSbRA12cEcEe2MsQXX3WnwGgmyXRaiWBKK",
+                    "hash": { "type": "sha256", "digest": "27c675709bbda032d74d2a92e0375448dc491ef43a775635b42e191821bf8869" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "11.14.3.1450",
+			"desc" : "Recommended build for 1.8.",
+            "mcvsn": ["1.8"],
+            "files": [
+                {
+                    "filename": "forge-1.8-11.14.3.1450-universal.jar",
+                    "ipfs": "QmZKMPsjsNKxRrYpXizeNEwpTHTumzDbCThQytWQYLHW7x",
+                    "hash": { "type": "sha256", "digest": "616c9cdd5900ef4b19a392ac42498c74b4d2aec7223eec25cae63ee0d5fdf68c" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.3.1450-installer.jar",
+                    "ipfs": "QmWFCabcYMHncQupHvXPCUSPxw4vuF3Dmh1SP3zzFgrCoq",
+                    "hash": { "type": "sha256", "digest": "01a0409f0e5ea8c682e081b3e5e581357229d73a8894e7f54d23c71b1be74f5e" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.3.1450-installer-win.exe",
+                    "ipfs": "QmbmBh6wC5tmouMU3dbwtzsDozzfozkKmvYS6QxKai2Ved",
+                    "hash": { "type": "sha256", "digest": "ad90a90d06ed4bd59aaf3966f3f5a44769cb9bdc5bcd466ec0a7e2888da94d04" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.3.1450-src.zip",
+                    "ipfs": "QmRiMH8T8vWExZwRB8t6VVBFFiFT9hNCiNiKq5WxxxueKe",
+                    "hash": { "type": "sha256", "digest": "a0565b4c12dbb2768e0de1e387e7e6ffe11e7dca6c7a5a14962058aefde849e2" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "11.14.0.1299",
+			"desc" : "Recommended build for 1.8.",
+            "mcvsn": ["1.8"],
+            "files": [
+                {
+                    "filename": "forge-1.8-11.14.0.1299-universal.jar",
+                    "ipfs": "QmdX7TcngzNt6H12hXnWpYUDTn9FDhpkw7basoAbGMqEKW",
+                    "hash": { "type": "sha256", "digest": "614f7702199a80d4c6c82487efee3a68ba735ca86391143c09946039acb5c811" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.0.1299-installer.jar",
+                    "ipfs": "QmSbjEmjy9DcAuvrx6UMxdsKpa91Gx3Sv3xd58TXSFkz1L",
+                    "hash": { "type": "sha256", "digest": "1760112cb5c83c9ed9b12905cb65db159a3abbbfcb911f7ca4b5b02690c4c655" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.0.1299-installer-win.exe",
+                    "ipfs": "QmS9WD2DXGtpMdB991KnFKLpTb5GZ4EWYdKYaNv2WuPo33",
+                    "hash": { "type": "sha256", "digest": "04f922c9b1416ef29925321399f166d79a9d86675a83a67fc0e70f1921578d35" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.0.1299-src.zip",
+                    "ipfs": "QmNyLcqvLJ6hgyroKhDwKwSurZWwGPFXeKezfwX5cHW9Ef",
+                    "hash": { "type": "sha256", "digest": "0500365e31e706c7b1648b967b315ce466513a525a78fd485fae925077a925bd" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.0.1299-javadoc.zip",
+                    "ipfs": "QmSXtvsZ9HsWigXq38xgU3QNJndEx3cWRvPSkw19rXjKTi",
+                    "hash": { "type": "sha256", "digest": "2df32ff07ec2c07421cf4ad0bb01bfd4a7afaa53d19cfb6f9e87dd4dfd26b697" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.8-11.14.0.1299-userdev.jar",
+                    "ipfs": "QmYwxrpJ47pgKsaUqQZsmmJNKJBcqv6az7qaUW6y1ozrBG",
+                    "hash": { "type": "sha256", "digest": "2b9a111975fabecccdde849ff694508fe6b96ed0f12ca336949d6d23bee33706" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "10.13.4.1448",
+			"desc" : "Recommended build for 1.7.10.",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "forge-1.7.10-10.13.4.1448-1.7.10-universal.jar",
+                    "ipfs": "QmVaacMEzNBvbj3Pgw3yfquN6DGxMbDGuT4UXUffq7yAah",
+                    "hash": { "type": "sha256", "digest": "f928a38f2ae75f9897ab94afc6d45641a00633722a1696ca8c43b1720d23455c" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.4.1448-1.7.10-installer.jar",
+                    "ipfs": "QmQnPjGfWXbxrPDtdKGwSUkA7sa7p1zRuiifHMpLhjmXmZ",
+                    "hash": { "type": "sha256", "digest": "fe658f81d079e0d775ccebf7e9715bb4fa83bf71bc33e28c8ec1170c4541ba8c" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.4.1448-1.7.10-installer-win.exe",
+                    "ipfs": "QmRiKeFfnvccB5sgK2xdqNRK858J8cerGNwTM1u3nrazxz",
+                    "hash": { "type": "sha256", "digest": "060e272a86ce57690eea729ea1f6f51ec1c9ab4c42140c8e06dcea53db1167a8" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.4.1448-1.7.10-src.zip",
+                    "ipfs": "QmPxxWQ6gm1seH8QpM76W9HBmp6yH55upLLnMcyDBxJKSr",
+                    "hash": { "type": "sha256", "digest": "0417977515b7b243507f231ae4ac108bd8d7c8402baea25f5d682920e34083e8" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "10.13.2.1230",
+			"desc" : "Recommended build for 1.7.10.",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "forge-1.7.10-10.13.2.1230-universal.jar",
+                    "ipfs": "QmSY8ibxHipVR9vp73mYup1fySnK13grTBtfKsM1cGs16M",
+                    "hash": { "type": "sha256", "digest": "07267747d878aee6fc694a0775ecf687642fdd8673c6dbe8a9caba8ae335d5ec" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.2.1230-installer.jar",
+                    "ipfs": "QmSoaK4Sirdukyo6qLNAbgZ1zLupdb6BMSvc2QbK3eryAP",
+                    "hash": { "type": "sha256", "digest": "0bc42c51082d5c4a96e9fdada907293fb3095195cbd9f1c3d1e5a692599d9c11" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.2.1230-installer-win.exe",
+                    "ipfs": "QmPJvtHHkCJywJFJQiKJWiWPLBfkezhveZr8rbXgjjnc7i",
+                    "hash": { "type": "sha256", "digest": "ce197c570c7e31c3ad6cde4a3012972360f6a8a909f43e01a55969d0477570e3" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.2.1230-src.zip",
+                    "ipfs": "QmYdBUu3DqGrbGzumF3KHKg1tVeFe8RidcdUHfSDwYG1Zo",
+                    "hash": { "type": "sha256", "digest": "60ea67e166b88e087d426408de527fbfb18712f9bb516278c65a52e9faabd5cf" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.2.1230-javadoc.zip",
+                    "ipfs": "QmXHKYwxrW5b3Sn4c9wudELyHAtg1dMz2tre7PQLMtPPpN",
+                    "hash": { "type": "sha256", "digest": "efe91c5efa575eef1535e00142c51f2423367f8c93e06e69e109196aa5b189c4" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.2.1230-userdev.jar",
+                    "ipfs": "QmRDRPzUDjhAtctGjVLwGwKawoF38fyfFztHhxdeayRvig",
+                    "hash": { "type": "sha256", "digest": "4fb4a5b0bb914326a12dabea25bc717c191c411d3e1d87e2e9daf7faa7750db3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "10.13.0.1180",
+			"desc" : "Recommended build for 1.7.10.",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "forge-1.7.10-10.13.0.1180-universal.jar",
+                    "ipfs": "QmPkddcoTnBPAMsjmbaaprMXngANrq9bdp3XZCN3nmpNpa",
+                    "hash": { "type": "sha256", "digest": "9dc88867a232e1f3f18acdcdcefaf9f1afae0c9a621afbda7713ea1cd2e0c606" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.0.1180-installer.jar",
+                    "ipfs": "QmYTXmejcQfaBcDqVFCtwx87YvYWV8eyzbubGnia8SKB5s",
+                    "hash": { "type": "sha256", "digest": "cfc4d45cf58f7287b83c1b79fa67f8499040040f49f93d51cee0cbb57e150b73" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.0.1180-installer-win.exe",
+                    "ipfs": "QmVAqTTpZpwEmt3XzsxJ3d79NchzqhQr8B7GNFBD7tVWoa",
+                    "hash": { "type": "sha256", "digest": "7b6259eabec3a4935e1becc6c71c0e432e597ef476ededc308d20ae270984af9" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.0.1180-src.zip",
+                    "ipfs": "QmT5wMojNt3FZP7nsSzkzr3sZUsiSUF7sXR4eYjQnEZqWo",
+                    "hash": { "type": "sha256", "digest": "482e1eb00248f209a49756a0b2ca0c3b1ef0825cfbad962f3786064be0cc53af" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.0.1180-javadoc.zip",
+                    "ipfs": "QmQHFoBw2NuRX7wPc2kxHgtkpMR8QZM9r8GVSPzHhFFFFd",
+                    "hash": { "type": "sha256", "digest": "09dc6e0652a3efc52a40abf225110c4c384e1a9fad1accb3c0572c5100ee08d4" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.10-10.13.0.1180-userdev.jar",
+                    "ipfs": "QmaFstCa8Cb3tcEn4mCFTLMmBzVUBgBYkisEued3Xtfn3W",
+                    "hash": { "type": "sha256", "digest": "56547c4ef0197dec5b06fa13b458fde7539efc2cc86ecb7a8ebdf2e30041bc8a" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "10.12.2.1121",
+			"desc" : "Recommended build for 1.7.2.",
+            "mcvsn": ["1.7.2"],
+            "files": [
+                {
+                    "filename": "forge-1.7.2-10.12.2.1121-universal.jar",
+                    "ipfs": "QmS9UJmWeh4NsKnfSyfQJauxLAEKCp8xUemMZZHfbrA46L",
+                    "hash": { "type": "sha256", "digest": "78e6d4248347bed36e9d65cfc12b25f433f5b82ddfb8d71d3ccac607671b6b1d" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.2.1121-installer.jar",
+                    "ipfs": "QmTwy7aaoZsN9ZxY9w1gaYeoqTwM2Hn85oXHzCptFjy5W6",
+                    "hash": { "type": "sha256", "digest": "e30893e765c61783a5b1975a6b5bfe7336231bf6f6b5bb1e2b0bec4fcccb0660" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.2.1121-installer-win.exe",
+                    "ipfs": "QmYhUMCWvfrQPmrwN5Z9Fo3Zui5C1RfTYt7gwfhe3t3iDt",
+                    "hash": { "type": "sha256", "digest": "66a8c2be2f6a091558f47b894c1238a37a2c13ea300221e278e6c20357629a60" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.2.1121-src.zip",
+                    "ipfs": "QmeQzdtR4vRTv8ptbNhwdn8pSbRikC2ZsyqhovfY7pkrJR",
+                    "hash": { "type": "sha256", "digest": "4582b65410c3a38402006779950909b3395c99ad467a10065878104111d05e12" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.2.1121-javadoc.zip",
+                    "ipfs": "QmVcgSu2Mw4FUEuA3x1XgcMsxgxFGHRyCKcb7BDZxFhzHD",
+                    "hash": { "type": "sha256", "digest": "60b2d6e8d2cf5c611360ab06250b6a569d05e0e9ba78f2e9ae202b15439a63fe" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.2.1121-userdev.jar",
+                    "ipfs": "QmRFY4HLXsfdNw5bxb2EEqdYTuWj555k8UCAFp9S4jyVWs",
+                    "hash": { "type": "sha256", "digest": "02c35873cc35b31a80a2d955fc91e953c2bfed81fb754afb010253e4b62125b3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "10.12.1.1060",
+			"desc" : "Recommended build for 1.7.2.",
+            "mcvsn": ["1.7.2"],
+            "files": [
+                {
+                    "filename": "forge-1.7.2-10.12.1.1060-universal.jar",
+                    "ipfs": "QmTNgCziWHzkXGD81BqgEoprMbweG9e1WNvGzKfxsWwKsD",
+                    "hash": { "type": "sha256", "digest": "5c07eff53583a0409f667fe6bef9cdafebf46c08a486ddb82636085582425fde" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.1.1060-installer.jar",
+                    "ipfs": "QmcbQYCZsDjdhuisrg81dALn8Lcyg8Qs4dSzeeupNorycs",
+                    "hash": { "type": "sha256", "digest": "8bd1c6fc65d97c5df956fda926f865ec8e2f6d2194491132095a715a4ff184dc" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.1.1060-installer-win.exe",
+                    "ipfs": "QmSWu9ctMjwXnwBHUQFi6cCQKHXKXtuRS2xgmTR21NbS8D",
+                    "hash": { "type": "sha256", "digest": "301235545502c31f5a3ddf7545b4d365626b5ce679ce5f141997079382facc4c" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.1.1060-src.zip",
+                    "ipfs": "QmT1Xvf6SSMHa1s1xPDNXghKsqP4AggzYgVEfBwLhZZm84",
+                    "hash": { "type": "sha256", "digest": "7d98f5098f80e736c57fe8652fe35f3e82d00eb94df5466fc88615583a08ec1a" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.1.1060-javadoc.zip",
+                    "ipfs": "QmegBKgowsHcB3q5aBSfm9yW4tNpExR3i1P38QB6qSby5P",
+                    "hash": { "type": "sha256", "digest": "68c0af7dbb6f872b7b00fe15675868f0d1c3f1181996d941c710f37bde74886e" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.1.1060-userdev.jar",
+                    "ipfs": "QmP7348ZVvuuyn2L1xY19dW2hnM9RRW8eqbaib9PQcZgxW",
+                    "hash": { "type": "sha256", "digest": "1650b9dbe2333b77ae8ee552054327dfb2c336c58145294e2685fc363f777aec" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "10.12.0.1024",
+			"desc" : "Recommended build for 1.7.2.",
+            "mcvsn": ["1.7.2"],
+            "files": [
+                {
+                    "filename": "forge-1.7.2-10.12.0.1024-universal.jar",
+                    "ipfs": "QmY6moaenDhzuFaPTFRq59aXP2VREVwZdsq1i2oU8WGhg3",
+                    "hash": { "type": "sha256", "digest": "21717e5f219f24ae98ee889f8470d716a2741f6509a1e4fbafd0ab268fa3c360" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.0.1024-installer.jar",
+                    "ipfs": "QmRo9DdkmYUygQvgjP6knjGtQqT7VfG3zRMQhY32qBGu6a",
+                    "hash": { "type": "sha256", "digest": "ff0500555965647834a5a113a09cacfd97ae9bbb77d74d8ea68b4f918cfdd459" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.0.1024-installer-win.exe",
+                    "ipfs": "QmQnpypy76iYhFd5LPziUiXtCXNuyA38MScFH6TFnXCYZk",
+                    "hash": { "type": "sha256", "digest": "ff3159698b9631c0ef9d8c61d431bd609a2ea019e68c438cdc40f977f5ba3954" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.0.1024-src.zip",
+                    "ipfs": "QmazoSZFKKdUkVq4NwZUxMbdMAe9WbZQNDn2PKqGxEeGTY",
+                    "hash": { "type": "sha256", "digest": "55fe2f5c5dc6366f20034c89d15a46609b33a7b903d92a97cb6bcf7517767871" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.0.1024-javadoc.zip",
+                    "ipfs": "QmeHpkvioxBNx62U4XiPAxP6CEtqTX8UwTkVGr8TEZcuoG",
+                    "hash": { "type": "sha256", "digest": "c86266c0c4c4bd5c7f134de5b242cce9980c8383aba94ee8ecb6bffa767b92f3" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.7.2-10.12.0.1024-userdev.jar",
+                    "ipfs": "QmZYthyA9FbLYfbRV2Uybc29WSSEdAmp2cDdkeNFaaiEKe",
+                    "hash": { "type": "sha256", "digest": "28f2c9c8dc798736b9254417c314b9e2cdc86d274cc4bf1da5b3acd3121ee70a" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "9.11.1.953",
+			"desc" : "Recommended build for 1.6.4.",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "forge-1.6.4-9.11.1.953-universal.jar",
+                    "ipfs": "QmeXM951q4p2jtVcizC47aUCP8VvS4MTmk7XmsfG7eSwfw",
+                    "hash": { "type": "sha256", "digest": "3f5491a12447e2547826ab52e29b72e0513956d77981de7ef49ad13a9733067d" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.4-9.11.1.953-installer.jar",
+                    "ipfs": "QmbXZdMx59VjXQxnFJsyhjP7GgzzUNRGdFzDbzG9rSEAjz",
+                    "hash": { "type": "sha256", "digest": "e6f156b73ce423048beacb47141be60e718ad5fbe2241db257e4d0366638ac6f" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.4-9.11.1.953-src.zip",
+                    "ipfs": "QmQXyYcyLGVRk7DYtXnfGwcezymZdauaCyRis6hb2GCZGy",
+                    "hash": { "type": "sha256", "digest": "81a7dc77f98c7dc9c0fe6aca018b3973a98ffcafd835f7cf12f77823608218ab" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.4-9.11.1.953-javadoc.zip",
+                    "ipfs": "QmTBnJQxEREhiEq4dxcA77UFxajzDKqcXVddEkxpJCb44N",
+                    "hash": { "type": "sha256", "digest": "8b58b9386503f38902af283f3fbddc6db0f87cfe481281f326718cdba60587be" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "9.11.0.883",
+			"desc" : "Recommended build for 1.6.4.",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "forge-1.6.4-9.11.0.883-universal.jar",
+                    "ipfs": "QmY4LgbbsHGhd7WMib1D8UR5414HUAbGaS9jM7ss4WUqP3",
+                    "hash": { "type": "sha256", "digest": "4c606b9a951b872537dc69d86bae568a6055339bdd82fe4090037909877ccac3" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.4-9.11.0.883-installer.jar",
+                    "ipfs": "Qmaj6wWkRSn4Wsj3QbXos32MpJhEiNbytAKvwUaSs2U1JS",
+                    "hash": { "type": "sha256", "digest": "de6af183017ec454ecd56242922c224e32bcf7f0cd31c37e6040ab30358421d9" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.4-9.11.0.883-src.zip",
+                    "ipfs": "QmSmYy4L8AxUxYHnXSL4itsxGX8UPdzj5V6xMb8QmoAiJ8",
+                    "hash": { "type": "sha256", "digest": "439f374efd458fafb53b70ca8eb931bc1224b6adc901838889dd233fb1fce298" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.4-9.11.0.883-javadoc.zip",
+                    "ipfs": "QmP7PApHErcdD3JfLeE25DwRwxZXRCfxXqfrbsvu9DoZ4e",
+                    "hash": { "type": "sha256", "digest": "1df2d1e59a8c33d4ed4b7f52c01d1b9aabfc88a27410dd31cf6f7e3a09b678f7" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "9.10.1.871",
+			"desc" : "Recommended build for 1.6.2.",
+            "mcvsn": ["1.6.2"],
+            "files": [
+                {
+                    "filename": "forge-1.6.2-9.10.1.871-universal.jar",
+                    "ipfs": "QmbRDGDPRfUP9KrHfabByPMefWoqzi6z31j8updxG9s56Z",
+                    "hash": { "type": "sha256", "digest": "fd188143d1da0fac9fd5fae5684922bf8c77a324519cc770c50edbf893c09269" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.2-9.10.1.871-installer.jar",
+                    "ipfs": "QmVX5WEJuJscAD14rTVBsSrZTguKJQYJsCnJXkDUSPNpsn",
+                    "hash": { "type": "sha256", "digest": "4e02b2d94619fa0c0d09fadef68f8c7479a1ec60677f6c3ba237134e0f6c8f25" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.2-9.10.1.871-src.zip",
+                    "ipfs": "QmPGN9FAyRMPirC113q7DGGpvrUvPQVCAxM5F5BBsEezVh",
+                    "hash": { "type": "sha256", "digest": "e2c1c00ff411f7c144f636f3593bb630d4c538d80d7a2a38fb137c7dda62a2ff" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.2-9.10.1.871-javadoc.zip",
+                    "ipfs": "QmREfc2JPFSedfQbrXNqo5yLFrkpTtbpMtU9ai5pAe4wfZ",
+                    "hash": { "type": "sha256", "digest": "47f43a1d49781a826ad5936676c88ba242e2b09ef314efbfc202ef9b842e2d6b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "9.10.0.804",
+			"desc" : "Recommended build for 1.6.2.",
+            "mcvsn": [""],
+            "files": [
+                {
+                    "filename": "forge-1.6.2-9.10.0.804-universal.jar",
+                    "ipfs": "QmXGcyg6oUbrABcn5SLHAK1bdWdiqkgdEzsZdguDbNfVy7",
+                    "hash": { "type": "sha256", "digest": "27e9a40da84680f2483044ba2ef7b69a92208c42e0ed1079bbf869685172fb9a" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.2-9.10.0.804-installer.jar",
+                    "ipfs": "QmdoEcw9xiqkNn8so4DP9VJPknKCEyL2W6mrk49oM9sv2F",
+                    "hash": { "type": "sha256", "digest": "a05573775ede55478c57851b997a6875dec26efe17a37bd2ddab462d932b75a3" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.6.2-9.10.0.804-src.zip",
+                    "ipfs": "QmeTSeLBB5VTynXjA3WKvwQjjAJaLQHwvpFqPKJHKMg1oy",
+                    "hash": { "type": "sha256", "digest": "76d7a8a90206f06a330a9751c949b3e686e536b949aafb108f24db89bb61183a" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "7.8.1.737",
+			"desc" : "Recommended build for 1.5.2. Library files included in fmllibs152.zip.",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "forge-1.5.2-7.8.1.737-universal.zip",
+                    "ipfs": "QmSANbqoXeF3815KvyU3paUQ8ZrhUKB7Hy9QSd7EeZSHGE",
+                    "hash": { "type": "sha256", "digest": "988072f14ba1f70392e7d2305f6193f7c96399ed004896f5f489c3e04b5c6260" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.5.2-7.8.1.737-installer.jar",
+                    "ipfs": "QmQ57vcShHZuNS2W78ZdkosEaECDgiYGKfuYPg2VHiMzbB",
+                    "hash": { "type": "sha256", "digest": "a96fa6e3740cb5c7e4b017b65f8fa797cd6ef2e8329fee23b9a869d66a2e14d0" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.5.2-7.8.1.737-src.zip",
+                    "ipfs": "QmUAU7gXwstgEHbSiX3Rk4auNGtUM3VbEMHRp2RmL7Ce2e",
+                    "hash": { "type": "sha256", "digest": "7d21a609419abe5b7a1bada76db27409bcaa93de980d29f2745b1bdd24e6b07b" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.5.2-7.8.1.737-javadoc.zip",
+                    "ipfs": "QmeoPg7r4oHX5anTbBVqiRmqUfyzJY4DRXY2RRkm1CWdJR",
+                    "hash": { "type": "sha256", "digest": "10ee0d63e0b0fc6590b70b9cbc086dd45b0748259eddb29de640f9333da47800" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs152.zip",
+                    "ipfs": "Qmb7dQrfuxLmWXSjiozvNYHcGovMQcaPDdSMUY5eFztKAK",
+                    "hash": { "type": "sha256", "digest": "1bced41d9dcdac2bbc9a077910f7652c2f433323f46d16a6c129f96377520185" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "7.8.0.684",
+			"desc" : "Recommended build for 1.5.2. Library files included in fmllibs152.zip.",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "forge-1.5.2-7.8.0.684-universal.zip",
+                    "ipfs": "QmaieKe1SkNitVnPzTCmmUGLNQpsiYNxSKQ8ufmGTfAs8u",
+                    "hash": { "type": "sha256", "digest": "3383e9062ad778d867405eb04eaf7a3ac9b0bcccd3b7b47ce96cdc535725f415" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.5.2-7.8.0.684-installer.jar",
+                    "ipfs": "Qmf6vxNp13ghPe96n1e9hLk43z2Dkv3MS1mJ4rusegDG5M",
+                    "hash": { "type": "sha256", "digest": "b6cd21dfb138515a9e6a88d62b38fed7374217e35332e219677cf79f70cfd9fd" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.5.2-7.8.0.684-src.zip",
+                    "ipfs": "QmUGx2NPV7uHvHagufbzdkceYMUorNhecJ8XfwhSFqUTcc",
+                    "hash": { "type": "sha256", "digest": "2c95a886a15bd90d423ac3183cfe0fc4aa8d829b4f8698e8a132edb09436945d" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.5.2-7.8.0.684-javadoc.zip",
+                    "ipfs": "QmS48Ewzk48Nfh4VPXQgbBsvcyw1m6hJ8Db7M7CvNCgK7i",
+                    "hash": { "type": "sha256", "digest": "ab0c9082210d95505ac92546f509896c5a3e57f1258827fb70cd33e1015cb0dd" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs152.zip",
+                    "ipfs": "Qmb7dQrfuxLmWXSjiozvNYHcGovMQcaPDdSMUY5eFztKAK",
+                    "hash": { "type": "sha256", "digest": "1bced41d9dcdac2bbc9a077910f7652c2f433323f46d16a6c129f96377520185" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "7.7.2.678",
+			"desc" : "Recommended build for 1.5.1. Library files included in fmllibs151.zip.",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-1.5.1-7.7.2.678.zip",
+                    "ipfs": "QmNji6cECVaN8sSsPW6fmn19peP2guYUnUKrkzT852TDVK",
+                    "hash": { "type": "sha256", "digest": "df6647bd1e408ebc55a9779c1d5b660a24855c2189ca0d04bc0bf4cbd62b37b7" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.5.1-7.7.2.678.zip",
+                    "ipfs": "QmcHNAXS17PTWeto79WzFSZMsgo7YqqFTwaaiHo9Kct5PM",
+                    "hash": { "type": "sha256", "digest": "3cf0be323ff50c44fa3af7a6e233340a1a4ee5946db8faeb37694a377060cee1" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-1.5.1-7.7.2.678.zip",
+                    "ipfs": "QmRipN9Tc3ea6kaoFVN4iyeCa4XC32GaxhecWtF9dWEggG",
+                    "hash": { "type": "sha256", "digest": "3bd5a5ea152d585f33602d8f24fb4e752bf22d3e01a945f51b611a2336546ebc" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs151.zip",
+                    "ipfs": "QmfTjGmQkPDYdCEh2CNGxQ8obayn1eVQsYWFoUZ6Q5XHJj",
+                    "hash": { "type": "sha256", "digest": "33227b92d2c4dca78c3503b38680b099b73c46231e9f98af92ab4743d58e139f" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "7.7.1.611",
+			"desc" : "Recommended build for 1.5.1. Library files included in fmllibs151.zip.",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-1.5.1-7.7.1.611.zip",
+                    "ipfs": "QmNtvs8CGnjmedJt3D6VKVbPtfV5SLavuxg4wnYjsYbmXC",
+                    "hash": { "type": "sha256", "digest": "a10a3303eb45fb206fc86dca357cc6414b5de313882f34f5a9d7446e85b5bcd4" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.5.1-7.7.1.611.zip",
+                    "ipfs": "QmPNFTVTgSC4K8QeqbMjnpfAJ1aQ3XMZqksPrLt8pQZmL7",
+                    "hash": { "type": "sha256", "digest": "14a5a45b9c3d6429201bc287914d4049454439f95364da4eccccccbb2d30b593" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-1.5.1-7.7.1.611.zip",
+                    "ipfs": "Qmdq7nwFfbUEaJSZwp4LWD5Zy2gM1cMVhkZMzMSisVL3iL",
+                    "hash": { "type": "sha256", "digest": "3aed73df4c2692526cea68e9abfcc85e1b37f021c43eb4b5db6200e31bb5ecb5" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs151.zip",
+                    "ipfs": "QmfTjGmQkPDYdCEh2CNGxQ8obayn1eVQsYWFoUZ6Q5XHJj",
+                    "hash": { "type": "sha256", "digest": "33227b92d2c4dca78c3503b38680b099b73c46231e9f98af92ab4743d58e139f" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "7.7.0.582",
+			"desc" : "Recommended build for 1.5. Library files included in fmllibs15.zip.",
+            "mcvsn": ["1.5"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-1.5-7.7.0.582.zip",
+                    "ipfs": "QmQ4wQLKdDqhrcSoMWcoSNoUiY8AmfVWnzyhAregrwBcac",
+                    "hash": { "type": "sha256", "digest": "bcad9e4bb77021662a9934d03055a90d373c48e995f6a37ef09f74c984553015" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.5-7.7.0.582.zip",
+                    "ipfs": "QmQnSSnEq3RqhfuLHyoN4AAffhgodKD7ZZVxxThf9hL2fA",
+                    "hash": { "type": "sha256", "digest": "7c63c6265f808186d6e6f33d1315b68481950c3b2aa466ad4c797bbe9edf7252" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-1.5-7.7.0.582.zip",
+                    "ipfs": "QmNai1H1HcGoTYxvM7zQLRintukUnU3Bo8bP5Q6C6oV5xs",
+                    "hash": { "type": "sha256", "digest": "84ed8265330de27886ae5362c79928f9566fe677b5f6fcb548875a3f3adca21c" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs15.zip",
+                    "ipfs": "QmRe3VsfoXnYXa3Rik6wkw3mEKku1hcvNbJpBXPc5nm8QD",
+                    "hash": { "type": "sha256", "digest": "09b02cd07bf148af639febfbdc496d5981c541ad5122bdc7a3af9aa472f4efba" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "6.6.0.497",
+			"desc" : "Recommended build for 1.4.7. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.4.7"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-1.4.7-6.6.0.497.zip",
+                    "ipfs": "QmZwNAD61s4RRvUeAoTpyMGB2z49ACfTWM6SHH4bPnYLfq",
+                    "hash": { "type": "sha256", "digest": "b46dee407c06cf73bacd12a7d2ae3be48b6745f2b160c5d3853fe0c9d94914cb" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.4.7-6.6.0.497.zip",
+                    "ipfs": "QmWz76oHT3Fn3wANUyeqadvKWEsRZvDYRmJ5t15cPY1e3C",
+                    "hash": { "type": "sha256", "digest": "46cbbb268accf3571427aa80ea3f1147acb2393f9dae60828a3ed0e59efdef38" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-1.4.7-6.6.0.497.zip",
+                    "ipfs": "QmPaBY9LS3kdbZf3jTBJxD7vG6qtAyb67vPF9eQqi1w2ZE",
+                    "hash": { "type": "sha256", "digest": "a32dd67c0a80c213d9b21c337b42f5a8ded3a5451d74a5528fd3eea199258727" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "6.5.0.467",
+			"desc" : "Recommended build for 1.4.6. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.4.6"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-1.4.6-6.5.0.467.zip",
+                    "ipfs": "QmUU9N2QRDMRUNjTpxW3Tn9WeZtMD5nvHYu83BzYE9sn4J",
+                    "hash": { "type": "sha256", "digest": "a8a1ea57487d9074247eacf61cf12ea62ff1de07e6bbe10a87492a54da4495a5" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.4.6-6.5.0.467.zip",
+                    "ipfs": "QmPwk6ednUfznTZ4aQ7DdQ9ngY5XchtZMM7LZBSSuK27Ry",
+                    "hash": { "type": "sha256", "digest": "f80b9984603bfe2833709e893f84e0e35c4939c1fe7630830d6af22a9554e9c0" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-1.4.6-6.5.0.467.zip",
+                    "ipfs": "QmWhVjuz3GHx1AbsadHATRKZb5cZwSmuPugeWzxSqU5jSB",
+                    "hash": { "type": "sha256", "digest": "ca87a78530da79d9d075a0cdb55c3eaf7515564b77221e40249f5eeb55d4aa97" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "6.4.1.436",
+			"desc" : "Recommended build for 1.4.5. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.4.5"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-1.4.5-6.4.1.436.zip",
+                    "ipfs": "QmUXuY7THE2MYi2U9GvJtQhAogwKptdeJ5Y3UJHgdtJ1fA",
+                    "hash": { "type": "sha256", "digest": "2073d3ab32a6aaa868b96d3980157c23952f78c8b6ec593e44dc57cf34660a8d" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.4.5-6.4.1.436.zip",
+                    "ipfs": "QmdNu8ifvsV8k3xrK3TRbpbHMR4oUweampWxKW1pLWmjmb",
+                    "hash": { "type": "sha256", "digest": "ff41b2690783c6a0effe936a4b30f2ca8a1771fd0faaab2a330dcf0395025307" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.4.5-6.4.1.436-javadoc.zip",
+                    "ipfs": "QmYVrTJQRkXi51VugnmWWfa9RdQzQkF2e6BWuagxVuFkj4",
+                    "hash": { "type": "sha256", "digest": "54931886d445c545639d114ac60e24955ddc7d7e54f254c630da82d50f821c7c" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "6.3.0.372",
+			"desc" : "Recommended build for 1.4.4. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.4.4"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-6.3.0.372.zip",
+                    "ipfs": "QmcrbikRGzjaCTHQH3aLtvA71ELNp573TDTGWyJjwGdHde",
+                    "hash": { "type": "sha256", "digest": "1b844c29cec43e00e82b65e258f71f61c1cce5ca0d2b8356f50b47d9d6ef7932" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-6.3.0.372.zip",
+                    "ipfs": "QmasWfg7q9NG2Wx7pJwN16cPBZcKj4rMqY7WX29Q7UjdfL",
+                    "hash": { "type": "sha256", "digest": "264969ca5bc83954b320546aea08a007ab6fd7eb221ae28e0d68a43c61862607" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-6.3.0.372.zip",
+                    "ipfs": "QmYWn4ksQY5TbQj3GUh2f1UTYYs72Lps7N34Q6K3Z5uTet",
+                    "hash": { "type": "sha256", "digest": "5efdeb57c73efb7ca900b7467b361df38f09a98ee8ba096f812350ce07bdc934" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "6.0.1.341",
+			"desc" : "Recommended build for 1.4.2. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.4.2"],
+            "files": [
+                {
+                    "filename": "minecraftforge-universal-6.0.1.341.zip",
+                    "ipfs": "QmauVEJi7aBi4vWPFT4JKtMPSQg1GUNMh6zqdGG2wh7tTF",
+                    "hash": { "type": "sha256", "digest": "1ec9689844eb2f0622b4b2202eda95be209d46e52b2974c0d209710a3d123fa6" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-6.0.1.341.zip",
+                    "ipfs": "QmPEb3jke3BwvWG19wRXKbw2YEKmdcPuqWrCw9PD39JJSZ",
+                    "hash": { "type": "sha256", "digest": "8c1e022b72b1bf278948794f5630a9b97f9fea5ee85278f4d0c09a2d5628409e" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-6.0.1.341.zip",
+                    "ipfs": "QmbQKmuuXwgXCbTvTYA2ojcgJyavijVZaQM5zzTqjy3TZp",
+                    "hash": { "type": "sha256", "digest": "e9017e348c027d103f15c14467b8b93db57bc81b3706e0eafc22bc09611fccec" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.2.5.303",
+			"desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "forge-1.3.2-4.2.5.303-universal.zip",
+                    "ipfs": "QmVYmrcXBMe9rotavxA8pgFnfR46fjMipVZy547KfQmFai",
+                    "hash": { "type": "sha256", "digest": "e4a2b58ed312225e2695454736891bb41827ca554c84827023d33485656f0521" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.3.2-4.2.5.303-src.zip",
+                    "ipfs": "QmSa2Erp6e6FHet4uoRjzYALMAaZPbirb3jniaBhAuZxd2",
+                    "hash": { "type": "sha256", "digest": "a26fac168e78b6c1fd9668ec4ed7187ec108cf7db2faec9d4ee470be7d635bdc" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-javadoc-4.2.5.303.zip",
+                    "ipfs": "QmRoY1KAUJFBfN6T3QhACW9o4VNChDpCs6fF8G2RhkXTew",
+                    "hash": { "type": "sha256", "digest": "11172752bec089d6fa88afd66cd903044f9320e863c4a8583443cca8abb39735" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.1.1.251",
+			"desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "forge-1.3.2-4.1.1.251-universal.zip",
+                    "ipfs": "QmWmjjhemJ2YjE3pfYvD2YApF1Dw58bbBBGYgEriipdYy2",
+                    "hash": { "type": "sha256", "digest": "d50d6b69d6124fa9fa75204a8dedcc761bc5331ffa721b59b24e0229974d0ac5" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.3.2-4.1.1.251-src.zip",
+                    "ipfs": "QmQ8F7kMF3E9kE979gR5JNP2t5NH7csJFNkC5foHxnfyTd",
+                    "hash": { "type": "sha256", "digest": "d39169b81cf36766c043deb642570bef785f74fefb2fffc853e0723820b7be3d" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.0.0.200",
+			"desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.3.2"],
+            "files": [
+                {
+                    "filename": "forge-1.3.2-4.0.0.200-universal.zip",
+                    "ipfs": "QmbQGrNmyS81kDHYwYP9yRDfRfpxyKfSU44oRXSfUbryzG",
+                    "hash": { "type": "sha256", "digest": "7623739f26a54d6921459194e09019e5f0a1697aa84f6a73360dfd81f89aa179" },
+                    "urls": []
+                },
+                {
+                    "filename": "forge-1.3.2-4.0.0.200-src.zip",
+                    "ipfs": "QmTCUj22VEyMn2MirZftXG9WTJQJr91KsV8Bm7udMfZqLc",
+                    "hash": { "type": "sha256", "digest": "35928f11c2fbf6819e2b3149b302a1ec8947e63754a728080b486e964bea092a" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "4.0.0.182",
+			"desc" : "Development build for 1.3.1. Library files included in fmllibs13x_14x.zip",
+            "mcvsn": ["1.3.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-4.0.0.182.zip",
+                    "ipfs": "QmaA6zzjL9LsWdo9UCUe3izna2rY1W3hgdUv2Q9cHN3j6i",
+                    "hash": { "type": "sha256", "digest": "f488e3d262d9445b853c8560035d303b03099fe562c0401313e403a913eb628a" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-4.0.0.182.zip",
+                    "ipfs": "Qmc1LK2Nec9fxaPVSReZWheNKwo8wSVyVfS67hWZxhX2bQ",
+                    "hash": { "type": "sha256", "digest": "d666688b979ce8faa8637bcc9cc9a99d9b855950c3448a23c32018032a3dba9c" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-4.0.0.182.zip",
+                    "ipfs": "QmTzokBthTupKBzFMxSgYoz3t9mGDDb49H2oHg3c6M9UAU",
+                    "hash": { "type": "sha256", "digest": "ec3eb24f77db0620038167790f43f78ebab35eefe13c0026910542f7201e3456" },
+                    "urls": []
+                },
+                {
+                    "filename": "fmllibs13x_14x.zip",
+                    "ipfs": "QmUQ4PhBVd6vBeQBCLcNGgj7sXewCV7xsNVZMLbNDwQUop",
+                    "hash": { "type": "sha256", "digest": "810dd341f584a255dbfc110410720945a88ca3f2f0bb77fe76e5abe6c6d738b9" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.4.9.171",
+			"desc" : "Final development build for 1.2.5.",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-3.4.9.171.zip",
+                    "ipfs": "QmTaJm96zkznfHn9HfWJsbCimw7jQLeNUkuRksfSuKD1tM",
+                    "hash": { "type": "sha256", "digest": "dd6f66865bf04b89fd80a5041c6f9e81e0caefd266097447c73d7e924f67875a" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-3.4.9.171.zip",
+                    "ipfs": "QmbHAzHyVAQP93si2NpiZ16XHTr9cmC7f6Th9pByRbjLiM",
+                    "hash": { "type": "sha256", "digest": "e5401154a95f75ac0ecdc4458a694e1c3c4e1967a6deab436e180150431bada8" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-3.4.9.171.zip",
+                    "ipfs": "QmZoz1Xc9qUnpXDXZ8FbuMHYCD1wKpr32FfyDzF5eja7YM",
+                    "hash": { "type": "sha256", "digest": "399e15513821a86b79e18cf863fad67f72f94afd92da5f8e7a6e146d793b4965" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.3.7.135",
+			"desc" : "Recommended build for 1.2.5.",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-3.3.7.135.zip",
+                    "ipfs": "QmQC94DCJh5g8VGCxpXkuf5ojgYY6Nu17f6c31vGJLTWV2",
+                    "hash": { "type": "sha256", "digest": "ca358444aca70dd229688f4f9aa5c69f6f54362f232f1ff745a15055137e6a72" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-3.3.7.135.zip",
+                    "ipfs": "QmZ5KnrawmKbPYu2mRKYKTAqoouvz1L5e1AhocoX8JxJvU",
+                    "hash": { "type": "sha256", "digest": "fe748d0ac2593f9286dd57f30c4ba24df36fed00ec4cd784bc33ae2cdde7c5f8" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-3.3.7.135.zip",
+                    "ipfs": "QmRFnMrseynBYdVAUDAWbQwXHy597UmrjTcvzGMTwauvrL",
+                    "hash": { "type": "sha256", "digest": "daa2fa5ab02cfcc56eda277c44919314715a2fc86c8860c352404344e3713074" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.2.3.108",
+			"desc" : "Recommended build for 1.2.5. Requires ModLoader.",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-3.2.3.108.zip",
+                    "ipfs": "QmeFRK4VTPPgPfcjoqCCfLFA4YpfgX9duUq4CfvcP5g5Aq",
+                    "hash": { "type": "sha256", "digest": "88b9d9050a889839ff260accfc1f2cb70320891b88f74f23ef7630000755e59c" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-3.2.3.108.zip",
+                    "ipfs": "QmcUEewZmsA8Zn6A9GQLjsXLiaE1vosfVhcifGtDkMPpdX",
+                    "hash": { "type": "sha256", "digest": "462baa5cf6100c1fa9f601c851cdc77452dd29ea888311d8a903d6294fc61239" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-3.2.3.108.zip",
+                    "ipfs": "QmYzpUUTrbn89X27SSoTg852ViApViFwN6MbwPwtCvMxd1",
+                    "hash": { "type": "sha256", "digest": "dfc68b7ac92c21b33d3a27eda1382b660bef81acc0b524314271dfd791885c77" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.1.2.90",
+			"desc" : "Recommended build for 1.2.5. Requires ModLoader.",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-3.1.2.90.zip",
+                    "ipfs": "QmdTstPHQMHwkrDTs7YHEaV3KsH9WVSu9csGt7qX4LMC2s",
+                    "hash": { "type": "sha256", "digest": "1ce05a2727edca09e7abca9ffe067feba6ece29de1bdd8473f7a5de4ecb4f9be" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-3.1.2.90.zip",
+                    "ipfs": "QmZJFdfCCbCpmWwr9kqzPm2R9hsP651pPxY9yoD1ikrBjM",
+                    "hash": { "type": "sha256", "digest": "e8ed317710853f476f4e33b7e551f1bb1bbe5402712809806bbd741d8584dc2d" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-3.1.2.90.zip",
+                    "ipfs": "QmYAqorqwng6xtuGnUEiRv9FpP9jeDyM6axoEWhCGnWpmC",
+                    "hash": { "type": "sha256", "digest": "878f47c09aaf313e6c75ba6600c5f195ba95a6791d97ba6de3bdb44b8dccf28f" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "3.0.1.75",
+			"desc" : "Recommended build for 1.2.5. Requires ModLoader.",
+            "mcvsn": ["1.2.5"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-3.0.1.75.zip",
+                    "ipfs": "QmeY8YDwTPXZhkrS5PooyLoGCftpSV1mp8zJben3ofE85b",
+                    "hash": { "type": "sha256", "digest": "c3de9491468598a5e69ace5eec1dd99489a88ee188f7cefcd0fa5f053665f466" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-3.0.1.75.zip",
+                    "ipfs": "QmcRBUb89WdALEirQeJsUMqQHhwtbU3PbV1P9o7Vuq5Xn4",
+                    "hash": { "type": "sha256", "digest": "5bf584cc3d9841180d51151352e95efa9fb8d139d7060f787452f0677e2a86c0" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-3.0.1.75.zip",
+                    "ipfs": "QmQc2HPoweckLfSbWXoM1cg3Pk52AuJFsR9LP4ag1oqG7x",
+                    "hash": { "type": "sha256", "digest": "494ef9691da2054e585d03a2d46e319cce843b4fa0562502e8d90564aefc3e78" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.0.0.68",
+            "desc" : "Development build for 1.2.4. Requires ModLoader and ModLoaderMP 1.2.4v1.",
+            "mcvsn": ["1.2.4"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-2.0.0.68.zip",
+                    "ipfs": "Qmc1vF7VmReyVrBVMfj2XpeLhNfV5UeprWWbFq8VPBWJAK",
+                    "hash": { "type": "sha256", "digest": "9c9c26dabe099bca7ec29eed9ce8b90f4d55b91b39693170b171084a7b53ed8d" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-2.0.0.68.zip",
+                    "ipfs": "QmRa4PNYDgRJepRwWDbWaP4uEV1NCAuiJkXEecUANoByk8",
+                    "hash": { "type": "sha256", "digest": "d705f9bae70db79a578269327f46f11a117d8a00c006f9ee403dde3feaeeaaff" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-2.0.0.68.zip",
+                    "ipfs": "QmXusUob9A6iQC9DVJe4CcbxLmnqnHDKBPv2xRtgxgkqaz",
+                    "hash": { "type": "sha256", "digest": "03c05cdc8d8f1ae8b9feaa7dd07a8c79863e33fe9516dff452be3dff04adcb89" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "2.0.0.65",
+			"desc" : "Development build for 1.2.4. Requires ModLoader and ModLoaderMP 1.2.4v1.",
+            "mcvsn": ["1.2.4"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-2.0.0.65.zip",
+                    "ipfs": "QmaWY1RtAYFDFFG68z5CgmEddHUABAhR1k4uwsfMDou1X8",
+                    "hash": { "type": "sha256", "digest": "d70dabe8ee2f6440b0f612fe61be8e6e990dd97eed60c7dbb98b7820eab16a7a" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-2.0.0.65.zip",
+                    "ipfs": "QmbGL8rSQABDu2NteXCrvjRURowPtqbTuhvq5KjLp1owNv",
+                    "hash": { "type": "sha256", "digest": "f802dc3edd9bc5994432f332e154c5c9746fb3d456a35dde163a0f23f293b7ca" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-2.0.0.65.zip",
+                    "ipfs": "QmP3qXxpXtgWXp5yMEfwVpHrEzHHoc8WspeusszeQEjUZW",
+                    "hash": { "type": "sha256", "digest": "03e9a3276a22614ce94bc1942b7a1c917df7d084360d13054fa9dc215776f0df" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.1.64",
+			"desc" : "Development build for 1.2.3. Requires ModLoader and ModLoaderMP 1.2.3v3.",
+            "mcvsn": ["1.2.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.4.1.64.zip",
+                    "ipfs": "QmdiiBUJQHGpx62HjPEY1GJefk2TmDGNoBQAYgsAweTN8b",
+                    "hash": { "type": "sha256", "digest": "fff2343e68c5815b9aa664770d493543a4f016af5a0160556c9fb5a6b098e429" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.4.1.64.zip",
+                    "ipfs": "Qmaf8THBtDvJkw1TCw9pHsiQCrdA2HRw8QBd1REmUkJAyU",
+                    "hash": { "type": "sha256", "digest": "381e2781da9cdb563581d8ec609e522b4dc214ab1b5d4f7f9a8ffb3ab28de24b" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.4.1.64.zip",
+                    "ipfs": "QmeU1656A3B6jiN2Eg21vyxWPnxHS8uWjxpGjhTyXfQVni",
+                    "hash": { "type": "sha256", "digest": "59e53527ad9c0b3033f5f96c3176cb33d81352463b97698612278991c4b4c1b3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.4.0.44",
+			"desc" : "Development build for 1.2.3. Requires ModLoader and ModLoaderMP 1.2.3v3.",
+            "mcvsn": ["1.2.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.4.0.44.zip",
+                    "ipfs": "QmSHYEnUz2HhyGkd8APgDBpGNBMYYVEM7o7o5gjXgxQ8tX",
+                    "hash": { "type": "sha256", "digest": "4d87f84695eec54608719f0eaaadb9cab0d552d73df6d3feab69a7ef3bfa512e" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.4.0.44.zip",
+                    "ipfs": "QmcrkTXZFWQK15gQt1v11RThHAoLUFkMFthrZ4U5Q8Uitk",
+                    "hash": { "type": "sha256", "digest": "276950f1a1a70cdef6ee117430de2995b64ae12438ad569b0c63229f8be3f5d3" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.4.0.44.zip",
+                    "ipfs": "QmZ3hvpFcmfFGHFvrpZqMTsftLqXgj2o9piBhWW3mbXdf9",
+                    "hash": { "type": "sha256", "digest": "e283477ae01ef3e94b21fda3cf7a88c5411b2b6b962b2a37a1affbeded9696bb" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.4.29",
+			"desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.3.4.29.zip",
+                    "ipfs": "QmSwLEQvZtyvGCxeMZeY8tm2B1B9im3ks1bPuR6oK3udZD",
+                    "hash": { "type": "sha256", "digest": "deff2dee5718547a537148eb24f6130e6b145a360d3fbe82ab4c52d59d72ad6f" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.3.4.29.zip",
+                    "ipfs": "QmavVc1bXDFFCPj8qS5jQo2AwdEVRK2bXU1cJQ2bbGjmZY",
+                    "hash": { "type": "sha256", "digest": "bb47e3b4eb47047367ac7693551d6e93dbd7440f7371364716e9f3842aa35ddc" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.3.4.29.zip",
+                    "ipfs": "QmVsXoubqXY7F1YyvBj9EPrCXhfsHyeqHhEnYPjLXcFY5f",
+                    "hash": { "type": "sha256", "digest": "a252926ff5ba3992765ec0913c41461250813f039995efad16acf903775f8509" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.3.12",
+			"desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.3.3.12.zip",
+                    "ipfs": "QmX3WqdGoRL4ByoWrCWmsAvkmTVgySSPdUWYcUzE3w3FSL",
+                    "hash": { "type": "sha256", "digest": "bff27ad5c4370e4f1b83766f57f193cd69e9ee4918fec123230144f36fd0779d" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.3.3.12.zip",
+                    "ipfs": "QmfFaJA5FKJEBXAC4d7e5GNPnZ5YhFh4nsf5B5zTsPxbEN",
+                    "hash": { "type": "sha256", "digest": "54415c97e818d202ecb3f3e93a1c02a3b06905787d37491f1363cd0494dbc828" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.3.3.12.zip",
+                    "ipfs": "QmdagVs8bQjMKbNNUnUVEN9fG674ezbV3CyBPQr1M8w2Ws",
+                    "hash": { "type": "sha256", "digest": "bba4148b69e3ea4b66666ffa7475a8ed3816d225dfc149f30dc38387575d8f25" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.2.1",
+			"desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.3.2.1.zip",
+                    "ipfs": "QmRFQgfCVDT1caHJMwojkNN1oHBqhaZaNgSVVWZEzLzqnw",
+                    "hash": { "type": "sha256", "digest": "090bc30701b942efcfcbca6ccc22cb16aca74e12f16d47e0c026508d1e115cb3" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.3.2.1.zip",
+                    "ipfs": "QmTE3DcesXt5GaseZwmNyiY1s9Yh1cwDdjUjvcZB5aVdmT",
+                    "hash": { "type": "sha256", "digest": "881c0e01df883f322135ff003efd5d0fb186cbe3dd57ee5104783bc0dbb1c959" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.3.2.1.zip",
+                    "ipfs": "Qmf2p2ACwNkNbfAfz7sZiG1Cg9WTKprDZcubVahmWfzvDG",
+                    "hash": { "type": "sha256", "digest": "7c26432a60cad93bdb6e220bc382cb0638eee4c6d22cbf2ae289b4868fc73c34" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.1",
+			"desc" : "Build for 1.1. Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.3.1.zip",
+                    "ipfs": "QmZqUKQG2j7JWqL9rnNxCbkQNWcLhqSodhfEgivNSKJW8F",
+                    "hash": { "type": "sha256", "digest": "59b36b96e4ae4cfc01e43053e09dda970a2a1fcc44ca7c8a160d6ff95a25cff6" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.3.1.zip",
+                    "ipfs": "QmZXvwXhqJWiteYF4hXV3RV9yGDCF89JRD6H6g7Dwtmfpu",
+                    "hash": { "type": "sha256", "digest": "af7fa5f74889f49ec6941703173b220961b32a5ba35d15344202390e2477485e" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.3.1.zip",
+                    "ipfs": "QmPLw9TV89mhj66o8qfkSSptmms2StaqJfNeCZU86rz4Dz",
+                    "hash": { "type": "sha256", "digest": "69943bb6f984a08b2fa8f8277cc1f462af1d8b00bc6510bedcd8b3208f6d338d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.3.0",
+			"desc" : "Build for 1.1. Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.3.0.zip",
+                    "ipfs": "Qmdk38FtH8yYUdthn9AKYefYmKonJyQB3LfCA6ho3eYLjd",
+                    "hash": { "type": "sha256", "digest": "53d07e50d87f55a2fa3ba8a4118a39fdb5cd9069b0ecb96704adeb595fcf4d17" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.3.0.zip",
+                    "ipfs": "QmQgsmFzUeiKNSvzwjm6Juce3Q7KgBieCMSGWmpvPyc1Pp",
+                    "hash": { "type": "sha256", "digest": "6196d07b1ae1c2c8f3883f24a26ea55cb6108cc9b8ae6ee3b5e353cecb359433" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.3.0.zip",
+                    "ipfs": "QmTJ4ci3F3zRQmFDcYkQqZwouZrhHf856bFxqkvk4k6VA6",
+                    "hash": { "type": "sha256", "digest": "8cbc8a7b68b6fc5b5f977aec8a56bc34a9993002d459a5ca7cc0d4a65cea5136" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.5",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.2.5.zip",
+                    "ipfs": "QmejVhJKV66hoskYD4CAQsbBBo41vzVzWhFSY4WKYWfhQx",
+                    "hash": { "type": "sha256", "digest": "a4483b0121eb5ed7a4079774a33b4d8dd165472780f840539f7c6830a4cb7e38" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.2.5.zip",
+                    "ipfs": "Qmcag6FH7k2c73zmu2YdUvkQrnggazs6RV3GbHC2VJJcpT",
+                    "hash": { "type": "sha256", "digest": "078967399055024fd4c51122dd67a6bac0a6784f84a3e4b0b84d4c710436401b" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.2.5.zip",
+                    "ipfs": "QmWdu4QQWbxeNAS6qHSBHexryEEXQ859jaMiT4DX44U815",
+                    "hash": { "type": "sha256", "digest": "c79cc6574632c9ef85ea1c38fd67688b3e5e2fa9caef82594c1f2a57b7c3230a" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.4",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.2.4.zip",
+                    "ipfs": "QmPj1Zwau1x374Ujui25G1ozPFM7Kg5DL7MoVEdaHNoeNy",
+                    "hash": { "type": "sha256", "digest": "10bfe159e180a3f85c254aec76fa4ff82cb1a938cc92c3d7829889d648ab2902" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.2.4.zip",
+                    "ipfs": "QmRz3nm8PeUpiurQkYecLvwhQetc5LZSpNFLwvVbg7bDbo",
+                    "hash": { "type": "sha256", "digest": "c1857a61d3c448a50d236c49214cf2151f781e0795c3667784e534fa9589dd02" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.2.4.zip",
+                    "ipfs": "Qmb45TtDFU9UWfrziH9Sd1YLeiW9c9ttRCB2tfajfMedDX",
+                    "hash": { "type": "sha256", "digest": "7b193d9f8d51e01d5d3a69a30af42307e69a423b72952747ba108f57facbded2" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.3",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.2.3.zip",
+                    "ipfs": "QmcF8zfyqiNkeNK5SLLq1qhrJBJjHnrRfS57gRWkYegUzV",
+                    "hash": { "type": "sha256", "digest": "002f1a3ac276046e5c4f70c6268f4c391b38616d948909baaf8d95a79885ce01" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.2.3.zip",
+                    "ipfs": "QmVkRpEXr6FdyJSb7h21jRM132EksMM5hbsLWwwGASEWnB",
+                    "hash": { "type": "sha256", "digest": "bebc2cf820bd82138d095f4ac2dbc0cc5373915187398c78e41c920e28cc94c0" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.2.3.zip",
+                    "ipfs": "QmVsTV9cmvzsRefarjWFzhx2HFiaKYFCmdmU9r7etHTVcS",
+                    "hash": { "type": "sha256", "digest": "915449515c1828bb61cb8fd20622b090a868466b1418053bf4cd5054cb4b13fe" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.2",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.2.2.zip",
+                    "ipfs": "QmXJmaZEzgHG1cdtnPSWKqkuNfWq8W8GcrDa7FzkFa263Q",
+                    "hash": { "type": "sha256", "digest": "7aeea080469f287be57c9ebe80f2ae06bcd1bae0f1c6ac3b25e9da2ac4ff0dbf" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.2.2.zip",
+                    "ipfs": "QmUtEkhpRjgnNdK4fhkqKLu264DwytVgwyqAmzSFUzBa9X",
+                    "hash": { "type": "sha256", "digest": "91e21c6ae9a489a2f01bf84f25ab61d39f269d8ce042152408a86a6c2881e68a" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.2.2.zip",
+                    "ipfs": "QmbSQiq1H3DXCUpBDmcJ9TvFoqF5VaVBNmkcuAM8A7CWkh",
+                    "hash": { "type": "sha256", "digest": "628c911584f0647ce2c78cccca82f4d2582a9954afc4dfdf084ad101de7d9851" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.1",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.2.1.zip",
+                    "ipfs": "QmbPJKLKX9ma1ekgqpwsCPDmCABzydbZYzUcBBU6TzU5sF",
+                    "hash": { "type": "sha256", "digest": "bdc93cd3cc3683d7147ffc63a3600680a3b541a8ec19db3fd58e91190822d1c0" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.2.1.zip",
+                    "ipfs": "QmfQEt6EtFs2uU3nSG2nemK9dCyJ1nBWvMUCZ5qn7cPSo7",
+                    "hash": { "type": "sha256", "digest": "109dabf878c40143f55919a293b53773ae6c73bc46e80bde32167e5c71bd64dd" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.2.1.zip",
+                    "ipfs": "QmPkKJTFuDeqszPKpkefcyj1FAPGxztieKDNHWnkV6mwqd",
+                    "hash": { "type": "sha256", "digest": "37c1606ea7de36676b4637fe6cd0d21ef82806e76a179199f00f30fa182e1c1a" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.2.0",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["1.0.0"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.2.0.zip",
+                    "ipfs": "Qmbpfvc5MdKWp9XGZW7onG9LQwf83L4Vm4F1MK7QBJAMiM",
+                    "hash": { "type": "sha256", "digest": "66c5a55e49b53e98f63c6e8f0499b5cf551d335660c88a2659a32ab07640d172" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.2.0.zip",
+                    "ipfs": "QmQD4mSzQLaby58Vo8wstBVSAR3qYxp4QoDpWoF59fw1mg",
+                    "hash": { "type": "sha256", "digest": "f016ddb248ef650184090c0c6da6b0259a72a95ceac55dc45c2c1e372aff4fd7" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.2.0.zip",
+                    "ipfs": "QmSQx1yvaYAKKRBc8gczY5fkuwMnXMM2kDxqm6Q1nYvkNp",
+                    "hash": { "type": "sha256", "digest": "1525578386bcc39593d168cd890838f0d68eb41a566090065bc0b71f84fe711d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.1.2",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.1.2.zip",
+                    "ipfs": "QmdG3vKuzqa8zYZRaATdpxQip777WSxr5tcmfSQ1NgGPzN",
+                    "hash": { "type": "sha256", "digest": "58348a41b62143e531677e3afc099e1cba0e4b06a76a10cc3c0c3a1c821e4b65" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.1.2.zip",
+                    "ipfs": "QmX7x52MF6VzJpoLSNowJScb8NGpssNU2nkNfMVfyN15dL",
+                    "hash": { "type": "sha256", "digest": "9e32ef2e68b8e2636c6aa88a71e948e86bd6ae98f4d58535df3c3a0855f4ad8f" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.1.2.zip",
+                    "ipfs": "QmbhseRFWtuSpcuv61gmmojomCix3vSYkXqkhfPWUL4DSL",
+                    "hash": { "type": "sha256", "digest": "669675df701cde6a40ecd2f575568398141c167304b90bcacc394f43d95a5b4b" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.1.1",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.1.1.zip",
+                    "ipfs": "QmNyJ2enNyvA6Spr1Luapmx8NdmdQ8GvtmF8fk9FehwdQc",
+                    "hash": { "type": "sha256", "digest": "4c9141d714098fcf6da2275f57ad4dd7eb083874cf0d725067290aa21a1cefa5" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.1.1.zip",
+                    "ipfs": "QmQYP9UnphRHRVwSUz7VHP2LFg7iVWNNU1gXYANADbjATM",
+                    "hash": { "type": "sha256", "digest": "9e645d89283cef685e48c91f97ac1c22d3def39d274ac4b03458611fa3d09e85" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.1.1.zip",
+                    "ipfs": "QmakB2sdPx5ur61tAy9GDHgEQVFB29eon1a3DZAWd4nBUu",
+                    "hash": { "type": "sha256", "digest": "35433e1a5e9358a0c3bdafcd6d76522c016f7d2cf35ec58eeeeb16573d271f25" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.1.0",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.8.1"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.1.0.zip",
+                    "ipfs": "QmTF8sqt9cghY76rf8wZkkGBGKQMnwh96H3Z6geYjXtCuH",
+                    "hash": { "type": "sha256", "digest": "5af0e6a029cf7ced3007f3a8318c8dab2f7f99c13f06fd231f731ce70ff279c4" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.1.0.zip",
+                    "ipfs": "QmPwMwzXgsikvdS1xEVdX1pnqzKY73DwTtCxwtP32eHLAQ",
+                    "hash": { "type": "sha256", "digest": "f52b83eabfd1605d501c65e52d939974e1163e410f3f49731ec183bc40c6f594" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.1.0.zip",
+                    "ipfs": "Qmc6bfJTYwTjcEG8Z27qKwqGGP9m2TXDaBiRVgvvqpMZaX",
+                    "hash": { "type": "sha256", "digest": "4727c69c6a1da5f949a3abb4af1699e75e26c11951dd4e4f2c0acc2a42320179" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0.6",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.0.6.zip",
+                    "ipfs": "QmSRKkwzhSszo8BGVg3wbFaTh2zAPwkxEfmsMFk2yz36jW",
+                    "hash": { "type": "sha256", "digest": "6f69697a72ccc25ba0ac1dae34c391be67ba60395cdf32dca1170b5bb583e482" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.0.6.zip",
+                    "ipfs": "QmdzddCuS7RK59Nvws522wXiUxeCLHNFoyJAqmQRnaJS2r",
+                    "hash": { "type": "sha256", "digest": "1a7676f4d9181fb9cb37df03d32324608d83403dbe028196863c3ddcabbbfd3b" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.0.6.zip",
+                    "ipfs": "QmTcHFVdQZzExsbPccnKC9BQbz3uZMGM4k7aZRET1v4yRP",
+                    "hash": { "type": "sha256", "digest": "3beee495c0adfd28e56c49666ef888405a9caee9063e36cd2529fce67815561d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0.5",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.0.5.zip",
+                    "ipfs": "Qma2Up2RYBzYpUUhc1YAmi6XdGBtDxEtQR7VWEaVroQZWx",
+                    "hash": { "type": "sha256", "digest": "00e0632e62aed00835e02eef0a79c168f69098a5bc9cbdc7495b8ad67ba85246" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.0.5.zip",
+                    "ipfs": "QmXy4F918vDU4XCt4DKehUo69yWJ97ibZoFBiH1T9zvjK5",
+                    "hash": { "type": "sha256", "digest": "e531c205b8459ad67628978601e52d5d6dc56df62d932572458dc1028eda271b" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.0.5.zip",
+                    "ipfs": "QmTc8LGJEzvPGXuUxzTMuYZxZLbAmHGxEeE6PumFDnYzUz",
+                    "hash": { "type": "sha256", "digest": "90fefb70e0407f9f22007ada56a775483c947d2d56d545a3236fcf067838d0c3" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0.4",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.0.4.zip",
+                    "ipfs": "QmdUxu8H2wHRUGytaoZD1cG1zi1azCUVRo9ef5HN9Hb9h7",
+                    "hash": { "type": "sha256", "digest": "2700848c6e067d102177aaa8ade196940698596344c406714fd3bd1cfbdffa10" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.0.4.zip",
+                    "ipfs": "QmPQ25BCA1YQ2awM4zmWUwoBEt2Z2q1UeHmEPjxCzQj8Bt",
+                    "hash": { "type": "sha256", "digest": "4832265b342567284430d0bebfd50022a53973a93b732115d4a0cb8f2e4cb9ad" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.0.4.zip",
+                    "ipfs": "QmdEYLhrNr2qSFJXTqnUj752rjFYgBj5y4qAYn64QkTrw8",
+                    "hash": { "type": "sha256", "digest": "a1c72459301ef5e31f2c9073239fe62b671fcf8787f5c9dd2e136efa53a8e18f" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0.3",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.0.3.zip",
+                    "ipfs": "QmVrhAVRvhfFL4seT1UYWfGy3qnVFXr67iyhfYQKvnUSEA",
+                    "hash": { "type": "sha256", "digest": "48246421e0104551c9e7582822a89634916c38f656fb7d64560198384c779c1a" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.0.3.zip",
+                    "ipfs": "QmbXLktSLWavWFffNDJP9ntfdJwLjdQcrS41t2U7GUDnYZ",
+                    "hash": { "type": "sha256", "digest": "5fc4c60131292bce257c826c00fe50ef17287b4d894cfc3e2939fd669e227512" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.0.3.zip",
+                    "ipfs": "QmfPZMHWktsfwcFmzn5YBfZzuY9j1ivBpJfC7opoM8kLTo",
+                    "hash": { "type": "sha256", "digest": "62e6a83ae369cd3e9f6f64aa63bc26fee3aa89ae3cbcd04d668568ca6b72ba37" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0.2",
+			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.0.2.zip",
+                    "ipfs": "QmYNfgB2EcA9p8fMrjs4wcdaKdGhU7hyyat1gXByYwWVeL",
+                    "hash": { "type": "sha256", "digest": "e470cdb5674e7d71863047da7edbbcd0787e356f01152c928e078cf64b7f4d96" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.0.2.zip",
+                    "ipfs": "QmbQrHAVDUmEW8cZHdgMLcU4k3QjpFKpfitQco8PLuya35",
+                    "hash": { "type": "sha256", "digest": "50c33c91761eb96f2873c2419dbc59ea9b16448a9122443b6929d9186c28885f" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.0.2.zip",
+                    "ipfs": "QmNNaY5TmKA3ncyzCsqoEQCqReGxZPR3woQgG4Rz6fEVPc",
+                    "hash": { "type": "sha256", "digest": "e74d3a1ac021aa84d478fef134b42a9af56b379e0c57dd289bdbf3045db67c6d" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0.1",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.0.1.zip",
+                    "ipfs": "QmXRQqoqmRqQfvgjhrP8pdiom78wcLJ3B4HnuRaTpMusrg",
+                    "hash": { "type": "sha256", "digest": "bfa6c164e335cae4e063300d255d3a51e455355975001ce55b742249770e234d" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.0.1.zip",
+                    "ipfs": "QmTsbDZWfqLBy7UGhGrjoi766eNGFuN3Hbo9WxvkbMjssq",
+                    "hash": { "type": "sha256", "digest": "e9aaec82ec6a033b82a29dd2a310e6ee49a4bea9bd3d14a570ad3327b7ab4872" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.0.1.zip",
+                    "ipfs": "QmbL8WQKQKHcPzGbouSaZYgRfjvCjWK8QvmxGi43mGd571",
+                    "hash": { "type": "sha256", "digest": "a4eb71aab789be4df2733a90a2de0443082216af6c15a72e455afa07f55ae274" },
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "name": "1.0.0",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
+            "mcvsn": ["b1.7.3"],
+            "files": [
+                {
+                    "filename": "minecraftforge-client-1.0.0.zip",
+                    "ipfs": "QmdeuqgvJSnUCTDU9zcVFnogtQ76us1fYAUZDRGFJYF9Z6",
+                    "hash": { "type": "sha256", "digest": "1a141c9d6b11e9118559d9ff411db424c2b2b7b492e496fca1aad52dd5e10992" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-server-1.0.0.zip",
+                    "ipfs": "QmUJZtKcj1dNXW758aA1HSyNhMc6eBdEP9SoXXJKfDDFEc",
+                    "hash": { "type": "sha256", "digest": "e2a8f885e74f2e1de931cf16dbcdf116415a0b976610c8c5caa10cdeca84e6ce" },
+                    "urls": []
+                },
+                {
+                    "filename": "minecraftforge-src-1.0.0.zip",
+                    "ipfs": "QmcdBHyrmi26e3aiNuP6CTu4snEokUiGwB8PFeoN9ggChH",
+                    "hash": { "type": "sha256", "digest": "796db4c3f1ef149bc07eef376c162d80ec5ad3cb2ac7f6fc406562189094cffa" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
