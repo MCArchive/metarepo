@@ -1,12 +1,12 @@
 {
     "format": 1,
     "name": "Minecraft Forge",
-	"desc": "Modifications to the Minecraft base files to assist in compatibility between mods.",
+    "desc": "Modifications to the Minecraft base files to assist in compatibility between mods.",
     "authors": ["LexManos", "cpw", "Eloraam", "FlowerChild", "Hawkye", "MALfunction84", "Scokeev9", "SpaceToad"],
     "versions": [
         {
             "name": "14.21.1.2387",
-			"desc" : "Recommended build for 1.12.",
+            "desc" : "Recommended build for 1.12.",
             "mcvsn": ["1.12"],
             "files": [
                 {
@@ -35,9 +35,9 @@
                 }
             ]
         },
-	    {
+        {
             "name": "13.20.1.2386",
-			"desc" : "Recommended build for 1.11.2.",
+            "desc" : "Recommended build for 1.11.2.",
             "mcvsn": ["1.11.2"],
             "files": [
                 {
@@ -68,7 +68,7 @@
         },
         {
             "name": "13.20.0.2228",
-			"desc" : "Recommended build for 1.11.2.",
+            "desc" : "Recommended build for 1.11.2.",
             "mcvsn": ["1.11.2"],
             "files": [
                 {
@@ -99,7 +99,7 @@
         },
         {
             "name": "13.19.1.2189",
-			"desc" : "Recommended build for 1.11.",
+            "desc" : "Recommended build for 1.11.",
             "mcvsn": ["1.11"],
             "files": [
                 {
@@ -130,7 +130,7 @@
         },
         {
             "name": "12.18.3.2185",
-			"desc" : "Recommended build for 1.10.2.",
+            "desc" : "Recommended build for 1.10.2.",
             "mcvsn": ["1.10.2"],
             "files": [
                 {
@@ -161,7 +161,7 @@
         },
         {
             "name": "12.18.2.2097",
-			"desc" : "Recommended build for 1.10.2.",
+            "desc" : "Recommended build for 1.10.2.",
             "mcvsn": ["1.10.2"],
             "files": [
                 {
@@ -192,7 +192,7 @@
         },
         {
             "name": "12.18.1.2011",
-			"desc" : "Recommended build for 1.10.2.",
+            "desc" : "Recommended build for 1.10.2.",
             "mcvsn": ["1.10.2"],
             "files": [
                 {
@@ -223,7 +223,7 @@
         },
         {
             "name": "12.17.0.1987",
-			"desc" : "Recommended build for 1.9.4.",
+            "desc" : "Recommended build for 1.9.4.",
             "mcvsn": ["1.9.4"],
             "files": [
                 {
@@ -254,7 +254,7 @@
         },
         {
             "name": "12.16.1.1887",
-			"desc" : "Recommended build for 1.9.",
+            "desc" : "Recommended build for 1.9.",
             "mcvsn": ["1.9"],
             "files": [
                 {
@@ -285,7 +285,7 @@
         },
         {
             "name": "11.15.1.1722",
-			"desc" : "Recommended build for 1.8.9.",
+            "desc" : "Recommended build for 1.8.9.",
             "mcvsn": ["1.8.9"],
             "files": [
                 {
@@ -316,7 +316,7 @@
         },
         {
             "name": "11.14.4.1563",
-			"desc" : "Recommended build for 1.8.",
+            "desc" : "Recommended build for 1.8.",
             "mcvsn": ["1.8"],
             "files": [
                 {
@@ -347,7 +347,7 @@
         },
         {
             "name": "11.14.3.1450",
-			"desc" : "Recommended build for 1.8.",
+            "desc" : "Recommended build for 1.8.",
             "mcvsn": ["1.8"],
             "files": [
                 {
@@ -378,7 +378,7 @@
         },
         {
             "name": "11.14.0.1299",
-			"desc" : "Recommended build for 1.8.",
+            "desc" : "Recommended build for 1.8.",
             "mcvsn": ["1.8"],
             "files": [
                 {
@@ -421,7 +421,7 @@
         },
         {
             "name": "10.13.4.1448",
-			"desc" : "Recommended build for 1.7.10.",
+            "desc" : "Recommended build for 1.7.10.",
             "mcvsn": ["1.7.10"],
             "files": [
                 {
@@ -452,7 +452,7 @@
         },
         {
             "name": "10.13.2.1230",
-			"desc" : "Recommended build for 1.7.10.",
+            "desc" : "Recommended build for 1.7.10.",
             "mcvsn": ["1.7.10"],
             "files": [
                 {
@@ -495,7 +495,7 @@
         },
         {
             "name": "10.13.0.1180",
-			"desc" : "Recommended build for 1.7.10.",
+            "desc" : "Recommended build for 1.7.10.",
             "mcvsn": ["1.7.10"],
             "files": [
                 {
@@ -538,7 +538,7 @@
         },
         {
             "name": "10.12.2.1121",
-			"desc" : "Recommended build for 1.7.2.",
+            "desc" : "Recommended build for 1.7.2.",
             "mcvsn": ["1.7.2"],
             "files": [
                 {
@@ -581,7 +581,7 @@
         },
         {
             "name": "10.12.1.1060",
-			"desc" : "Recommended build for 1.7.2.",
+            "desc" : "Recommended build for 1.7.2.",
             "mcvsn": ["1.7.2"],
             "files": [
                 {
@@ -624,7 +624,7 @@
         },
         {
             "name": "10.12.0.1024",
-			"desc" : "Recommended build for 1.7.2.",
+            "desc" : "Recommended build for 1.7.2.",
             "mcvsn": ["1.7.2"],
             "files": [
                 {
@@ -667,7 +667,7 @@
         },
         {
             "name": "9.11.1.953",
-			"desc" : "Recommended build for 1.6.4.",
+            "desc" : "Recommended build for 1.6.4.",
             "mcvsn": ["1.6.4"],
             "files": [
                 {
@@ -698,7 +698,7 @@
         },
         {
             "name": "9.11.0.883",
-			"desc" : "Recommended build for 1.6.4.",
+            "desc" : "Recommended build for 1.6.4.",
             "mcvsn": ["1.6.4"],
             "files": [
                 {
@@ -729,7 +729,7 @@
         },
         {
             "name": "9.10.1.871",
-			"desc" : "Recommended build for 1.6.2.",
+            "desc" : "Recommended build for 1.6.2.",
             "mcvsn": ["1.6.2"],
             "files": [
                 {
@@ -760,7 +760,7 @@
         },
         {
             "name": "9.10.0.804",
-			"desc" : "Recommended build for 1.6.2.",
+            "desc" : "Recommended build for 1.6.2.",
             "mcvsn": [""],
             "files": [
                 {
@@ -785,7 +785,7 @@
         },
         {
             "name": "7.8.1.737",
-			"desc" : "Recommended build for 1.5.2. Library files included in fmllibs152.zip.",
+            "desc" : "Recommended build for 1.5.2. Library files included in fmllibs152.zip.",
             "mcvsn": ["1.5.2"],
             "files": [
                 {
@@ -822,7 +822,7 @@
         },
         {
             "name": "7.8.0.684",
-			"desc" : "Recommended build for 1.5.2. Library files included in fmllibs152.zip.",
+            "desc" : "Recommended build for 1.5.2. Library files included in fmllibs152.zip.",
             "mcvsn": ["1.5.2"],
             "files": [
                 {
@@ -859,7 +859,7 @@
         },
         {
             "name": "7.7.2.678",
-			"desc" : "Recommended build for 1.5.1. Library files included in fmllibs151.zip.",
+            "desc" : "Recommended build for 1.5.1. Library files included in fmllibs151.zip.",
             "mcvsn": ["1.5.1"],
             "files": [
                 {
@@ -890,7 +890,7 @@
         },
         {
             "name": "7.7.1.611",
-			"desc" : "Recommended build for 1.5.1. Library files included in fmllibs151.zip.",
+            "desc" : "Recommended build for 1.5.1. Library files included in fmllibs151.zip.",
             "mcvsn": ["1.5.1"],
             "files": [
                 {
@@ -921,7 +921,7 @@
         },
         {
             "name": "7.7.0.582",
-			"desc" : "Recommended build for 1.5. Library files included in fmllibs15.zip.",
+            "desc" : "Recommended build for 1.5. Library files included in fmllibs15.zip.",
             "mcvsn": ["1.5"],
             "files": [
                 {
@@ -952,7 +952,7 @@
         },
         {
             "name": "6.6.0.497",
-			"desc" : "Recommended build for 1.4.7. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.4.7. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.4.7"],
             "files": [
                 {
@@ -983,7 +983,7 @@
         },
         {
             "name": "6.5.0.467",
-			"desc" : "Recommended build for 1.4.6. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.4.6. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.4.6"],
             "files": [
                 {
@@ -1014,7 +1014,7 @@
         },
         {
             "name": "6.4.1.436",
-			"desc" : "Recommended build for 1.4.5. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.4.5. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.4.5"],
             "files": [
                 {
@@ -1045,7 +1045,7 @@
         },
         {
             "name": "6.3.0.372",
-			"desc" : "Recommended build for 1.4.4. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.4.4. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.4.4"],
             "files": [
                 {
@@ -1076,7 +1076,7 @@
         },
         {
             "name": "6.0.1.341",
-			"desc" : "Recommended build for 1.4.2. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.4.2. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.4.2"],
             "files": [
                 {
@@ -1107,7 +1107,7 @@
         },
         {
             "name": "4.2.5.303",
-			"desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.3.2"],
             "files": [
                 {
@@ -1138,7 +1138,7 @@
         },
         {
             "name": "4.1.1.251",
-			"desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.3.2"],
             "files": [
                 {
@@ -1163,7 +1163,7 @@
         },
         {
             "name": "4.0.0.200",
-			"desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Recommended build for 1.3.2. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.3.2"],
             "files": [
                 {
@@ -1188,7 +1188,7 @@
         },
         {
             "name": "4.0.0.182",
-			"desc" : "Development build for 1.3.1. Library files included in fmllibs13x_14x.zip",
+            "desc" : "Development build for 1.3.1. Library files included in fmllibs13x_14x.zip",
             "mcvsn": ["1.3.1"],
             "files": [
                 {
@@ -1219,7 +1219,7 @@
         },
         {
             "name": "3.4.9.171",
-			"desc" : "Final development build for 1.2.5.",
+            "desc" : "Final development build for 1.2.5.",
             "mcvsn": ["1.2.5"],
             "files": [
                 {
@@ -1244,7 +1244,7 @@
         },
         {
             "name": "3.3.7.135",
-			"desc" : "Recommended build for 1.2.5.",
+            "desc" : "Recommended build for 1.2.5.",
             "mcvsn": ["1.2.5"],
             "files": [
                 {
@@ -1269,7 +1269,7 @@
         },
         {
             "name": "3.2.3.108",
-			"desc" : "Recommended build for 1.2.5. Requires ModLoader.",
+            "desc" : "Recommended build for 1.2.5. Requires ModLoader.",
             "mcvsn": ["1.2.5"],
             "files": [
                 {
@@ -1294,7 +1294,7 @@
         },
         {
             "name": "3.1.2.90",
-			"desc" : "Recommended build for 1.2.5. Requires ModLoader.",
+            "desc" : "Recommended build for 1.2.5. Requires ModLoader.",
             "mcvsn": ["1.2.5"],
             "files": [
                 {
@@ -1319,7 +1319,7 @@
         },
         {
             "name": "3.0.1.75",
-			"desc" : "Recommended build for 1.2.5. Requires ModLoader.",
+            "desc" : "Recommended build for 1.2.5. Requires ModLoader.",
             "mcvsn": ["1.2.5"],
             "files": [
                 {
@@ -1369,7 +1369,7 @@
         },
         {
             "name": "2.0.0.65",
-			"desc" : "Development build for 1.2.4. Requires ModLoader and ModLoaderMP 1.2.4v1.",
+            "desc" : "Development build for 1.2.4. Requires ModLoader and ModLoaderMP 1.2.4v1.",
             "mcvsn": ["1.2.4"],
             "files": [
                 {
@@ -1394,7 +1394,7 @@
         },
         {
             "name": "1.4.1.64",
-			"desc" : "Development build for 1.2.3. Requires ModLoader and ModLoaderMP 1.2.3v3.",
+            "desc" : "Development build for 1.2.3. Requires ModLoader and ModLoaderMP 1.2.3v3.",
             "mcvsn": ["1.2.3"],
             "files": [
                 {
@@ -1419,7 +1419,7 @@
         },
         {
             "name": "1.4.0.44",
-			"desc" : "Development build for 1.2.3. Requires ModLoader and ModLoaderMP 1.2.3v3.",
+            "desc" : "Development build for 1.2.3. Requires ModLoader and ModLoaderMP 1.2.3v3.",
             "mcvsn": ["1.2.3"],
             "files": [
                 {
@@ -1444,7 +1444,7 @@
         },
         {
             "name": "1.3.4.29",
-			"desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
+            "desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
             "mcvsn": ["1.1"],
             "files": [
                 {
@@ -1469,7 +1469,7 @@
         },
         {
             "name": "1.3.3.12",
-			"desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
+            "desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
             "mcvsn": ["1.1"],
             "files": [
                 {
@@ -1494,7 +1494,7 @@
         },
         {
             "name": "1.3.2.1",
-			"desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
+            "desc" : "Recommended build for 1.1. Requires ModLoader and ModLoaderMP 1.1 v2/v2.1.",
             "mcvsn": ["1.1"],
             "files": [
                 {
@@ -1519,7 +1519,7 @@
         },
         {
             "name": "1.3.1",
-			"desc" : "Build for 1.1. Requires ModLoader and ModLoaderMP.",
+            "desc" : "Build for 1.1. Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.1"],
             "files": [
                 {
@@ -1544,7 +1544,7 @@
         },
         {
             "name": "1.3.0",
-			"desc" : "Build for 1.1. Requires ModLoader and ModLoaderMP.",
+            "desc" : "Build for 1.1. Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.1"],
             "files": [
                 {
@@ -1569,7 +1569,7 @@
         },
         {
             "name": "1.2.5",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.0.0"],
             "files": [
                 {
@@ -1594,7 +1594,7 @@
         },
         {
             "name": "1.2.4",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.0.0"],
             "files": [
                 {
@@ -1619,7 +1619,7 @@
         },
         {
             "name": "1.2.3",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.0.0"],
             "files": [
                 {
@@ -1644,7 +1644,7 @@
         },
         {
             "name": "1.2.2",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.0.0"],
             "files": [
                 {
@@ -1669,7 +1669,7 @@
         },
         {
             "name": "1.2.1",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.0.0"],
             "files": [
                 {
@@ -1694,7 +1694,7 @@
         },
         {
             "name": "1.2.0",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["1.0.0"],
             "files": [
                 {
@@ -1719,7 +1719,7 @@
         },
         {
             "name": "1.1.2",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.8.1"],
             "files": [
                 {
@@ -1744,7 +1744,7 @@
         },
         {
             "name": "1.1.1",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.8.1"],
             "files": [
                 {
@@ -1769,7 +1769,7 @@
         },
         {
             "name": "1.1.0",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.8.1"],
             "files": [
                 {
@@ -1794,7 +1794,7 @@
         },
         {
             "name": "1.0.6",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.7.3"],
             "files": [
                 {
@@ -1819,7 +1819,7 @@
         },
         {
             "name": "1.0.5",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.7.3"],
             "files": [
                 {
@@ -1844,7 +1844,7 @@
         },
         {
             "name": "1.0.4",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.7.3"],
             "files": [
                 {
@@ -1869,7 +1869,7 @@
         },
         {
             "name": "1.0.3",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.7.3"],
             "files": [
                 {
@@ -1894,7 +1894,7 @@
         },
         {
             "name": "1.0.2",
-			"desc" : "Requires ModLoader and ModLoaderMP.",
+            "desc" : "Requires ModLoader and ModLoaderMP.",
             "mcvsn": ["b1.7.3"],
             "files": [
                 {

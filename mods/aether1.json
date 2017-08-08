@@ -29,7 +29,7 @@
                 }
             ]
         },
-		{
+        {
             "name": "1.02",
             "desc": "ModLoader, AudioMod, ShockAhPI r5.1, and PlayerAPI are needed.",
             "mcvsn": ["b1.7.3"],
