@@ -572,6 +572,18 @@
                     "urls": []
                 }
             ]
+        },
+		{
+            "name": "1.1",
+            "mcvsn": ["a1.1.2_01"],
+            "files": [
+                {
+                    "filename": "ModLoader 1.1.rar",
+                    "ipfs": "QmW3kbCgq3aVkRa9HUYkKKt9QQcCW2DeUKUZkw2P6E3ENL",
+                    "hash": { "type": "sha256", "digest": "3b0a919bd74c09274d607707dae0c165682a2dab63fd91a6b27a98efcebe9b23" },
+                    "urls": []
+                }
+            ]
         }
     ]
 }
