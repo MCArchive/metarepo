@@ -492,6 +492,18 @@
                     "urls": []
                 }
             ]
+        },
+        {
+            "name": "1.0",
+            "mcvsn": ["a1.1.2_01"],
+            "files": [
+                {
+                    "filename": "AudioMod 1.0.rar",
+                    "ipfs": "QmeuiSpS9cNSTf4ViPs44XsNhv8hnWqoRR9YEs756zKULx",
+                    "hash": { "type": "sha256", "digest": "3dce95fbc7911098a24b68178c9fab5af7722c5accd1a9fa48ca835a36e401d7" },
+                    "urls": []
+                }
+            ]
         }
     ]
 }
