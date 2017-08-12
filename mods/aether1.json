@@ -37,7 +37,6 @@
                 {
                     "filename": "Aether 1.7.3 v1.02.zip",
                     "ipfs": "Qmd3kFFcCff9mRdboKJkCPJ3RZ8zRaEzZWkTpbTiubNrbp",
-                    "archived": "ce61528130eda2482d65ee0a6c50e810688563d2dc51acefd8076b0d2498d2b9/Aether 1.7.3 v1.02.zip",
                     "hash": { "type": "sha256", "digest": "ce61528130eda2482d65ee0a6c50e810688563d2dc51acefd8076b0d2498d2b9" },
                     "urls": []
                 }
@@ -51,7 +50,6 @@
                 {
                     "filename": "Aether 1.7.3 v1.01.zip",
                     "ipfs": "QmaxJQXgNaGobM5AgvtrgGjSkbExuy23SCGsgHGMEt5dJ4",
-                    "archived": "a6ea4d9447034d15805d529be681b193c1b5de30f5c4c2fefc0c77bd85dca40c/Aether 1.7.3 v1.01.zip",
                     "hash": { "type": "sha256", "digest": "a6ea4d9447034d15805d529be681b193c1b5de30f5c4c2fefc0c77bd85dca40c" },
                     "urls": []
                 }
@@ -65,7 +63,6 @@
                 {
                     "filename": "Aether 1.7.3 v1.00.zip",
                     "ipfs": "QmbPbzHKismnDt5YMSEHUcCcb4ez8KENg8xsvcNM4wKpcD",
-                    "archived": "52a3f0dcf71ea8e53928958052204256679fa53d9d37184c6a796c37706d69cd/Aether 1.7.3 v1.00.zip",
                     "hash": { "type": "sha256", "digest": "52a3f0dcf71ea8e53928958052204256679fa53d9d37184c6a796c37706d69cd" },
                     "urls": []
                 }

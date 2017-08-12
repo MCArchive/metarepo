@@ -11,7 +11,6 @@
                 {
                     "filename": "ee-v6.22.zip",
                     "ipfs": "QmUNkYq5biQB6UzZ57dKdhkcJLUg692HiAzPN7Wx7iJ2EM",
-                    "archived": "8dea804508b91c02d4f511b716f2d9021dd6c312b911eb8ad5b5926460ccaac9/ee-v6.22.zip",
                     "hash": { "type": "sha256", "digest": "8dea804508b91c02d4f511b716f2d9021dd6c312b911eb8ad5b5926460ccaac9" },
                     "urls": []
                 }
@@ -24,7 +23,6 @@
                 {
                     "filename": "ee-v6.18.zip",
                     "ipfs": "QmYMu7APzTRLTi82fiKnprqYs5Gr5WsA58tDQTvaPEWiAc",
-                    "archived": "81bb54afb21091742287e441c2cc1ab134281e49277e8e9e352352369a05e719/ee-v6.18.zip",
                     "hash": { "type": "sha256", "digest": "81bb54afb21091742287e441c2cc1ab134281e49277e8e9e352352369a05e719" },
                     "urls": []
                 }
@@ -37,7 +35,6 @@
                 {
                     "filename": "ee-v5.7.3.zip",
                     "ipfs": "QmU8PT3t5oBCuHDWoScc7bueTQxsEjAiXJiuCgBB1jPP1Q",
-                    "archived": "f3a7b469e5d7cb0b8482005b011d5daec31a5c7c16eae261ab990ff056b7d6e6/ee-v5.7.3.zip",
                     "hash": { "type": "sha256", "digest": "f3a7b469e5d7cb0b8482005b011d5daec31a5c7c16eae261ab990ff056b7d6e6" },
                     "urls": []
                 }
@@ -51,7 +48,6 @@
                 {
                     "filename": "ee-v3.53.zip",
                     "ipfs": "QmWD4ubfrL6YVZF1eiv5VoH6QboqPmvKbwwn3f9WngdPo1",
-                    "archived": "894a8407b80e90772e46199f75ba05f0eda095ead4bb7173e4c4d4f0d57a8e0e/ee-v3.53.zip",
                     "hash": { "type": "sha256", "digest": "894a8407b80e90772e46199f75ba05f0eda095ead4bb7173e4c4d4f0d57a8e0e" },
                     "urls": []
                 }
@@ -65,7 +61,6 @@
                 {
                     "filename": "ee-v2.08b.zip",
                     "ipfs": "QmV6x2kRgcftJs5X8Z9WMrNuiFUHg1WVwapWU9b1rTTh8m",
-                    "archived": "fdb6a12235f6cbdf2f1a2f8e5b30ea4f9f1acde7367beec07857506cb7d0ccd5/ee-v2.08b.zip",
                     "hash": { "type": "sha256", "digest": "fdb6a12235f6cbdf2f1a2f8e5b30ea4f9f1acde7367beec07857506cb7d0ccd5" },
                     "urls": []
                 }
@@ -79,7 +74,6 @@
                 {
                     "filename": "ee-v1.15.zip",
                     "ipfs": "QmQN4VgY9P46ZBhHAHA6XpvBtFZKFBWmrTGDC3u5e2oAgf",
-                    "archived": "e58565b1e0fba6b40147e64716aaf3917ce14aaa71dd9c63d2e97719da1d881e/ee-v1.15.zip",
                     "hash": { "type": "sha256", "digest": "e58565b1e0fba6b40147e64716aaf3917ce14aaa71dd9c63d2e97719da1d881e" },
                     "urls": []
                 }
