@@ -10,6 +10,7 @@
             "files": [
                 {
                     "filename": "mod_Fossil.zip",
+					"ipfs": "QmYT6vRJi6e87ES2cyxdoEs8aH58RmXtZjcomV31vMF3qu"
                     "hash": { "type": "sha256", "digest": "162cdb138c7a1824fa25e3435f0cac7c6a3f2dfd647c066c4875c61d1656bc73" },
                     "urls": []
                 }
