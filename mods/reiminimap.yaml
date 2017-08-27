@@ -122,3 +122,21 @@ versions:
       type: sha256
       digest: 8146632e74c013df3b55e9cb423784c4d2d581504d77bab7cf97a7b08d162a19
     urls: []
+- name: '1.8'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: '[1.7.3]ReiMinimap_v1.8.zip'
+    ipfs: QmSFFWQuzjNxX7bJDWN8LD8xZWd74amybPoY5kCjRfPQ4i
+    hash:
+      type: sha256
+      digest: f6869ff3e276d4083d5217c8d1d573bcad22b68d69b30bba7e871721650ebe08
+    urls: []
+- name: '1.0'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: '[1.7.3]ReiMinimap_v1.0.zip'
+    ipfs: QmVUyvRbMJ78Yd4S9kuA72HUuPykevdWx1TFxozqcpTfJC
+    hash:
+      type: sha256
+      digest: 34b7a9871cdc62927ce3a0bc640f3698c07d0016cb7cba2ff747e441b78c9c02
+    urls: []
