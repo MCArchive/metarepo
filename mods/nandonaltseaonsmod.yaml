@@ -3,6 +3,7 @@ name: Seasons Mod
 authors: [Nandonalt]
 desc: |
   This is the Seasons Mod. A mod that adds the four seasons to Minecraft, each one with its own features(and danger!)
+  
   This requires ModLoader along with ScotTools or ShockAhPI.
 versions:
 - name: '1.34'
