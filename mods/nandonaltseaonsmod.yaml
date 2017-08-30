@@ -1,0 +1,17 @@
+format: 1
+name: Seasons Mod
+authors: [Nandonalt]
+desc: |
+  This is the Seasons Mod. A mod that adds the four seasons to Minecraft, each one with its own features(and danger!)
+  
+  This requires ModLoader along with ScotTools or ShockAhPI.
+versions:
+- name: '1.34'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'Seasons Mod - Nandonalt (v1.34).rar'
+    ipfs: QmcZc71kQjvw7mMCoSJPMk7DKHmruyx3nhhghqJL4XJje3
+    hash:
+      type: sha256
+      digest: cb20c9feeedf5f5881ac78a533e42a7fc3a873990a9cbfb07f6829a8faa5e901
+    urls: []
