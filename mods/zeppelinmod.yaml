@@ -1,0 +1,144 @@
+format: 1
+name: Zeppelin
+authors: [blakmajik]
+desc: |
+  Zeppelin is a mod you can use to fly ships around in the Minecraft world. It is not limited to the world grid, and can move freely in space.
+
+  This mod requires ModLoader.
+versions:
+- name: '1.2.5.0.31'
+  mcvsn: [1.2.5]
+  desc: |
+    Installation of 0.31 requires you to extract wu.class from the mod_Zeppelin-client-1.2.5.0.31.zip and place it in your minecraft.jar. 
+
+    You should add wu.class as a JarMod if you are using MultiMC.
+  files:
+  - filename: 'mod_Zeppelin-client-1.2.5.0.31.zip'
+    ipfs: QmU6Gyo4Qoub2qNJr23N3tZdokdc6zzGhaZmGdJBWLktoU
+    hash:
+      type: sha256
+      digest: bc1e41b6cb7d2c4538be700eece6b7f23e21395cf0aa7b7cc3fff97c23f117c7
+    urls: []
+  - filename: 'mod_Zeppelin-guiControls-1.2.5.0.31.zip'
+    ipfs: Qmcwc6EoBsmXVjDaKQJ5A6eZiQWRA24x2muUAWbRHoSheS
+    hash:
+      type: sha256
+      digest: cfe432593c80ddde01c61b7feccb0a84850018ce4322747d47a59a260ed28f20
+    urls: []
+- name: '1.7.3.0.13'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.13.zip'
+    ipfs: QmVbH5NT1kNU4X3Aus1J3XrYgEp22cXoEwGZmrL85hojt8
+    hash:
+      type: sha256
+      digest: a6932940d8c3e4a33c4d79687dd6110e286cbcc00682841113449283af73a3c0
+    urls: []
+- name: '1.7.3.0.12'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.12.zip'
+    ipfs: QmY5KUsgV2aDJ6E8LGpewvmEGJMVnWWwjnMh9qjXRtuhR8
+    hash:
+      type: sha256
+      digest: 7a8361461f3e4cc35c024bc43215b7704789877df6317de9d3b107c5b9a6db07
+    urls: []
+- name: '1.7.3.0.11'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.11.zip'
+    ipfs: QmYaezQ49dqzcaUj4fr9yFhC5UwM7YvBNv8HP3mZwK5V4M
+    hash:
+      type: sha256
+      digest: 25cb7716253677e9f41e90b793c85b2500b1afd9cdec3df0889f7ddb8a893577
+    urls: []
+- name: '1.7.3.0.10'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.10.zip'
+    ipfs: QmbdhjRgHVVJ6ZEPfPYmQi3VTMV82ySeFGKtSL7tXvrLbV
+    hash:
+      type: sha256
+      digest: e6be16dab9f212e887359ae9d1f6dda39f11af7b8a6d4cc04368ebfbad604aef
+    urls: []
+- name: '1.7.3.0.9'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.9.zip'
+    ipfs: QmP9jXP4JvvQqhex1a7qpDH3PvnQ23GfLMdusWaCmjZcL1
+    hash:
+      type: sha256
+      digest: 3a63e0588f76aa35efb23a71b9e54f6b43be741a1c012a489fb8511bfa05d88a
+    urls: []
+- name: '1.7.3.0.8'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.8.zip'
+    ipfs: QmVxTYU1XVy7x7VVSFo9wfYnJwD9jy1P15Syj8Z6DB8Xni
+    hash:
+      type: sha256
+      digest: e1ba49d2cf2d1afb091019041c693380ca002b789936ad510896eed49f51ca3d
+    urls: []
+- name: '1.7.3.0.7'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.7.zip'
+    ipfs: QmYkT66TjRp8742yqoSreYM72FJTzMM2mcaBogzDABrvbR
+    hash:
+      type: sha256
+      digest: e767c38e1eb031a8e20ced813e08caeacdbfe1ca11e4542e4e91881bb3d2fd81
+    urls: []
+- name: '1.7.3.0.6'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.6.zip'
+    ipfs: QmW2Vj4NFu7PLqPs53W1pWixn2vKmactBfS7f635Vkhhyp
+    hash:
+      type: sha256
+      digest: 310461f2e97dbe3a0942c84a24b1dee88a314bd919317bc1580f224f66bf98c6
+    urls: []
+- name: '1.7.3.0.5'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.5.zip'
+    ipfs: QmSwNZGJisaaynp6cfozRmUMU7N1QHdm8N21QCPicrmg49
+    hash:
+      type: sha256
+      digest: 3520e684a4897955b4014011ddd2bdaeadc310dd42fefdb276e151249a918ac8
+    urls: []
+- name: '1.7.3.0.4'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.4.zip'
+    ipfs: QmUVPpyfJpyHpqD4cSfWSVV1BjVzKD5NfoRZaPdNWxSAuc
+    hash:
+      type: sha256
+      digest: b65ffd6d5618a6b650ec53cd7d119248ce2c253df050109b7173e51202855dac
+    urls: []
+- name: '1.7.3.0.3'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.3.zip'
+    ipfs: Qmed4f4QJTGcTq5eS6NjYnfgHAQqQHdXDNep1Riqh1PBDn
+    hash:
+      type: sha256
+      digest: af264152aa4314d6755520702328e940f897a2b8436983da36cd5e127ffe9b29
+    urls: []
+- name: '1.7.3.0.2'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.2.zip'
+    ipfs: QmWn2odaW6cU5dhfqB5hjzTAaLPidybGtMfSPiS75mLpQQ
+    hash:
+      type: sha256
+      digest: 9d0939c6b52484154ba190026c456af412191d611566460f5aa969540b8da54c
+    urls: []
+- name: '1.7.3.0.1'
+  mcvsn: [b1.7.3]
+  files:
+  - filename: 'mod_Zeppelin-client-1.7.3.0.1.zip'
+    ipfs: Qmf7MhdkBXWjzw3FMQQ3LiyEq52yM7PCbvtw1DaZiGQ937
+    hash:
+      type: sha256
+      digest: 7d5ff6b7e935b9f072768cfd6f928cb322699fe58076cc0b9c95d05b7afe7b90
+    urls: []
