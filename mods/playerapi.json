@@ -23,8 +23,9 @@
             "mcvsn": ["1.0.0"],
             "files": [
                 {
-                    "filename": "MC_1.0.0_-_Player_API_client_1.6.zip",
-                    "hash": { "type": "sha256", "digest": "1ced2b7ee8dbc803799ac8b992ff0fb5d4b61849e0623d4df55657e04faee281" },
+                    "filename": "MC 1.0.0 - Player API client 1.6.zip",
+                    "ipfs": "QmVo4PKX7fKBXeTCZXy7gyT89pXHBzd6oqDV5QECqQnnL6",
+                    "hash": { "type": "sha256", "digest": "f6d9d4c66c6d90d4a793173f0c0aa9e70d2bb83ba649b6f5e1be9fe988d25c8d" },
                     "urls": [
                         { "type": "page", "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-player-api" },
                         { "type": "original", "url": "https://www.dropbox.com/sh/wfd5j8p3hp6rhmd/AACRgjxNT176S1cma_MijD_Fa?preview=MC%201.0.0%20-%20Player%20API%20client%201.6.zip" }
