@@ -201,32 +201,6 @@ versions:
       url: http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2872054-alpha-1-2-2-beta-1-7-3-bitdepthfix-do-your-clouds
     - type: original
       url: https://mega.nz/#!lGBiVDCK!I8o2SfluKpbBhj1-tLFiTXRDSI-N9h-vEFcOp6QV0uE
-- name: BitDepthFix b1.1-2
-  mcvsn: [b1.1-2]
-  files:
-  - filename: BitDepthFix b1.1-2.zip
-    ipfs: QmY72V1GirCxy2owi6qggrcgtY1WsR8ieaTxW5Z6yd6xFS
-    hash:
-      type: sha256
-      digest: 398477B6F84AB469C36DE6D02555D495C50153B3FAE1022E70F5BE2BC9CF0012
-    urls:
-    - type: page
-      url: http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2872054-alpha-1-2-2-beta-1-7-3-bitdepthfix-do-your-clouds
-    - type: original
-      url: https://mega.nz/#!lGBiVDCK!I8o2SfluKpbBhj1-tLFiTXRDSI-N9h-vEFcOp6QV0uE
-- name: BitDepthFix b1.1-1
-  mcvsn: [b1.1-1]
-  files:
-  - filename: BitDepthFix b1.1-1.zip
-    ipfs: Qmb2tJFH9KDTXWGQR1b1EmZJhBkKaKgi8TiUWHY64CT6Dv
-    hash:
-      type: sha256
-      digest: FCE8F0C2566FBEB03CFA1CF787E4F2D05D7021098AB526941FEBB21AD3B17BD9
-    urls:
-    - type: page
-      url: http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2872054-alpha-1-2-2-beta-1-7-3-bitdepthfix-do-your-clouds
-    - type: original
-      url: https://mega.nz/#!lGBiVDCK!I8o2SfluKpbBhj1-tLFiTXRDSI-N9h-vEFcOp6QV0uE
 - name: BitDepthFix a1.2.6.zip
   mcvsn: [a1.2.6]
   files:
