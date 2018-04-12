@@ -51,99 +51,19 @@
                 }
             ]
         },
-        {
-    "format": 1,
-    "name": "PlasticCraft",
-    "authors": [
-        "TehKrush"
-    ],
-    "versions": [
-        {
-            "name": "3.0.2",
-            "mcvsn": [
-                "1.1"
-            ],
-            "files": [
                 {
-                    "filename": "PlasticCraft (v3.0.2).zip",
-                    "ipfs": "QmPLZ6TLXXFxP3cmS2ch2Atig1hEuTUYYwFgdbZgFPJLoG",
-                    "hash": {
-                        "type": "sha256",
-                        "digest": "b535df860b295ccf5cbe191190c8540cc93b7d5c09522693805250f56f09d7c5"
-                    },
-                    "urls": []
-                }
-            ]
-        },
-        {
-            "name": "2.3",
-            "mcvsn": [
-                "1.0.0"
-            ],
-            "files": [
-                {
-                    "filename": "PlasticCraft (v2.3).zip",
-                    "ipfs": "QmRnfDQSPYGDZKg5joP3wjoUPaFtToUF8LSDQeYuPne9HC",
-                    "hash": {
-                        "type": "sha256",
-                        "digest": "9414eba329f9858f1c519c2a3135228897d0a6652e56e09e17b9d783cfa3f123"
-                    },
-                    "urls": []
-                }
-            ]
-        },
-        {
-            "name": "2.1.3",
-            "mcvsn": [
-                "b1.7.3"
-            ],
-            "files": [
-                {
-                    "filename": "PlasticCraft (v2.1.3).zip",
-                    "ipfs": "QmZACNZ7buazdT5GLhPAvNfTYiUDkcrkoH3MR189zqUBku",
-                    "hash": {
-                        "type": "sha256",
-                        "digest": "77fa2e90e435536f3506c3af8f6fad72c11969e54be5c0723a159676625f5c46"
-                    },
-                    "urls": []
-                }
-            ]
-        },
-        {
-            "name": "1.5.7",
-            "mcvsn": [
-                "b1.5_01"
-            ],
-            "files": [
-                {
-                    "filename": "PlasticCraft (v1.5.7).zip",
-                    "ipfs": "QmPf8qPRDeTKFsp7Km1DdShfFPZZKWDaWKk27wybrorqxS",
-                    "hash": {
-                        "type": "sha256",
-                        "digest": "e87b5a39099962cf093d42e38e4872b48aeef68ccb5e9392266ab0fdff652d0c"
-                    },
-                    "urls": []
-                }
-            ]
-        },
-        {
             "name": "1.3",
-            "mcvsn": [
-                "b1.2_02"
-            ],
+            "mcvsn": ["b1.2_02"],
             "files": [
                 {
                     "filename": "PlasticCraft (v1.3).zip",
                     "ipfs": "QmPHAbrXNJ51Vc3Q1cteaMgBTGXtxBoLXyBycfEQNpDaZN",
-                    "hash": {
-                        "type": "sha256",
-                        "digest": "97E5A5AC608E90CB1A7A0869C51F0F6F2F56B58E17E856EF58436F9496C6A85A"
+                    "hash": {"type": "sha256","digest": "97E5A5AC608E90CB1A7A0869C51F0F6F2F56B58E17E856EF58436F9496C6A85A"
                     },
                     "urls": []
                 }
             ]
         }
-    ]
-}
+
     ]
 }
