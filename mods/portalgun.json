@@ -1,0 +1,21 @@
+{
+    "format": 1,
+    "name": "PortalGun",
+    "authors": ["iChun"],
+    "desc": "Adds the Portal Gun, as well as several other portal-related aspects, to Minecraft!",
+    "versions": [
+        {
+            "name": "b1.7.3_v5",
+            "mcvsn": ["b1.7.3"],
+            "desc": "Contains both Client and Server (Vanilla & Bukkit) files. Client requires ModLoader, ModLoaderMP, and AudioMod. Server requires ModLoaderMP.",
+            "files": [
+                {
+                    "filename": "1.7.3_PortalGun_v5.zip",
+                    "ipfs": "QmamoEdB2mrDYtGMzQoUhmTHFozS1RksXB5V1xHDXauqiy",
+                    "hash": { "type": "sha256", "digest": "b8a10229fd385bb055c150cdc5fdbeac5f18c836a4105e4358f7a6c34c4026e3" },
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
